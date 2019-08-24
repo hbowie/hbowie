@@ -11,8 +11,8 @@
 <?if =$item-count$= le 10 ?>
 	<item>
 	  <title>=$title&x$=</title>
-	  <link>https://hbowie.net/=$date&yyyy/$=/=$date&MM$=/=$date&dd$=/=$title&f$=.html</link>
-	  <guid>https://hbowie.net/=$date&yyyy/$=/=$date&MM$=/=$date&dd$=/=$title&f$=.html</guid>
+	  <link>https://hbowie.net/=$date&yyyy$=/=$date&MM$=/=$date&dd$=/=$title&f$=.html</link>
+	  <guid>https://hbowie.net/=$date&yyyy$=/=$date&MM$=/=$date&dd$=/=$title&f$=.html</guid>
 	  <pubdate>=$date&EEE, dd MMM yyyy$= 12:00:00 -0700</pubdate>
 	  <description>
 	  	=$teaser&xo$=
