@@ -1,0 +1,6 @@
+Title:  Seattle Times
+
+Tags:   Favorites.News, News
+
+Link:   http://www.seattletimes.com/
+

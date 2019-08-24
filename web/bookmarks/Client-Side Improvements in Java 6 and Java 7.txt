@@ -1,0 +1,6 @@
+Title:  Client-Side Improvements in Java 6 and Java 7
+
+Tags:   Computing.Development.Java
+
+Link:   http://www.oracle.com/technetwork/articles/java/javaclient-484666.html
+

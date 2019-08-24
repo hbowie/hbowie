@@ -1,0 +1,6 @@
+Title:  CNET News.com
+
+Tags:   News.Tech
+
+Link:   http://news.cnet.com/
+

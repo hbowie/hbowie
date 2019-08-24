@@ -1,0 +1,6 @@
+Title:  How do I detect an iPhone user coming to my site? :: Free Tech Support from Ask Dave Taylor!
+
+Tags:   Computing.Development.Web.Mobile
+
+Link:   http://www.askdavetaylor.com/detect_apple_iphone_user_web_site_server.html
+

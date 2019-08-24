@@ -1,0 +1,6 @@
+Title:  Java Docs SE7
+
+Tags:   Computing.Development.Java, Favorites.Programming
+
+Link:   http://localhost/~hbowie/javadocs/se7docs/
+

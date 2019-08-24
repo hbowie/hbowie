@@ -1,0 +1,6 @@
+Title:  Doug Lea Java Coding Standards
+
+Tags:   Computing.Development.Java.Coding Standards
+
+Link:   http://g.oswego.edu/dl/html/javaCodingStd.html
+

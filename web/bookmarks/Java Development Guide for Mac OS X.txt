@@ -1,0 +1,6 @@
+Title:  Java Development Guide for Mac OS X
+
+Tags:   Computing.Development.Java.Mac
+
+Link:   http://developer.apple.com/mac/library/documentation/Java/Conceptual/Java14Development/00-Intro/JavaDevelopment.html
+

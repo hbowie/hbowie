@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>com.powersurgepub.pspub.PublishWindow properties</comment>
+<entry key="publish-template"/>
+<entry key="publish-script"/>
+<entry key="publish-when">On Demand</entry>
+<entry key="publish-url"/>
+<entry key="publish-templates">/Users/hbowie/Projects/Notenik/templates</entry>
+<entry key="publish-to">/Users/hbowie/Sites/herbbowie/bookmarks</entry>
+</properties>

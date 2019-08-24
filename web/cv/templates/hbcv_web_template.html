@@ -1,0 +1,119 @@
+<?output "../herb_bowie_cv_web.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+	<title>Curriculum Vitae for Herb Bowie | Web Technology</title>
+	<link rel=stylesheet href="styles.css">
+</head>
+<body>
+<h1>Curriculum Vitae for Herb Bowie</h1>
+
+<table border="0" width="100%" cellspacing="4" cellpadding="4">
+  <colgroup>
+    <col width=20>
+    <col width=20>
+    <col valign=top nowrap>
+    <col width=20>
+    <col>
+    <col width=10>
+  </colgroup>
+
+  <tr>
+    <td colspan=6 height=4>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=5 class=type>
+      Web Technology View
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td colspan=4 valign=top>
+      Other Views:
+    </td>
+    <td colspan=1>
+      <a href="herb_bowie_cv.html">Comprehensive</a> <br>
+      <a href="herb_bowie_cv_it.html">Corporate IT</a> <br>
+      <a href="herb_bowie_cv_mgmt.html">Management</a> <br>
+      <a href="herb_bowie_cv_sd.html">Software Development</a> <br>
+      <a href="herb_bowie_cv_wep.html">Writing, Editing &amp; Publishing</a>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td colspan=6 height=4>
+    </td>
+  </tr>
+
+<?nextrec?>
+<?definegroup 1 "=$type$="?>
+<?definegroup 2 "=$institution$="?>
+<?definegroup 3 "=$timeframe$="?>
+<?set years = ""?>
+<?ifendgroup 3?>
+<?ifendgroup 2?>
+<?ifendgroup 1?>
+<?ifnewgroup 1?>
+  <tr>
+    <td colspan=6 height=4>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=5 class=type>
+      =$type$=
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+<?ifnewgroup 2?>
+  <tr>
+    <td colspan=6 height=2>
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan=4 class=institution>
+      =$institution$=
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+<?ifnewgroup 3?>
+<?set years = "=$timeframe$="?>
+<?endif?>
+  <tr>
+<?if "=$seq$=" = "A"?>
+    <td colspan=4>
+      <img src="herb.jpg" alt="Herb Bowie" hspace="2" vspace="2" border="3" align="left" />
+    </td>
+<?endif?>
+<?if "=$seq$=" > "A"?>
+    <td colspan=2>&nbsp;</td>
+    <td valign=top nowrap>=$years$=</td>
+    <td>&nbsp;</td>
+<?endif?>
+<?if =$webtechnology$= >= 1?>
+    <td class=focus>
+<?endif?>
+<?if =$webtechnology$= < 1?>
+    <td class=nofocus>
+<?endif?>
+      =$text$=
+<?if "=$weblink$="?>
+<?if =$webtechnology$= >= 1?>
+    <br><<a target=aux href="=$weblink$=">Link</a>>
+<?endif?>
+<?if =$webtechnology$= < 1?>
+    <br><<a class=nofocus target=aux href="=$weblink$=">Link</a>>
+<?endif?>
+<?endif?>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+<?loop?>
+</table>
+
+</body>
+</html>

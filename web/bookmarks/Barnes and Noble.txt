@@ -1,0 +1,6 @@
+Title:  Barnes & Noble
+
+Tags:   Shopping.Books
+
+Link:   http://www.barnesandnoble.com/
+

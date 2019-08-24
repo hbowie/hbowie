@@ -1,0 +1,6 @@
+Title:  Open Source Mac
+
+Tags:   Computing.Apple.Software
+
+Link:   http://www.opensourcemac.org
+

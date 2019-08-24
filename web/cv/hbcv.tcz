@@ -1,0 +1,24 @@
+module	action	modifier	object	value
+input	set		normalization	0
+input	open	xls		#PATH#hbcv.xls
+sort	add	Ascending	Seq	
+sort	add	Descending	Timeframe	
+sort	add	Descending	Institution	
+sort	set		params	
+template	open	file		#PATH#templates/hbcv_complete_template.html
+template	generate		
+template	open	file		#PATH#templates/hbcv_template.html
+template	generate			
+template	open	file		#PATH#templates/hbcv_it_template.html
+template	generate			
+template	open	file		#PATH#templates/hbcv_sd_template.html
+template	generate			
+template	open	file		#PATH#templates/hbcv_wep_template.html
+template	generate			
+template	open	file		#PATH#templates/hbcv_web_template.html
+template	generate		
+template	open	file		#PATH#templates/hbcv_mgmt_template.html
+template	generate		
+template	open	file		#PATH#templates/hbcv_template.txt
+template	generate		
+

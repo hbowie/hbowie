@@ -1,0 +1,6 @@
+Title:  The SeaMonkey Project
+
+Tags:   Computing.Software.Web
+
+Link:   http://www.seamonkey-project.org/
+

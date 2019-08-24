@@ -1,0 +1,12 @@
+Title:  nvALT
+
+Tags:   Computing.Writing
+
+Link:   http://brettterpstra.com/projects/nvalt/
+
+Body:   
+ 
+nvALT 2 is a fork of the original Notational Velocity with some additional features and interface modifications, including MultiMarkdown functionality. It has been developed by Elastic Threads (David Halter) and Brett Terpstra, and made available for free (donations accepted).
+Notational Velocity is a way to take notes quickly and effortlessly using just your keyboard. You press a shortcut to bring up the window and just start typing. It will begin searching existing notes, filtering them as you type.
+
+

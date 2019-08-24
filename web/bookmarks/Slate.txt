@@ -1,0 +1,11 @@
+Title:  Slate
+
+Tags:   News
+
+Link:   http://www.slate.com
+
+Body:   
+ 
+Summary of headline stories from various newspapers
+
+

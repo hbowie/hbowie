@@ -1,0 +1,6 @@
+Title:  Scott W. Ambler Java Coding Standards
+
+Tags:   Computing.Development.Java.Coding Standards, Invalid URL
+
+Link:   http://www.ambysoft.com/javaCodingStandards.html
+

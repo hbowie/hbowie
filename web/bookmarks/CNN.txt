@@ -1,0 +1,6 @@
+Title:  CNN.com
+
+Tags:   News
+
+Link:   http://www.cnn.com/
+

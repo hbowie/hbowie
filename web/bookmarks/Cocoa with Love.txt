@@ -1,0 +1,11 @@
+Title:  Cocoa with Love
+
+Tags:   Computing.Development.Apple.Cocoa
+
+Link:   http://cocoawithlove.com/
+
+Body:   
+ 
+Matt Gallagher's blog on Mac Cocoa programming
+
+

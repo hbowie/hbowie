@@ -1,0 +1,6 @@
+Title:  Developer ID and Gatekeeper
+
+Tags:   Computing.Development.Apple.Mac
+
+Link:   https://developer.apple.com/resources/developer-id/
+

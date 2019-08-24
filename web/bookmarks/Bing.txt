@@ -1,0 +1,6 @@
+Title:  Bing
+
+Tags:   Reference.Search
+
+Link:   http://www.bing.com
+

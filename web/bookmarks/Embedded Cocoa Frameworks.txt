@@ -1,0 +1,6 @@
+Title:  Embedded Cocoa Frameworks
+
+Tags:   Computing.Development.Apple.Cocoa, Invalid URL
+
+Link:   http://rentzsch.com/cocoa/embeddedFrameworks
+

@@ -1,0 +1,6 @@
+Title:  CNET
+
+Tags:   Computing.News
+
+Link:   http://cnet.com
+

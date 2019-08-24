@@ -1,0 +1,6 @@
+Title:  A Case for Responsive Résumés
+
+Tags:   Computing.Development.Web
+
+Link:   http://alistapart.com/article/a-case-for-responsive-resumes
+

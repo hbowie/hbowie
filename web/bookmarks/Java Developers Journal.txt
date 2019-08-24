@@ -1,0 +1,6 @@
+Title:  Java Developer's Journal
+
+Tags:   Computing.Development.Java
+
+Link:   http://java.sys-con.com/
+

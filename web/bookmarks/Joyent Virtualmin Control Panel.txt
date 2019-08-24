@@ -1,0 +1,6 @@
+Title:  Joyent Virtualmin Control Panel
+
+Tags:   Computing.Web.Hosting
+
+Link:   https://virtualmin.joyent.us/prospect/
+

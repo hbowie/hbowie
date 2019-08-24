@@ -1,0 +1,6 @@
+Title:  Joyent
+
+Tags:   Computing.Web.Hosting
+
+Link:   http://www.joyentcloud.com/
+

@@ -1,0 +1,11 @@
+Title:  Java Docs SE6
+
+Tags:   Computing.Development.Java
+
+Link:   http://localhost/~hbowie/javadocs/se6docs/
+
+Body:   
+ 
+Local copy of Java SE6 Docs
+
+

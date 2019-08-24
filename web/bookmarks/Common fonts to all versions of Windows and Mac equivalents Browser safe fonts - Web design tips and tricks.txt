@@ -1,0 +1,6 @@
+Title:  Common fonts to all versions of Windows & Mac equivalents (Browser safe fonts) - Web design tips & tricks
+
+Tags:   Computing.Development.Web.Typography
+
+Link:   http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html
+

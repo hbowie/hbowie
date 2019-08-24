@@ -1,0 +1,111 @@
+Curriculum Vitae for Herb Bowie
+===============================
+ 
+
+Contact Information
+--------------------------------
+
+Herb Bowie <br />Seattle, WA  USA <br /><a href="mailto:hbowie@mac.com">hbowie@mac.com</a>
+http://www.linkedin.com/in/herbbowie
+
+Overview
+--------------------------------
+
+A history of increasing responsibility in Software Development, including experience as programmer, analyst, project manager, first level manager,  department manager and process manager. Knowledge of Software Engineering Institute's Software Capability Maturity Model and People Capability Maturity Model, along with lean and agile approaches to software development. Proven ability to achieve high levels of customer and employee satisfaction, and to develop and execute strategic plans for organizational growth
+
+Work Experience
+--------------------------------
+
+Boeing
+2012 - Present:
+Manager of the New Wiring System development team.
+2010 - Present:
+Application Domain Manager for CAD/CAM systems.
+2004 - 2010:
+Sr. Manager of IT Software Engineering Process Group. Led an effort to help roughly 6,000 developers move towards CMMI level 3, with 65 people as part of my SEPG group. Led the effort to migrate our software development process content to a Confluence site. This site has become the most widely used Confluence site within Boeing, and is often cited as an example of Confluence best practices.
+1999 - 2004:
+Department Manager for Applications Development in Mesa, AZ, with five managers and 70-80 developers in my department. Accomplishments included successful Y2K transition, achievement of SEI  Software CMM Level 3, SEI People CMM Level 2, industry-leading employee satisfaction, continuously improving departmental performance, as measured by customer satisfaction surveys and other metrics, successful transition from legacy COBOL to Java Web development, and successful application of agile techniques.
+McDonnell Douglas
+1990 - 1999:
+Applications manager responsible for Configuration Management, Quality Assurance, and Environmental Safety systems, with 10 - 20 direct reports.
+1986 - 1990:
+Project Manager and System Architect for multiple systems supporting Engineering and Manufacturing.
+Hughes Helicopters
+1983 - 1986:
+Applications developer, doing analysis, database design, online and batch coding, and documentation. Programming using COBOL and CICS using IDMS databases.
+Gibraltar Savings and Loan, Los Angeles, California.
+1978 - 1983:
+Programmer/Analyst, Quality Assurance Lead. Programming in COBOL, ADF, using TOTAL and IMS databases.
+Pacific Fidelity Life, Los Angeles, California
+1973 - 1978:
+Operations trainee, applications programmer/analyst. Programming in COBOL, RPG, 360 Assembler, DYL260.
+
+Other Experience
+--------------------------------
+
+Pagan Tuna
+2009 - Present:
+Blogging on subjects related to software development.
+http://www.pagantuna.com
+University of Michigan Club of Seattle
+2009 - 2015:
+President of the Board
+http://www.umseattle.com
+2007-2008:
+Implemented and administered UMSeattle.com, a site based on Drupal.
+http://www.umseattle.com
+Scottsdale Supporters for the Gifted
+2005 - 2007:
+Implemented and administered AZgifted.org, a non-profit Web site supporting gifted students in Arizona. The site was based on Drupal, an open-source content management system that uses PHP and MySQL.
+PowerSurge Publishing
+2005:
+Created the Web site PortableWisdom.org, featuring some of my favorite quotations.
+http://www.portablewisdom.org
+2001-2005:
+Wrote and published the Web Book <cite>Reason to Rock: Rock Music as Art Form</cite>. This site currently appears as the first result in a Google search for &#8220;rock music aesthetics&#8221;.
+http://www.reasontorock.com/
+2001 - Present:
+Wrote, published and sold several freeware/shareware programs in Java: PSTextMerge, PSRenamer, Two Due and iWisdom. iWisdom is a tool for maintaining a list of quotations or other brief insights.
+http://www.powersurgepub.com
+1998:
+Wrote and self-published the Book <cite>Why Die?: A Beginner's Guide to Living Forever</cite>.
+http://www.amazon.com/exec/obidos/ISBN=1890457078/powersurgepublisA/
+People Forever, a Non-Profit Organization
+1990 - 1997:
+Editor of, and frequent contributor to, Forever Alive Magazine, published quarterly and appearing on newsstands in Borders and Barnes & Noble
+University of Michigan, College of Literature, Science and the Arts
+1971 - 1973:
+Wrote rock music reviews for the Michigan Daily.
+Annapolis Senior High School, Annapolis, Maryland
+1969:
+Editorial Editor on School Newspaper
+
+Education
+--------------------------------
+
+Boeing
+2009:
+Program Managers Workshop, a Residential Training Program for Program Managers
+2005:
+Leading from the Middle II, a Residential Training Program for Middle Managers
+2003:
+Frank and Howard University, a Residential Training Program for Managers in the Rotorcraft Business Unit
+2001:
+Information Systems University, a Residential Training Program for IT Management
+2000:
+Leading from the Middle, a Residential Training Program for Middle Managers
+Scottsdale Community College
+1999:
+Beginning Java
+Institute of Configuration Management
+1990:
+Configuration Management Certificate
+http://www.icmhq.com/
+University of Michigan, College of Literature, Science and the Arts
+1973:
+B.A. in English
+Annapolis Senior High School, Annapolis, Maryland
+1969:
+National Merit Scholar
+Graduation
+

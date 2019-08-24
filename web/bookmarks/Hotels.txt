@@ -1,0 +1,6 @@
+Title:  Hotels.com
+
+Tags:   Travel.Lodging
+
+Link:   http://www.hotels.com
+

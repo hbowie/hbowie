@@ -1,0 +1,6 @@
+Title:  Joyent Shared Accelerators Knowledge Base
+
+Tags:   Computing.Internet.Service Provider, Invalid URL
+
+Link:   http://wiki.joyent.com/shared:kb:start
+

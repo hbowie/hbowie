@@ -1,0 +1,31 @@
+<?output "../herb_bowie_cv.txt"?>
+Curriculum Vitae for Herb Bowie
+===============================
+  
+<?nextrec?>
+<?definegroup 1 "=$type$="?>
+<?definegroup 2 "=$institution$="?>
+<?definegroup 3 "=$timeframe$="?>
+<?set years = ""?>
+<?ifendgroup 3?>
+<?ifendgroup 2?>
+<?ifendgroup 1?>
+<?ifnewgroup 1?>
+
+=$type$=
+--------------------------------
+
+<?ifnewgroup 2?>
+=$institution$=
+<?ifnewgroup 3?>
+<?set years = "=$timeframe$="?>
+<?endif?>
+<?if "=$years$="?>
+=$years$=:
+<?endif?>
+=$text$=
+<?if "=$weblink$="?>
+=$weblink$=
+<?endif?>
+<?loop?>
+

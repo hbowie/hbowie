@@ -1,0 +1,6 @@
+Title:  Remember The Order of Margin/Padding Shorthand with TROUBLE
+
+Tags:   Computing.Development.Web.CSS
+
+Link:   http://css-tricks.com/remember-the-order-of-marginpadding-shorthand-with-trouble/
+

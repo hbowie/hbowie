@@ -1,0 +1,6 @@
+Title:  MacUpdate
+
+Tags:   Computing.Apple.Mac.Software.Updates, Invalid URL
+
+Link:   http://www.macupdate.com/index.php?os=macosx
+

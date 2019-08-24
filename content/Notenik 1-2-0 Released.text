@@ -1,0 +1,32 @@
+Title:  Notenik 1.2.0 Released
+
+Tags:   notenik
+
+Link:   https://notenik.net/swift.html#version-history
+
+Image Link: https://hbowie.net/images/notenik.png
+
+Type:   post
+
+Status: 9 - Closed
+
+Seq:    109
+
+Date:   17 Jul 2019
+
+Teaser: 
+
+Multiple improvements, including tokenization of the Tags Field. 
+
+
+Body: 
+
+This release includes the following changes:
+
+- Tokenized the Tags Field on the Edit Screen; 
+- Added Split Tags Export to the File Menu;
+- Added 'Standardize Dates to YMD' to the Collection Menu
+- A few miscellaneous improvements;
+
+See the latest version of the User Guide on [Notenik.net](https://notenik.net/swift.html). 
+

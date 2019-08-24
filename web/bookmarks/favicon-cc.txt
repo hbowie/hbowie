@@ -1,0 +1,6 @@
+Title:  favicon.cc
+
+Tags:   Computing.Development.Web.Images
+
+Link:   http://www.favicon.cc/
+

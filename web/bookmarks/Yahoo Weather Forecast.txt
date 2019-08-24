@@ -1,0 +1,6 @@
+Title:  Yahoo Weather Forecast
+
+Tags:   Reference.Weather
+
+Link:   http://weather.yahoo.com/
+

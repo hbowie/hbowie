@@ -1,0 +1,6 @@
+Title:  Apple Developer Resources
+
+Tags:   Computing.Development.Apple
+
+Link:   http://developer.apple.com
+

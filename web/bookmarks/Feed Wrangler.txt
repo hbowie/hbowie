@@ -1,0 +1,11 @@
+Title:  Feed Wrangler
+
+Tags:   Favorites.News, News
+
+Link:   https://feedwrangler.net
+
+Body:   
+ 
+RSS Aggregation Service
+
+

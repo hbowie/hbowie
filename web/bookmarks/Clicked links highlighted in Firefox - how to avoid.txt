@@ -1,0 +1,6 @@
+Title:  Clicked links highlighted in Firefox - how to avoid
+
+Tags:   Computing.Development.Web.HTML
+
+Link:   http://www.webmasterworld.com/html/3383721.htm
+

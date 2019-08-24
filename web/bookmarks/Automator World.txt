@@ -1,0 +1,6 @@
+Title:  Automator World
+
+Tags:   Computing.Apple.Scripting.Automator
+
+Link:   http://automatorworld.com/
+

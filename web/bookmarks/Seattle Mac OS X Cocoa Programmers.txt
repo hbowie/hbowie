@@ -1,0 +1,6 @@
+Title:  Seattle Mac OS X Cocoa Programmers
+
+Tags:   Computing.Development.Apple.Cocoa
+
+Link:   http://www.seattlexcoders.org
+

@@ -1,0 +1,6 @@
+Title:  How to: create a wiki with Drupal | Cwgordon7's blog
+
+Tags:   Computing.Development.Web.Drupal
+
+Link:   http://cwgordon.com/how-to-create-a-wiki-with-drupal
+

@@ -1,0 +1,6 @@
+Title:  MapQuest
+
+Tags:   Reference.Maps
+
+Link:   http://www.mapquest.com/
+

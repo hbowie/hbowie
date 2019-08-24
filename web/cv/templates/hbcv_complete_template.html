@@ -1,0 +1,207 @@
+ <?output "../herb_bowie_cv_complete.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+	<title>Curriculum Vitae for Herb Bowie</title>
+	<link rel="stylesheet" href="styles.css">
+	<style type="text/css" title="Document Styles">
+/* <![CDATA[ */
+body
+{
+	font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+	line-height: 1.8em;
+	color: #fff;
+	background-color: #666;
+	text-align: left;
+	font-size: 0.9em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.4em;
+	line-height: 2.0em;
+	letter-spacing: 0.1em;
+}
+
+h2 {
+  text-align: left;
+  font-size: 1.2em;
+	line-height: 2.0em;
+	letter-spacing: 0.1em;
+}
+
+td.type
+{
+  margin-top: 1.0em;
+	font-size: 1.2em;
+	line-height: 1.8em;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+	font-weight: 700;
+	border-top: 0 none #666;
+	border-bottom: 2px dotted #ccc;
+	border-right: 0 none #666;
+	border-left: 0 none #666;
+	padding-bottom: 6px;
+}
+
+td.institution
+{
+  margin-top: 0.5em;
+	font-size: 1.0em;
+	line-height: 1.8em;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+	font-style: italic;
+	font-weight: 600;
+}
+
+td.text {
+}
+
+td.focus {
+  color: #fff;
+  font-weight: 500;
+}
+
+td.nofocus {
+  color: #aaa;
+  font-weight: 300;
+}
+
+
+a {
+	text-decoration: none;
+	}
+
+a:link {
+	text-decoration: none;
+	color: #ddd;
+	border-color: #888;
+	border-width: 0 0 1px 0;
+	border-style: none none solid none;
+	padding: 3px 0px 2px 0px;
+	background-color: inherit;
+	}
+
+a:visited {
+	color: #ddd;
+	border-color: #999;
+	border-width: 0 0 1px 0;
+	border-style: none none dotted none;
+	padding: 3px 0px 2px 0px;
+	background-color: inherit;
+	}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+	background-color: inherit;
+	border-color: #fff;
+	}
+
+a.nofocus:link {
+	text-decoration: none;
+	color: #aaa;
+	border-color: #888;
+	border-width: 0 0 1px 0;
+	border-style: none none solid none;
+	padding: 3px 0px 2px 0px;
+	background-color: inherit;
+	}
+
+a.nofocus:visited {
+	color: #aaa;
+	border-color: #999;
+	border-width: 0 0 1px 0;
+	border-style: none none dotted none;
+	padding: 3px 0px 2px 0px;
+	background-color: inherit;
+	}
+
+a.nofocus:hover {
+	color: #aaa;
+	text-decoration: none;
+	background-color: inherit;
+	border-color: #fff;
+	}
+/* ]]> */
+</style>
+</head>
+<body>
+<h1>Curriculum Vitae for Herb Bowie</h1>
+
+<table border="0" width="100%" cellspacing="4" cellpadding="4">
+  <colgroup>
+    <col width="20">
+    <col width="20">
+    <col valign="top" nowrap>
+    <col width="20">
+    <col>
+    <col width="10">
+  </colgroup>
+
+  <tr>
+    <td colspan="6" height="4">
+    </td>
+  </tr>
+
+<?nextrec?>
+<?definegroup 1 "=$type$="?>
+<?definegroup 2 "=$institution$="?>
+<?definegroup 3 "=$timeframe$="?>
+<?set years = ""?>
+<?ifendgroup 3?>
+<?ifendgroup 2?>
+<?ifendgroup 1?>
+<?ifnewgroup 1?>
+  <tr>
+    <td colspan="6" height="4">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" class="type">
+      =$type$=
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+<?ifnewgroup 2?>
+  <tr>
+    <td colspan="6" height="2">
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="4" class="institution">
+      =$institution$=
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+<?ifnewgroup 3?>
+<?set years = "=$timeframe$="?>
+<?endif?>
+  <tr>
+<?if "=$seq$=" = "A"?>
+    <td colspan="4">
+      <img src="herb.jpg" alt="Herb Bowie" hspace="2" vspace="2" border="3" align="left" />
+    </td>
+<?endif?>
+<?if "=$seq$=" > "A"?>
+    <td colspan="2">&nbsp;</td>
+    <td valign="top" nowrap>=$years$=</td>
+    <td>&nbsp;</td>
+<?endif?>
+    <td class="text">
+      =$text$=
+<?if "=$weblink$="?>
+      <br /><<a target=aux href="=$weblink$=">=$weblinktitle$=</a>>
+<?endif?>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+<?loop?>
+</table>
+
+</body>
+</html>

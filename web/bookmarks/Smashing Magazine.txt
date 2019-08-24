@@ -1,0 +1,6 @@
+Title:  Smashing Magazine
+
+Tags:   Computing.Development.Web
+
+Link:   http://www.smashingmagazine.com/
+

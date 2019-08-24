@@ -1,0 +1,6 @@
+Title:  New York Times
+
+Tags:   Favorites.News, News
+
+Link:   http://nytimes.com/
+

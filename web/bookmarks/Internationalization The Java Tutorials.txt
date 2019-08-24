@@ -1,0 +1,6 @@
+Title:  Internationalization (The Java Tutorials)
+
+Tags:   Computing.Development.Java
+
+Link:   http://java.sun.com/docs/books/tutorial/i18n/index.html
+

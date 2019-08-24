@@ -1,0 +1,11 @@
+Title:  Java on Mac OS X Reference
+
+Tags:   Computing.Development.Apple.Mac
+
+Link:   http://www.wiley.com/go/javamacdevref
+
+Body:   
+ 
+Companion site to Gene Davis' book, Java on Mac OS X
+
+

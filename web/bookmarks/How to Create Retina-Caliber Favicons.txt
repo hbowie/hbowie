@@ -1,0 +1,6 @@
+Title:  How to Create Retina-Caliber Favicons
+
+Tags:   Computing.Development.Web
+
+Link:   http://daringfireball.net/2013/01/retina_favicons
+

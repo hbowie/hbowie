@@ -1,0 +1,6 @@
+Title:  Web Developer's Handbook
+
+Tags:   Computing.Development.Web
+
+Link:   http://www.alvit.de/handbook
+

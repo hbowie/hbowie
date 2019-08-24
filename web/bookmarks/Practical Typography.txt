@@ -1,0 +1,11 @@
+Title:  Practical Typography
+
+Tags:   Computing.Development.Typography
+
+Link:   http://www.practicaltypography.com
+
+Body:   
+ 
+Butterick's Practical Typography
+
+

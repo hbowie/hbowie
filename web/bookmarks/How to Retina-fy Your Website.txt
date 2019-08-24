@@ -1,0 +1,6 @@
+Title:  How to Retina-fy Your Website
+
+Tags:   Computing.Development.Web
+
+Link:   http://mir.aculo.us/2012/06/26/flowchart-how-to-retinafy-your-website/
+

@@ -1,0 +1,6 @@
+Title:  Apple Developer Java Downloads
+
+Tags:   Computing.Development.Apple.Java, Computing.Development.Java
+
+Link:   http://developer.apple.com/java/download/
+

@@ -1,0 +1,6 @@
+Title:  Joyent PHPMyAdmin
+
+Tags:   Computing.Web.Hosting
+
+Link:   https://prospect.joyent.us/phpmyadmin/
+

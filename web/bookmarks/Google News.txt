@@ -1,0 +1,6 @@
+Title:  Google News
+
+Tags:   News
+
+Link:   http://news.google.com
+

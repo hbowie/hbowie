@@ -1,0 +1,216 @@
+/* Definitely used */
+
+body {
+  font-family: 'equity-text', Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 1.428571429;
+  color: #4F4C4E;
+  background-color: #ffffff;
+}
+
+header {
+	text-align: center;
+	max-width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#site-title {
+  display: inline-block;
+	font-family: 'concourse_t6regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 3em;
+	letter-spacing: 0.1em;
+	line-height: normal;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	color: #75829C;
+	border-bottom: 5px solid #75829C;
+}
+
+#site-subtitle {
+  display: inline-block;
+	font-family: 'equity_caps_aregular', Georgia, 'Times New Roman', Times, serif;
+	font-size: 2em;
+	color: #75829C;
+	margin-top: 0;
+}
+
+#site-title a:link {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:visited {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:active {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+}
+
+#site-title a:hover {
+	color: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+	text-decoration: none;
+	border-bottom: 0;
+}
+
+nav {
+	text-align: center;
+	max-width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'concourse_c2bold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  /* border-right: 3px solid #75829C; */
+  padding-left:  1em;
+  margin-left:   1em;
+  padding-right: 1em;
+  margin-right:  1em;
+}
+
+nav ul li:last-child {
+  border-right: none;
+}
+
+.active { background-color: #EBEBEB; }
+
+main {
+	padding-top: 40px;
+	padding-bottom: 2em;
+	max-width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	text-align: center;
+	max-width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-top-right {
+  float: right;
+  padding: 4px;
+}
+
+.image-link {
+	text-decoration: none;
+	border: 0 none;
+}
+
+.image-link:link {
+	text-decoration: none;
+	border: 0 none;
+}
+
+.image-link:hover {
+	text-decoration: none;
+	border: 0 none;
+}
+
+.readmore {
+	float: left;
+}
+.pubdate {
+	float: right;
+}
+
+.clearboth {
+  clear: both;
+}
+
+/* Used??? */
+
+
+
+.container { max-width: 720px; }
+
+.header {
+	margin-top: 1rem;
+	text-align: center;
+}
+
+.header-logo {
+	display: block;
+	padding: 10px;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+
+
+h1 {
+  color: #435773;
+  font-size: 1.7em;
+  line-height: 1.5em;
+  margin-top: 8px;
+  font-weight: normal;
+  font-family: 'concourse_t4regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  color: #687C99;
+  font-size: 1.4em;
+  line-height: 1.5em;
+  font-weight: normal;
+  font-family: 'concourse_t6regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h3 {
+  color: #687C99;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  font-family: 'concourse_t6regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+a:link {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:active {
+	color: #435773;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #3C4A66;
+	text-decoration: none;
+	border-bottom: 1px #3C4A66 dotted;
+}

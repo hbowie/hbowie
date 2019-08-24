@@ -1,0 +1,6 @@
+Title:  Geosoft Java Coding Guidelines
+
+Tags:   Computing.Development.Java.Coding Standards
+
+Link:   http://www.geosoft.no/javastyle.html
+

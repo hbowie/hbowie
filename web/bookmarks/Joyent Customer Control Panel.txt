@@ -1,0 +1,6 @@
+Title:  Joyent Customer Control Panel
+
+Tags:   Computing.Web.Hosting
+
+Link:   https://customer.joyent.com/
+

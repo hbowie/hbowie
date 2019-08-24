@@ -1,0 +1,6 @@
+Title:  How to Install Subversion on Mac OS X - wikiHow
+
+Tags:   Computing.Development.Version Control.Subversion
+
+Link:   http://www.wikihow.com/Install-Subversion-on-Mac-OS-X
+

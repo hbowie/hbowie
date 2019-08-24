@@ -1,0 +1,37 @@
+module	action	modifier	object	value
+
+<!-- GENERATE HBOWIE.NET WEBSITE -->
+
+<!-- Generate Home Page          -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik-defined		#PATH#../content/
+filter	add	ne	Type	static
+filter	set		params
+sort	add	Descending	Seq
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/home_template.html
+template	generate
+
+
+<!-- Generate Item Pages         -->
+
+template	open	text		#PATH#../factory/item_template.html
+template	generate
+
+<!-- Generate RSS Feed           -->
+
+template	open	text		#PATH#../factory/rss_template.xml
+template	generate
+
+<!-- Generate Static Pages       -->
+
+filter	clear
+filter	set		params
+filter	add	eq	Type	static
+filter	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/other_template.html
+template	generate

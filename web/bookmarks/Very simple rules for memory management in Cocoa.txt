@@ -1,0 +1,6 @@
+Title:  Very simple rules for memory management in Cocoa
+
+Tags:   Computing.Development.Apple.Cocoa, Invalid URL
+
+Link:   http://www.stepwise.com/Articles/Technical/2001-03-11.01.html
+

@@ -1,0 +1,74 @@
+<?nextrec?>
+<?output "../web/=$title&f$=.html"?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Herb Bowie | =$title$=</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+	<meta name="description" content="Herb Bowie's Weblog''">
+	<meta name="author" content="Herb Bowie">
+	<link rel="icon" type="image/x-icon" href="=$relative$=favicon.ico" />
+	<link rel="icon" type="image/png" href="=$relative$=favicon.png" />
+	<link rel="stylesheet" href="=$relative$=fonts/concourse_t3.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=fonts/stylesheet.css" type="text/css" />
+	<link rel="stylesheet" href="=$relative$=css/styles.css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="=$relative$=rss.xml" />
+</head>
+
+<body>
+
+	<header>
+		<p id="site-title">
+			<a href="=$relative$=index.html">
+			hbowie.net
+			</a>
+		</p>
+		<p id="site-subtitle">Stuff by Herb Bowie</p>
+	</header>
+
+	<nav>
+		<ul>
+  		<li><a href="=$relative$=index.html">Home</a></li>
+<?if =$title$= eq "About" ?>
+  		<li class="active"><a href="=$relative$=about.html">About</a></li>
+<?else?>
+			<li><a href="=$relative$=about.html">About</a></li>
+<?endif?>
+<?if =$title$= eq "Projects" ?>
+  		<li class="active"><a href="=$relative$=projects.html">Projects</a></li>
+<?else?>
+			<li><a href="=$relative$=projects.html">Projects</a></li>
+<?endif?>
+<?if =$title$= eq "Connect" ?>
+  		<li class="active"><a href="=$relative$=connect.html">Connect</a></li>
+<?else?>
+			<li><a href="=$relative$=connect.html">Connect</a></li>
+<?endif?>
+		</ul>
+	</nav>
+
+	<main>
+
+<?if =$imagelink$= ?>
+			<img class="img-top-right" src="=$imagelink$=" alt="">
+<?endif?>
+
+			=$body&o$=
+
+	</main>
+
+	<footer>
+		<hr />
+		<p>
+			<a rel="license"  target="ref" href="http://creativecommons.org/licenses/by-sa/4.0/">
+				<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
+			</a>
+			<a  target="ref" href="http://creativecommons.org/licenses/by-sa/4.0/">Copyright</a> &copy; 2009 - 2019 by <a  target="ref" href="=$relative$=about.html">Herb Bowie</a> except where noted
+		</p>
+	</footer>
+
+</body>
+</html>
+<?loop?>

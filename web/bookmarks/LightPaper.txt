@@ -1,0 +1,11 @@
+Title:  LightPaper
+
+Tags:   Computing.Text Editors
+
+Link:   http://clockworkengine.com/lightpaper-mac/
+
+Body:   
+ 
+Simple, beautiful & free Markdown editor for passionate writers on Mac
+
+

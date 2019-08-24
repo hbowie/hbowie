@@ -1,0 +1,6 @@
+Title:  AppleScript: The Language of Automation
+
+Tags:   Computing.Apple.Applescript
+
+Link:   http://www.apple.com/applescript
+

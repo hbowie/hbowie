@@ -1,0 +1,6 @@
+Title:  WordPress Missing Manual Try-Out Site
+
+Tags:   Computing.Development.Web.WordPress
+
+Link:   http://prosetech.com/wordpress/
+

@@ -1,0 +1,11 @@
+Title:  InformIT Learn Mac
+
+Tags:   Computing.Development.Apple.Mac
+
+Link:   http://www.informit.com/learnmac
+
+Body:   
+ 
+Books and blogs on the subject of programming for the Mac
+
+

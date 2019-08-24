@@ -1,0 +1,6 @@
+Title:  WordPress Missing Manual Web Site
+
+Tags:   Computing.Development.Web.WordPress
+
+Link:   http://www.oreilly.com/pub/missingmanuals/wpmm2e
+
