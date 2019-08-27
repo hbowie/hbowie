@@ -51,11 +51,19 @@
 				<h3 class="post-title">=$title$=</h3>
 			</a>
 			=$body&o$=
-			<p class="read-more">
-				<a href="=$link$=">
-					Read more...
-				</a>
-			</p>
+
+			<div>
+				<p class="readmore">
+<?if "=$link$=" ?>
+					<a href="=$link$=">Read more...</a>
+<?endif?>
+				</p>
+				<p class="pubdate">
+					=$date&dd MMM yyy$=
+				</p>
+			</div>
+			<div class="clearboth"></div>
+
 		</article>
 
 	</main>

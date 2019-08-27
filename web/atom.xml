@@ -4,18 +4,51 @@
 <subtitle>Stuff by Herb Bowie</subtitle>
 <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
 <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-<updated>2019-08-24</updated>
+<updated>2019-08-26</updated>
 <rights>Copyright © 2019, Herb Bowie</rights>
 <author>
 <name>Herb Bowie</name>
 </author>
 <id>https://hbowie.net/atom.xml</id>
 <entry>
+<title>Elizabeth Warren in Seattle</title>
+<link rel="related" type="text/html" href="https://hbowie.net/2019/08/26/elizabeth-warren-in-seattle.html"/>
+<id>https://hbowie.net/2019/08/26/elizabeth-warren-in-seattle.html</id>
+<published>2019-08-26T09:00:00Z</published>
+<updated>2019-08-26T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://hbowie.net/images/elizabeth-warren-in-seattle.jpg" alt="" />
+<p>I was one of the 15,000 people who gathered under the Space Needle yesterday to hear Warren speak. There were several things about her that impressed me.</p>
+<ul>
+<li>
+<p>She emphasized the need for structural change, starting with getting big money out of politics. This just makes so much sense because, without it, we'll soon be right back where we are now.</p>
+</li>
+<li>
+<p>She talked about the need for a wealth tax. This really clicked for me yesterday for the first time. I got it. People don't like income tax, because everyone has income, and no one wants to lose any of it to taxation. On the other hand, not everyone has wealth — especially as Warren defines it, above $50 million. So it will be easier to get voters to accept a new wealth tax than increases in income tax.</p>
+</li>
+<li>
+<p>As part of her opening origin story, she talked a lot about her &quot;much older&quot; brothers. It wasn't until I was riding home on the bus afterwards that I realized how smart this was, because it makes her sound much younger than her 70 years.</p>
+</li>
+</ul>
+<p>All in all, she seems like a smart policy person who genuinely has our country's best interests at heart. but also a smart campaigner.</p>
+
+]]>
+</content>
+</entry>
+<entry>
 <title>Notenik 1.3.0 Released</title>
 <link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/08/16/notenik-1.3.0-released.html"/>
 <id>https://hbowie.net/2019/08/16/notenik-1.3.0-released.html</id>
-<published>2019-08-16T12:00:00Z</published>
+<published>2019-08-16T09:00:00Z</published>
 <updated>2019-08-16T12:00:00Z</updated>
 <author>
 <name>Herb Bowie</name>
@@ -27,6 +60,7 @@
 </summary>
 <content type="html">
 <![CDATA[
+<img src="https://hbowie.net/images/notenik.png" alt="" />
 <p>This release includes the following changes:</p>
 <ul>
 <li>One or more files can now be attached to each Note;</li>
@@ -45,7 +79,7 @@
 <link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/rejiggering-our-religion.html"/>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/08/13/rejiggering-our-religion.html"/>
 <id>https://hbowie.net/2019/08/13/rejiggering-our-religion.html</id>
-<published>2019-08-13T12:00:00Z</published>
+<published>2019-08-13T09:00:00Z</published>
 <updated>2019-08-13T12:00:00Z</updated>
 <author>
 <name>Herb Bowie</name>
@@ -57,6 +91,7 @@
 </summary>
 <content type="html">
 <![CDATA[
+<img src="https://practopian.org/images/rejiggering-our-religion.jpg" alt="" />
 <p>When it comes to religion, the main question for most people is whether to keep the one we were raised with, or to lose it altogether.</p>
 <p>But now I’m starting to wonder whether, instead of losing my religion altogether, it might not be better just to rejigger it a bit?</p>
 
@@ -68,7 +103,7 @@
 <link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/apollo-11-the-most-important-movie-youll-see-this-year.html"/>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/07/20/apollo-11-the-most-important-movie-youll-see-this-year.html"/>
 <id>https://hbowie.net/2019/07/20/apollo-11-the-most-important-movie-youll-see-this-year.html</id>
-<published>2019-07-20T12:00:00Z</published>
+<published>2019-07-20T09:00:00Z</published>
 <updated>2019-07-20T12:00:00Z</updated>
 <author>
 <name>Herb Bowie</name>
@@ -80,6 +115,7 @@
 </summary>
 <content type="html">
 <![CDATA[
+<img src="https://practopian.org/images/moon.jpg" alt="" />
 <p>No matter what your age or orientation, it’s hard to gainsay the significance of humankind’s first trip through space to set foot on a celestial body other than our birth planet.</p>
 
 ]]>
@@ -90,7 +126,7 @@
 <link rel="alternate" type="text/html" href="https://notenik.net/swift.html#version-history"/>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/07/17/notenik-1.2.0-released.html"/>
 <id>https://hbowie.net/2019/07/17/notenik-1.2.0-released.html</id>
-<published>2019-07-17T12:00:00Z</published>
+<published>2019-07-17T09:00:00Z</published>
 <updated>2019-07-17T12:00:00Z</updated>
 <author>
 <name>Herb Bowie</name>
@@ -102,6 +138,7 @@
 </summary>
 <content type="html">
 <![CDATA[
+<img src="https://hbowie.net/images/notenik.png" alt="" />
 <p>This release includes the following changes:</p>
 <ul>
 <li>Tokenized the Tags Field on the Edit Screen;</li>
@@ -119,7 +156,7 @@
 <link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/what-the-latest-trump-attack-means-for-democrats.html"/>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/07/16/what-the-latest-trump-attack-means-for-democrats.html"/>
 <id>https://hbowie.net/2019/07/16/what-the-latest-trump-attack-means-for-democrats.html</id>
-<published>2019-07-16T12:00:00Z</published>
+<published>2019-07-16T09:00:00Z</published>
 <updated>2019-07-16T12:00:00Z</updated>
 <author>
 <name>Herb Bowie</name>
@@ -131,6 +168,7 @@
 </summary>
 <content type="html">
 <![CDATA[
+<img src="https://practopian.org/images/arrows-confrontation.jpg" alt="" />
 <p>By now I’m sure you’ve heard of Trump’s recent attacks on four Democratic congressional representatives, all women of color, urging them to “go back … to the crime-infested places from which they came.” How should Democrats respond? Here are the sorts of positions I’d like to hear them articulate.</p>
 
 ]]>
@@ -141,7 +179,7 @@
 <link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/the-dangers-of-political-nostalgia.html"/>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/06/25/the-dangers-of-political-nostalgia.html"/>
 <id>https://hbowie.net/2019/06/25/the-dangers-of-political-nostalgia.html</id>
-<published>2019-06-25T12:00:00Z</published>
+<published>2019-06-25T09:00:00Z</published>
 <updated>2019-06-25T12:00:00Z</updated>
 <author>
 <name>Herb Bowie</name>
@@ -153,6 +191,7 @@
 </summary>
 <content type="html">
 <![CDATA[
+<img src="https://practopian.org/images/mr-smith.jpg" alt="" />
 <p>I’m not quite as old as Biden, and I’ve never served in public office, but I can still share his nostalgia for seemingly simpler times when our political leaders displayed some sort of respect for each other, even when they disagreed over issues of state.</p>
 
 ]]>
@@ -163,7 +202,7 @@
 <link rel="alternate" type="text/html" href="https://hbowie.micro.blog/"/>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/06/15/micro-blogging-again.html"/>
 <id>https://hbowie.net/2019/06/15/micro-blogging-again.html</id>
-<published>2019-06-15T12:00:00Z</published>
+<published>2019-06-15T09:00:00Z</published>
 <updated>2019-06-15T12:00:00Z</updated>
 <author>
 <name>Herb Bowie</name>
@@ -175,6 +214,7 @@
 </summary>
 <content type="html">
 <![CDATA[
+<img src="https://pbs.twimg.com/profile_images/943229525734785024/hskfoWli.jpg" alt="" />
 <p>Just reactivated my micro.blog account at hbowie.micro.blog, and set up cross-posting to Twitter (@herbbowie) and my Facebook Practopians page. Happy to be part of the Micro.blog community and to join those supporting the open web!</p>
 
 ]]>
@@ -185,7 +225,7 @@
 <link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/the-progressive-problem.html"/>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/06/10/the-progressive-problem.html"/>
 <id>https://hbowie.net/2019/06/10/the-progressive-problem.html</id>
-<published>2019-06-10T12:00:00Z</published>
+<published>2019-06-10T09:00:00Z</published>
 <updated>2019-06-10T12:00:00Z</updated>
 <author>
 <name>Herb Bowie</name>
@@ -197,6 +237,7 @@
 </summary>
 <content type="html">
 <![CDATA[
+<img src="https://practopian.org/images/culture-loading.jpg" alt="" />
 <p>No wonder zombie movies have been popular of late: so many of us feel like increasingly isolated survivors having to fight off forces that we thought were previously vanquished and long buried, forces that seem to be arising all around us, springing at us from all sides.</p>
 
 ]]>
@@ -207,7 +248,7 @@
 <link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/notenik/id1465997984?mt=12"/>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/06/03/notenik-now-in-the-mac-app-store.html"/>
 <id>https://hbowie.net/2019/06/03/notenik-now-in-the-mac-app-store.html</id>
-<published>2019-06-03T12:00:00Z</published>
+<published>2019-06-03T09:00:00Z</published>
 <updated>2019-06-03T12:00:00Z</updated>
 <author>
 <name>Herb Bowie</name>
@@ -219,30 +260,9 @@
 </summary>
 <content type="html">
 <![CDATA[
+<img src="https://hbowie.net/images/notenik.png" alt="" />
 <p>I now have an application called Notenik listed in the Mac App Store!</p>
 <p>I’d been doing some regular programming in Java over the past couple of decades, but decided this year to bite the bullet and try to learn Swift, Apple’s latest development language, and chose the Mac as my first target platform. It’s been quite an adventure to create a full-fledged Mac App in a new language, but I’m happy to report that I’ve finally crossed the goal line! More improvements to come, but I believe that version 1.0 is quite serviceable. And it’s free!</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>How to Fix Big Tech</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/how-to-fix-big-tech.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/05/22/how-to-fix-big-tech.html"/>
-<id>https://hbowie.net/2019/05/22/how-to-fix-big-tech.html</id>
-<published>2019-05-22T12:00:00Z</published>
-<updated>2019-05-22T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>We all sort of know the problems, right? Monopolies. Lock-in. Stream addiction. Reality bubbles. Billionaires seeking market dominance. All other values taking a back seat to growth. I don’t think I need to elaborate. If you’re reading this, then you’re probably well aware of all these concerns.</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<p>We all sort of know the problems, right? Monopolies. Lock-in. Stream addiction. Reality bubbles. Billionaires seeking market dominance. All other values taking a back seat to growth. I don’t think I need to elaborate. If you’re reading this, then you’re probably well aware of all these concerns.</p>
 
 ]]>
 </content>

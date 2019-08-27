@@ -31,6 +31,11 @@ template	generate
 template	open	text		#PATH#../factory/atom_template.xml
 template	generate
 
+<!-- Generate RSS Feed without titles for micro.blog -->
+
+template	open	text		#PATH#../factory/microrss_template.xml
+template	generate
+
 <!-- Generate Static Pages       -->
 
 filter	clear

@@ -17,10 +17,12 @@
 <?if =$item-count$= le 10 ?>
 	<entry>
 	  <title>=$title&x$=</title>
-	  <link rel="alternate" type="text/html" href="=$link$="/>
+<?if "=$link$=" ?>
+		<link rel="alternate" type="text/html" href="=$link$="/>
+<?endif?>
 	  <link rel="related" type="text/html" href="https://hbowie.net/=$date&yyyy$=/=$date&MM$=/=$date&dd$=/=$title&f$=.html"/>
 	  <id>https://hbowie.net/=$date&yyyy$=/=$date&MM$=/=$date&dd$=/=$title&f$=.html</id>
-	  <published>=$date&yyyy-MM-dd$=T12:00:00Z</published>
+	  <published>=$date&yyyy-MM-dd$=T09:00:00Z</published>
 	  <updated>=$date&yyyy-MM-dd$=T12:00:00Z</updated>
 	  <author>
 		<name>Herb Bowie</name>
@@ -31,6 +33,9 @@
 	  </summary>
 	  <content type="html">
 	  	<![CDATA[
+<?if "image-link" ?>
+		<img src="=$image-link$=" alt="" />
+<?endif?>
 	  	=$body&xo$=
 	  	]]>
 	  </content>

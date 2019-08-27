@@ -57,7 +57,11 @@
 			=$body&o$=
 			<div>
 				<p class="readmore">
+<?if "=$link$=" ?>
 					<a href="=$link$=">Read more...</a>
+<?else?>
+					<a href="=$date&yyyy$=/=$date&MM$=/=$date&dd$=/=$title&f$=.html">permalink</a>
+<?endif?>
 				</p>
 				<p class="pubdate">
 					=$date&dd MMM yyy$=
