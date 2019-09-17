@@ -1,0 +1,24 @@
+Title:  Notenik 1.4.1 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984?mt=12
+
+Image Link: https://hbowie.net/images/notenik.png
+
+Type:   post
+
+Status: 9 - Closed
+
+Seq:    115
+
+Date:   09 Sep 2019
+
+Teaser: 
+
+Added checks before completing a Save As operation. 
+
+
+Body: 
+
+This was a focused maintenance release designed to prevent the user from inadvertently specifying an existing folder as the repository for a new Notenik Collection. 

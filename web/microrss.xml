@@ -5,6 +5,40 @@
 <description>Stuff by Herb Bowie</description>
 <language>en</language>
 <item>
+<link>https://practopian.org/perspective/vol-1-issue-38-rejiggering-our-religion.html</link>>
+<guid>https://hbowie.net/2019/09/16/practopian-perspective-issue-38-published.html</guid>
+<pubdate>Mon, 16 Sep 2019 09:00:00 -0700</pubdate>
+<description>
+<p>&quot;Rejiggering Our Religion&quot; published via email in The Practopian Perspective.</p>
+
+</description>
+</item>
+<item>
+<link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
+<guid>https://hbowie.net/2019/09/09/notenik-1.4.1-released.html</guid>
+<pubdate>Mon, 09 Sep 2019 09:00:00 -0700</pubdate>
+<description>
+<p>This was a focused maintenance release designed to prevent the user from inadvertently specifying an existing folder as the repository for a new Notenik Collection.</p>
+
+</description>
+</item>
+<item>
+<link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
+<guid>https://hbowie.net/2019/09/06/notenik-1.4.0-released.html</guid>
+<pubdate>Fri, 06 Sep 2019 09:00:00 -0700</pubdate>
+<description>
+<p>This release includes the following changes:</p>
+<ul>
+<li>Improved the performance of Notenik when loading a new Collection (especially a large one);</li>
+<li>The Work Type field now provides a drop-down menu from which an appropriate choice can be made;</li>
+<li>A few minor bug fixes and improvements;</li>
+<li>Recording of PSTextMerge/TDF Czar style scripts.</li>
+</ul>
+<p>See the latest version of the User Guide on <a href="https://notenik.net/swift.html">Notenik.net</a>.</p>
+
+</description>
+</item>
+<item>
 <link>https://hbowie.net/2019/08/26/elizabeth-warren-in-seattle.html</link>
 <guid>https://hbowie.net/2019/08/26/elizabeth-warren-in-seattle.html</guid>
 <pubdate>Mon, 26 Aug 2019 09:00:00 -0700</pubdate>
@@ -92,34 +126,6 @@
 <pubdate>Tue, 25 Jun 2019 09:00:00 -0700</pubdate>
 <description>
 <p>I’m not quite as old as Biden, and I’ve never served in public office, but I can still share his nostalgia for seemingly simpler times when our political leaders displayed some sort of respect for each other, even when they disagreed over issues of state.</p>
-
-</description>
-</item>
-<item>
-<link>https://hbowie.micro.blog/</link>>
-<guid>https://hbowie.net/2019/06/15/micro-blogging-again.html</guid>
-<pubdate>Sat, 15 Jun 2019 09:00:00 -0700</pubdate>
-<description>
-<p>Just reactivated my micro.blog account at hbowie.micro.blog, and set up cross-posting to Twitter (@herbbowie) and my Facebook Practopians page. Happy to be part of the Micro.blog community and to join those supporting the open web!</p>
-
-</description>
-</item>
-<item>
-<link>https://practopian.org/blog/hbowie/the-progressive-problem.html</link>>
-<guid>https://hbowie.net/2019/06/10/the-progressive-problem.html</guid>
-<pubdate>Mon, 10 Jun 2019 09:00:00 -0700</pubdate>
-<description>
-<p>No wonder zombie movies have been popular of late: so many of us feel like increasingly isolated survivors having to fight off forces that we thought were previously vanquished and long buried, forces that seem to be arising all around us, springing at us from all sides.</p>
-
-</description>
-</item>
-<item>
-<link>https://itunes.apple.com/us/app/notenik/id1465997984?mt=12</link>>
-<guid>https://hbowie.net/2019/06/03/notenik-now-in-the-mac-app-store.html</guid>
-<pubdate>Mon, 03 Jun 2019 09:00:00 -0700</pubdate>
-<description>
-<p>I now have an application called Notenik listed in the Mac App Store!</p>
-<p>I’d been doing some regular programming in Java over the past couple of decades, but decided this year to bite the bullet and try to learn Swift, Apple’s latest development language, and chose the Mac as my first target platform. It’s been quite an adventure to create a full-fledged Mac App in a new language, but I’m happy to report that I’ve finally crossed the goal line! More improvements to come, but I believe that version 1.0 is quite serviceable. And it’s free!</p>
 
 </description>
 </item>

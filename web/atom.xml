@@ -4,12 +4,87 @@
 <subtitle>Stuff by Herb Bowie</subtitle>
 <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
 <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-<updated>2019-08-26</updated>
+<updated>2019-09-16</updated>
 <rights>Copyright © 2019, Herb Bowie</rights>
 <author>
 <name>Herb Bowie</name>
 </author>
 <id>https://hbowie.net/atom.xml</id>
+<entry>
+<title>Practopian Perspective Issue 38 Published</title>
+<link rel="alternate" type="text/html" href="https://practopian.org/perspective/vol-1-issue-38-rejiggering-our-religion.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2019/09/16/practopian-perspective-issue-38-published.html"/>
+<id>https://hbowie.net/2019/09/16/practopian-perspective-issue-38-published.html</id>
+<published>2019-09-16T09:00:00Z</published>
+<updated>2019-09-16T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://practopian.org/images/rejiggering-our-religion.jpg" alt="" />
+<p>&quot;Rejiggering Our Religion&quot; published via email in The Practopian Perspective.</p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Notenik 1.4.1 Released</title>
+<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2019/09/09/notenik-1.4.1-released.html"/>
+<id>https://hbowie.net/2019/09/09/notenik-1.4.1-released.html</id>
+<published>2019-09-09T09:00:00Z</published>
+<updated>2019-09-09T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>Added checks before completing a Save As operation.</p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://hbowie.net/images/notenik.png" alt="" />
+<p>This was a focused maintenance release designed to prevent the user from inadvertently specifying an existing folder as the repository for a new Notenik Collection.</p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Notenik 1.4.0 Released</title>
+<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2019/09/06/notenik-1.4.0-released.html"/>
+<id>https://hbowie.net/2019/09/06/notenik-1.4.0-released.html</id>
+<published>2019-09-06T09:00:00Z</published>
+<updated>2019-09-06T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>Added recording of PSTextMerge/TDF Czar scripts!</p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://hbowie.net/images/notenik.png" alt="" />
+<p>This release includes the following changes:</p>
+<ul>
+<li>Improved the performance of Notenik when loading a new Collection (especially a large one);</li>
+<li>The Work Type field now provides a drop-down menu from which an appropriate choice can be made;</li>
+<li>A few minor bug fixes and improvements;</li>
+<li>Recording of PSTextMerge/TDF Czar style scripts.</li>
+</ul>
+<p>See the latest version of the User Guide on <a href="https://notenik.net/swift.html">Notenik.net</a>.</p>
+
+]]>
+</content>
+</entry>
 <entry>
 <title>Elizabeth Warren in Seattle</title>
 <link rel="related" type="text/html" href="https://hbowie.net/2019/08/26/elizabeth-warren-in-seattle.html"/>
@@ -193,76 +268,6 @@
 <![CDATA[
 <img src="https://practopian.org/images/mr-smith.jpg" alt="" />
 <p>I’m not quite as old as Biden, and I’ve never served in public office, but I can still share his nostalgia for seemingly simpler times when our political leaders displayed some sort of respect for each other, even when they disagreed over issues of state.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Micro Blogging Again</title>
-<link rel="alternate" type="text/html" href="https://hbowie.micro.blog/"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/06/15/micro-blogging-again.html"/>
-<id>https://hbowie.net/2019/06/15/micro-blogging-again.html</id>
-<published>2019-06-15T09:00:00Z</published>
-<updated>2019-06-15T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Just reactivated my micro.blog account at hbowie.micro.blog, and set up cross-posting to Twitter (@herbbowie) and my Facebook Practopians page. Happy to be part of the Micro.blog community and to join those supporting the open web!</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://pbs.twimg.com/profile_images/943229525734785024/hskfoWli.jpg" alt="" />
-<p>Just reactivated my micro.blog account at hbowie.micro.blog, and set up cross-posting to Twitter (@herbbowie) and my Facebook Practopians page. Happy to be part of the Micro.blog community and to join those supporting the open web!</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>The Progressive Problem</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/the-progressive-problem.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/06/10/the-progressive-problem.html"/>
-<id>https://hbowie.net/2019/06/10/the-progressive-problem.html</id>
-<published>2019-06-10T09:00:00Z</published>
-<updated>2019-06-10T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>No wonder zombie movies have been popular of late: so many of us feel like increasingly isolated survivors having to fight off forces that we thought were previously vanquished and long buried, forces that seem to be arising all around us, springing at us from all sides.</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/culture-loading.jpg" alt="" />
-<p>No wonder zombie movies have been popular of late: so many of us feel like increasingly isolated survivors having to fight off forces that we thought were previously vanquished and long buried, forces that seem to be arising all around us, springing at us from all sides.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik now in the Mac App Store</title>
-<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/06/03/notenik-now-in-the-mac-app-store.html"/>
-<id>https://hbowie.net/2019/06/03/notenik-now-in-the-mac-app-store.html</id>
-<published>2019-06-03T09:00:00Z</published>
-<updated>2019-06-03T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Notenik for the Mac, written entirely in Swift, now available in the App Store!</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>I now have an application called Notenik listed in the Mac App Store!</p>
-<p>I’d been doing some regular programming in Java over the past couple of decades, but decided this year to bite the bullet and try to learn Swift, Apple’s latest development language, and chose the Mac as my first target platform. It’s been quite an adventure to create a full-fledged Mac App in a new language, but I’m happy to report that I’ve finally crossed the goal line! More improvements to come, but I believe that version 1.0 is quite serviceable. And it’s free!</p>
 
 ]]>
 </content>

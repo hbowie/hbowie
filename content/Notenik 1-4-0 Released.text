@@ -1,0 +1,32 @@
+Title:  Notenik 1.4.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984?mt=12
+
+Image Link: https://hbowie.net/images/notenik.png
+
+Type:   post
+
+Status: 9 - Closed
+
+Seq:    114
+
+Date:   06 Sep 2019
+
+Teaser: 
+
+Added recording of PSTextMerge/TDF Czar scripts!
+
+
+Body: 
+
+This release includes the following changes:
+
+- Improved the performance of Notenik when loading a new Collection (especially a large one); 
+- The Work Type field now provides a drop-down menu from which an appropriate choice can be made;
+- A few minor bug fixes and improvements;
+- Recording of PSTextMerge/TDF Czar style scripts.
+
+See the latest version of the User Guide on [Notenik.net](https://notenik.net/swift.html). 
+
