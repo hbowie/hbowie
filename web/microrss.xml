@@ -5,6 +5,33 @@
 <description>Stuff by Herb Bowie</description>
 <language>en</language>
 <item>
+<link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
+<guid>https://hbowie.net/2019/09/20/notenik-1.5.0-released.html</guid>
+<pubdate>Fri, 20 Sep 2019 09:00:00 -0700</pubdate>
+<description>
+<p>This release includes the following changes:</p>
+<ul>
+<li>
+<p>Enhanced logic for incrementing the Seq field;</p>
+</li>
+<li>
+<p>Added a dash/minus sign as a new variable modifier that can be used after the letter 'o' to trim the opening and closing paragraph tags from the HTML generated from the Markdown source;</p>
+</li>
+<li>
+<p>Added special treatment forr the Artist field, to allow it to be used in place of Author when sorting by Author;</p>
+</li>
+<li>
+<p>Added an option to the Template file to allow a long text field to be specified by placing '&lt;longtext&gt;' as the value for for a field specified in the template file;</p>
+</li>
+<li>
+<p>Additional refinements, including fixing a bug that sometimes ignored some variants of a newline character sequence when loading a Note from disk.</p>
+</li>
+</ul>
+<p>See <a href="https://notenik.net">Notenik.net</a> for the updated User Guide and other documentation.</p>
+
+</description>
+</item>
+<item>
 <link>https://practopian.org/perspective/vol-1-issue-38-rejiggering-our-religion.html</link>>
 <guid>https://hbowie.net/2019/09/16/practopian-perspective-issue-38-published.html</guid>
 <pubdate>Mon, 16 Sep 2019 09:00:00 -0700</pubdate>
@@ -117,15 +144,6 @@
 <pubdate>Tue, 16 Jul 2019 09:00:00 -0700</pubdate>
 <description>
 <p>By now I’m sure you’ve heard of Trump’s recent attacks on four Democratic congressional representatives, all women of color, urging them to “go back … to the crime-infested places from which they came.” How should Democrats respond? Here are the sorts of positions I’d like to hear them articulate.</p>
-
-</description>
-</item>
-<item>
-<link>https://practopian.org/blog/hbowie/the-dangers-of-political-nostalgia.html</link>>
-<guid>https://hbowie.net/2019/06/25/the-dangers-of-political-nostalgia.html</guid>
-<pubdate>Tue, 25 Jun 2019 09:00:00 -0700</pubdate>
-<description>
-<p>I’m not quite as old as Biden, and I’ve never served in public office, but I can still share his nostalgia for seemingly simpler times when our political leaders displayed some sort of respect for each other, even when they disagreed over issues of state.</p>
 
 </description>
 </item>

@@ -1,0 +1,36 @@
+Title:  Notenik 1.5.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984?mt=12
+
+Image Link: https://hbowie.net/images/notenik.png
+
+Type:   post
+
+Status: 9 - Closed
+
+Seq:    117
+
+Date:   20 Sep 2019
+
+Teaser: 
+
+Bug fixes and additional functionality. 
+
+Body: 
+
+This release includes the following changes:
+
+* Enhanced logic for incrementing the Seq field;
+
+* Added a dash/minus sign as a new variable modifier that can be used after the letter 'o' to trim the opening and closing paragraph tags from the HTML generated from the Markdown source;
+
+* Added special treatment forr the Artist field, to allow it to be used in place of Author when sorting by Author;
+
+* Added an option to the Template file to allow a long text field to be specified by placing '<longtext>' as the value for for a field specified in the template file;
+
+* Additional refinements, including fixing a bug that sometimes ignored some variants of a newline character sequence when loading a Note from disk. 
+
+See [Notenik.net](https://notenik.net) for the updated User Guide and other documentation. 
+
