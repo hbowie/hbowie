@@ -1,0 +1,31 @@
+<?output "../../../index.html"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Herb Bowie's Local Web Sites</title>
+  <style>
+  body {
+  	font-family: Helvetica, sans-serif;
+  }
+  </style>
+</head>
+<body>
+  <center>
+    <h1>Herb Bowie's Local Web Sites</h1>
+  </center><br />
+  <ul>
+<?nextrec?>
+<?if "=$sitespath$=" ?>
+    <li>
+      <a href="=$sites-path$=">
+        =$title$=
+      </a>
+    </li>
+<?endif?>
+<?loop?>
+  </ul>
+  <p><a href="../">Back to local host root</a>
+  <p>Located at /Users/hbowie/Sites/index.html</p>
+</body>
+</html>
