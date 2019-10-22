@@ -5,6 +5,16 @@
 <description>Stuff by Herb Bowie</description>
 <language>en</language>
 <item>
+<title>Blogging the 500 Greatest Albums of All-Time</title>
+<link>https://hbowie.net/2019/10/22/blogging-the-500-greatest-albums-of-all-time.html</link>
+<guid>https://hbowie.net/2019/10/22/blogging-the-500-greatest-albums-of-all-time.html</guid>
+<pubdate>Tue, 22 Oct 2019 12:00:00 -0700</pubdate>
+<description>
+<p>A couple of friends/relatives of mine are taking a trip through Rolling Stone's list of the top 500 albums of all time, and commenting on each as we work our way up the list, starting with #500. We represent three different generations of listeners, and each brings his own unique perspective to this fascinating musical journey. See how far we've gotten and follow along. You might even discover some new old music worth a listen or two!</p>
+
+</description>
+</item>
+<item>
 <title>Notenik 1.6.0 Released</title>
 <link>https://hbowie.net/2019/10/15/notenik-1.6.0-released.html</link>
 <guid>https://hbowie.net/2019/10/15/notenik-1.6.0-released.html</guid>
@@ -89,16 +99,6 @@
 <pubdate>Sat, 20 Jul 2019 12:00:00 -0700</pubdate>
 <description>
 <p>No matter what your age or orientation, it’s hard to gainsay the significance of humankind’s first trip through space to set foot on a celestial body other than our birth planet.</p>
-
-</description>
-</item>
-<item>
-<title>Notenik 1.2.0 Released</title>
-<link>https://hbowie.net/2019/07/17/notenik-1.2.0-released.html</link>
-<guid>https://hbowie.net/2019/07/17/notenik-1.2.0-released.html</guid>
-<pubdate>Wed, 17 Jul 2019 12:00:00 -0700</pubdate>
-<description>
-<p>Multiple improvements, including tokenization of the Tags Field.</p>
 
 </description>
 </item>
