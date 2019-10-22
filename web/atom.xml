@@ -4,12 +4,35 @@
 <subtitle>Stuff by Herb Bowie</subtitle>
 <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
 <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-<updated>2019-10-01</updated>
+<updated>2019-10-22</updated>
 <rights>Copyright © 2019, Herb Bowie</rights>
 <author>
 <name>Herb Bowie</name>
 </author>
 <id>https://hbowie.net/atom.xml</id>
+<entry>
+<title>Notenik 1.6.0 Released</title>
+<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2019/10/15/notenik-1.6.0-released.html"/>
+<id>https://hbowie.net/2019/10/15/notenik-1.6.0-released.html</id>
+<published>2019-10-15T09:00:00Z</published>
+<updated>2019-10-15T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>A few more additional improvements, especially in the scripting department.</p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="http://localhost/~hbowie/notenik/images/notenik.png" alt="" />
+<p>Implemented a few additional fixes and minor enhancements. Changed scripted sorting so that fields whose labels begin with &quot;seq&quot; will be treated as sequence fields, meaning that numbers will sort in numeric sequence. Added a basic Textile parser that, while far from complete, is good enough for my needs, since I still use Textile on ReasonToRock.com.</p>
+
+]]>
+</content>
+</entry>
 <entry>
 <title>Notenik 1.5.0 Released</title>
 <link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
@@ -263,29 +286,6 @@
 <li>A few miscellaneous improvements;</li>
 </ul>
 <p>See the latest version of the User Guide on <a href="https://notenik.net/swift.html">Notenik.net</a>.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>What the Latest Trump Attack Means for Democrats</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/what-the-latest-trump-attack-means-for-democrats.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/07/16/what-the-latest-trump-attack-means-for-democrats.html"/>
-<id>https://hbowie.net/2019/07/16/what-the-latest-trump-attack-means-for-democrats.html</id>
-<published>2019-07-16T09:00:00Z</published>
-<updated>2019-07-16T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>By now I’m sure you’ve heard of Trump’s recent attacks on four Democratic congressional representatives, all women of color, urging them to “go back … to the crime-infested places from which they came.” How should Democrats respond? Here are the sorts of positions I’d like to hear them articulate.</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/arrows-confrontation.jpg" alt="" />
-<p>By now I’m sure you’ve heard of Trump’s recent attacks on four Democratic congressional representatives, all women of color, urging them to “go back … to the crime-infested places from which they came.” How should Democrats respond? Here are the sorts of positions I’d like to hear them articulate.</p>
 
 ]]>
 </content>

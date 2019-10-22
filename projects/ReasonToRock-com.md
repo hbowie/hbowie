@@ -2,4 +2,10 @@ Title:  ReasonToRock.com
 
 Link:   https://reasontorock.com
 
-Status: 1 - init
+Sites Path: reasontorock/web/
+
+Status: 2 - consolidate
+
+Type:   website
+
+Seq:    9

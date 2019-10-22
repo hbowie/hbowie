@@ -6,6 +6,15 @@
 <language>en</language>
 <item>
 <link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
+<guid>https://hbowie.net/2019/10/15/notenik-1.6.0-released.html</guid>
+<pubdate>Tue, 15 Oct 2019 09:00:00 -0700</pubdate>
+<description>
+<p>Implemented a few additional fixes and minor enhancements. Changed scripted sorting so that fields whose labels begin with &quot;seq&quot; will be treated as sequence fields, meaning that numbers will sort in numeric sequence. Added a basic Textile parser that, while far from complete, is good enough for my needs, since I still use Textile on ReasonToRock.com.</p>
+
+</description>
+</item>
+<item>
+<link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
 <guid>https://hbowie.net/2019/09/20/notenik-1.5.0-released.html</guid>
 <pubdate>Fri, 20 Sep 2019 09:00:00 -0700</pubdate>
 <description>
@@ -135,15 +144,6 @@
 <li>A few miscellaneous improvements;</li>
 </ul>
 <p>See the latest version of the User Guide on <a href="https://notenik.net/swift.html">Notenik.net</a>.</p>
-
-</description>
-</item>
-<item>
-<link>https://practopian.org/blog/hbowie/what-the-latest-trump-attack-means-for-democrats.html</link>>
-<guid>https://hbowie.net/2019/07/16/what-the-latest-trump-attack-means-for-democrats.html</guid>
-<pubdate>Tue, 16 Jul 2019 09:00:00 -0700</pubdate>
-<description>
-<p>By now I’m sure you’ve heard of Trump’s recent attacks on four Democratic congressional representatives, all women of color, urging them to “go back … to the crime-infested places from which they came.” How should Democrats respond? Here are the sorts of positions I’d like to hear them articulate.</p>
 
 </description>
 </item>
