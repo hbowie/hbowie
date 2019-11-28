@@ -1,6 +1,0 @@
-Title:  Java API 1.5.0
-
-Tags:   Computing.Development.Java
-
-Link:   http://java.sun.com/j2se/1.5.0/docs/api/
-

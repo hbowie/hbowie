@@ -1,6 +1,0 @@
-Title:  Java applications and Gatekeeper
-
-Tags:   Computing.Development.Apple.Java, Computing.Development.Java
-
-Link:   https://blogs.oracle.com/talkingjavadeployment/entry/java_applications_and_gatekeeper
-
