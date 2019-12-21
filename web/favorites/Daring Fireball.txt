@@ -1,6 +1,6 @@
 Title:  Daring Fireball
 
-Tags:   Favorites.Computing
+Tags:   Favorites.Technology
 
 Link:   http://www.daringfireball.net
 

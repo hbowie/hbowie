@@ -1,6 +1,6 @@
 Title:  Baseball Standings
 
-Tags:   Favorites.Sports, Sports.Baseball
+Tags:   Sports.Baseball
 
 Link:   http://sports.yahoo.com/mlb/standings?year=season_2012&type=regular
 

@@ -4,12 +4,63 @@
 <subtitle>Stuff by Herb Bowie</subtitle>
 <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
 <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-<updated>2019-11-08</updated>
+<updated>2019-12-16</updated>
 <rights>Copyright © 2019, Herb Bowie</rights>
 <author>
 <name>Herb Bowie</name>
 </author>
 <id>https://hbowie.net/atom.xml</id>
+<entry>
+<title>Blogging Further Down the list of the Rolling Stone Top 500 Albums</title>
+<link rel="alternate" type="text/html" href="https://rs500.blog"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2019/12/16/blogging-further-down-the-list-of-the-rolling-stone-top-500-albums.html"/>
+<id>https://hbowie.net/2019/12/16/blogging-further-down-the-list-of-the-rolling-stone-top-500-albums.html</id>
+<published>2019-12-16T09:00:00Z</published>
+<updated>2019-12-16T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time.</p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://rs500.blog/images/fly-like-an-eagle.jpg" alt="" />
+<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time.</p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Notenik Forges Ahead</title>
+<link rel="alternate" type="text/html" href="https://notenik.net"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2019/12/09/notenik-forges-ahead.html"/>
+<id>https://hbowie.net/2019/12/09/notenik-forges-ahead.html</id>
+<published>2019-12-09T09:00:00Z</published>
+<updated>2019-12-09T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>Multiple recent releases, a rating of 4.9, users across the globe, and a mention from a Mac blogger. It's been a good couple of months for my Notenik app!</p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://hbowie.net/images/notenik.png" alt="" />
+<p>I've been releasing new and improved versions of Notenik fairly regularly over the last couple of months, and it's now up to 2.2.0 in the Mac App Store, with 2.3.0 on the way.</p>
+<p>As I write this, my little app now has 7 ratings in the store, and an average rating of 4.9.</p>
+<p>I've received emails about the app from a couple of people I've never met before — one user in Australia, and another in Finland! Nice to know that my software can be used around the globe.</p>
+<p>Brett Terpstra was nice enough to mention my app in one of his <a href="https://brettterpstra.com/2019/11/27/web-excursions-for-november-27-2019/">recent blog posts</a>, calling it &quot;intriguing.&quot;</p>
+<p>But there's still more to do, and continuing work on Notenik keeps me busy doing something I enjoy.</p>
+<p>If you have a Mac, and haven't yet checked it out, then I encourage you to give it a whirl!</p>
+
+]]>
+</content>
+</entry>
 <entry>
 <title>Notenik 1.8.0 Released</title>
 <link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
@@ -27,7 +78,7 @@
 </summary>
 <content type="html">
 <![CDATA[
-<img src="http://localhost/~hbowie/notenik/images/notenik.png" alt="" />
+<img src="https://hbowie.net/images/notenik.png" alt="" />
 <p>See <a href="https://notenik.net/swift.html#version-history">Notenik.net</a> for details.</p>
 
 ]]>
@@ -95,7 +146,7 @@
 </summary>
 <content type="html">
 <![CDATA[
-<img src="http://localhost/~hbowie/notenik/images/notenik.png" alt="" />
+<img src="https://hbowie.net/images/notenik.png" alt="" />
 <p>Implemented a few additional fixes and minor enhancements. Changed scripted sorting so that fields whose labels begin with &quot;seq&quot; will be treated as sequence fields, meaning that numbers will sort in numeric sequence. Added a basic Textile parser that, while far from complete, is good enough for my needs, since I still use Textile on ReasonToRock.com.</p>
 
 ]]>
@@ -212,70 +263,6 @@
 <li>A few minor bug fixes and improvements;</li>
 <li>Recording of PSTextMerge/TDF Czar style scripts.</li>
 </ul>
-<p>See the latest version of the User Guide on <a href="https://notenik.net/swift.html">Notenik.net</a>.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Elizabeth Warren in Seattle</title>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/08/26/elizabeth-warren-in-seattle.html"/>
-<id>https://hbowie.net/2019/08/26/elizabeth-warren-in-seattle.html</id>
-<published>2019-08-26T09:00:00Z</published>
-<updated>2019-08-26T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://hbowie.net/images/elizabeth-warren-in-seattle.jpg" alt="" />
-<p>I was one of the 15,000 people who gathered under the Space Needle yesterday to hear Warren speak. There were several things about her that impressed me.</p>
-<ul>
-<li>
-<p>She emphasized the need for structural change, starting with getting big money out of politics. This just makes so much sense because, without it, we'll soon be right back where we are now.</p>
-</li>
-<li>
-<p>She talked about the need for a wealth tax. This really clicked for me yesterday for the first time. I got it. People don't like income tax, because everyone has income, and no one wants to lose any of it to taxation. On the other hand, not everyone has wealth — especially as Warren defines it, above $50 million. So it will be easier to get voters to accept a new wealth tax than increases in income tax.</p>
-</li>
-<li>
-<p>As part of her opening origin story, she talked a lot about her &quot;much older&quot; brothers. It wasn't until I was riding home on the bus afterwards that I realized how smart this was, because it makes her sound much younger than her 70 years.</p>
-</li>
-</ul>
-<p>All in all, she seems like a smart policy person who genuinely has our country's best interests at heart. but also a smart campaigner.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 1.3.0 Released</title>
-<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/08/16/notenik-1.3.0-released.html"/>
-<id>https://hbowie.net/2019/08/16/notenik-1.3.0-released.html</id>
-<published>2019-08-16T09:00:00Z</published>
-<updated>2019-08-16T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Added playback of PSTextMerge/TDF Czar scripts!</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>This release includes the following changes:</p>
-<ul>
-<li>One or more files can now be attached to each Note;</li>
-<li>Tags Export Preferences added, to allow tailoring of which Notes are included in an export, and which tags are included on those Notes;</li>
-<li>A few miscellaneous improvements;</li>
-<li>Playback of PSTextMerge/TDF Czar style scripts.</li>
-</ul>
-<p>This last item is a big one. It means that the Notenik.net site is now entirely generated by this latest version of Notenik writtein in Swift.</p>
 <p>See the latest version of the User Guide on <a href="https://notenik.net/swift.html">Notenik.net</a>.</p>
 
 ]]>

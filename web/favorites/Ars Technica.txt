@@ -1,6 +1,6 @@
 Title:  Ars Technica
 
-Tags:   Computing.News, Favorites.Computing
+Tags:   Computing.News, Favorites.Technology
 
 Link:   http://www.arstechnica.com/
 

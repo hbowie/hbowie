@@ -1,6 +1,6 @@
 Title:  Google Webmaster Tools
 
-Tags:   Favorites.Web Publishing, Web Publishing
+Tags:   Web Publishing
 
 Link:   https://www.google.com/webmasters/tools/home?hl=en
 

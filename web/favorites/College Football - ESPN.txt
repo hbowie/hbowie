@@ -1,6 +1,6 @@
 Title:  College Football - ESPN
 
-Tags:   Favorites.Sports, Sports.Football
+Tags:   Sports.Football
 
 Link:   http://espn.go.com/college-football/
 
