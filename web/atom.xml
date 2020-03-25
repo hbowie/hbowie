@@ -4,12 +4,150 @@
 <subtitle>Stuff by Herb Bowie</subtitle>
 <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
 <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-<updated>2019-12-16</updated>
-<rights>Copyright © 2019, Herb Bowie</rights>
+<updated>2020-03-24</updated>
+<rights>Copyright © 2020, Herb Bowie</rights>
 <author>
 <name>Herb Bowie</name>
 </author>
 <id>https://hbowie.net/atom.xml</id>
+<entry>
+<title>Notenik 3.2.0 Released</title>
+<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/03/24/notenik-3.2.0-released.html"/>
+<id>https://hbowie.net/2020/03/24/notenik-3.2.0-released.html</id>
+<published>2020-03-24T09:00:00Z</published>
+<updated>2020-03-24T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>New Markdown parser added, with built-in wiki-style inter-note linking. </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://notenik.net/images/notenik.png" alt="" />
+<p>See the <a href="https://notenik.net/blog/recent-updates-to-notenik-march-2020.html">Blog post on Notenik.net</a> for a summary of recent changes to the Mac App. </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Notenik Now Up to 3.0.0</title>
+<link rel="alternate" type="text/html" href="https://notenik.net"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/02/05/notenik-now-up-to-3.0.0.html"/>
+<id>https://hbowie.net/2020/02/05/notenik-now-up-to-3.0.0.html</id>
+<published>2020-02-05T09:00:00Z</published>
+<updated>2020-02-05T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>My little Mac app is now up to version 3.0.0, is up to 10 ratings in the Mac app store, and still has an average rating of 4.9! I&apos;ve received lots of feedback about the app over the last few months, and the latest release is better than ever! </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://notenik.net/images/notenik.png" alt="" />
+<p>My little Mac app is now up to version 3.0.0, is up to 10 ratings in the Mac app store, and still has an average rating of 4.9! I&apos;ve received lots of feedback about the app over the last few months, and the latest release is better than ever! </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Rolling Stone 500 Blog Makes It Thru the First 80 Albums</title>
+<link rel="alternate" type="text/html" href="https://rs500.blog/albums/buddy-holly-and-the-crickets-the-chirping-crickets.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/01/20/rolling-stone-500-blog-makes-it-thru-the-first-80-albums.html"/>
+<id>https://hbowie.net/2020/01/20/rolling-stone-500-blog-makes-it-thru-the-first-80-albums.html</id>
+<published>2020-01-20T09:00:00Z</published>
+<updated>2020-01-20T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>Brian, Charlie and I have now published our thoughts on the bottom 80 of Rolling Stone&apos;s list of the 500 best albums of all time. Check it out! </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://rs500.blog/images/chirping-crickets.jpg" alt="" />
+<p>Brian, Charlie and I have now published our thoughts on the bottom 80 of Rolling Stone&apos;s list of the 500 best albums of all time. Check it out! </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Assessment of Democratic Presidential Candidates - Jan 2020</title>
+<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/assessment-of-democratic-presidential-candidates-jan-2020.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/01/15/assessment-of-democratic-presidential-candidates-jan-2020.html"/>
+<id>https://hbowie.net/2020/01/15/assessment-of-democratic-presidential-candidates-jan-2020.html</id>
+<published>2020-01-15T09:00:00Z</published>
+<updated>2020-01-15T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>This is my assessment of the Democratic candidates for the US presidency, following the debates on the evening of 14 Jan 2020. </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://practopian.org/images/white-house.jpg" alt="" />
+<p>This is my assessment of the Democratic candidates for the US presidency, following the debates on the evening of 14 Jan 2020. </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Dethroning the False God of User Experience Design</title>
+<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/dethroning-the-false-god-of-user-experience-design.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2019/12/27/dethroning-the-false-god-of-user-experience-design.html"/>
+<id>https://hbowie.net/2019/12/27/dethroning-the-false-god-of-user-experience-design.html</id>
+<published>2019-12-27T09:00:00Z</published>
+<updated>2019-12-27T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>As users of computers, do we really want our experiences to be so carefully and intentionally and restrictively designed for us? </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://practopian.org/images/working-on-a-metal-lathe.jpg" alt="" />
+<p>As users of computers, do we really want our experiences to be so carefully and intentionally and restrictively designed for us? </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>My Prayer for a More Integral New Year</title>
+<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/my-prayer-for-a-more-integral-new-year.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2019/12/17/my-prayer-for-a-more-integral-new-year.html"/>
+<id>https://hbowie.net/2019/12/17/my-prayer-for-a-more-integral-new-year.html</id>
+<published>2019-12-17T09:00:00Z</published>
+<updated>2019-12-17T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>I want to take a moment to offer up a prayer – not to God, but to all of us – for a more integral sense of who we are in the new year. </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://practopian.org/images/integral-globe.jpg" alt="" />
+<p>I want to take a moment to offer up a prayer – not to God, but to all of us – for a more integral sense of who we are in the new year. </p>
+
+]]>
+</content>
+</entry>
 <entry>
 <title>Blogging Further Down the list of the Rolling Stone Top 500 Albums</title>
 <link rel="alternate" type="text/html" href="https://rs500.blog"/>
@@ -22,13 +160,13 @@
 <uri>https://hbowie.net/</uri>
 </author>
 <summary>
-<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time.</p>
+<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time. </p>
 
 </summary>
 <content type="html">
 <![CDATA[
 <img src="https://rs500.blog/images/fly-like-an-eagle.jpg" alt="" />
-<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time.</p>
+<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time. </p>
 
 ]]>
 </content>
@@ -45,18 +183,19 @@
 <uri>https://hbowie.net/</uri>
 </author>
 <summary>
-<p>Multiple recent releases, a rating of 4.9, users across the globe, and a mention from a Mac blogger. It's been a good couple of months for my Notenik app!</p>
+<p>Multiple recent releases, a rating of 4.9, users across the globe, and a mention from a Mac blogger. It&apos;s been a good couple of months for my Notenik app! </p>
 
 </summary>
 <content type="html">
 <![CDATA[
 <img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>I've been releasing new and improved versions of Notenik fairly regularly over the last couple of months, and it's now up to 2.2.0 in the Mac App Store, with 2.3.0 on the way.</p>
-<p>As I write this, my little app now has 7 ratings in the store, and an average rating of 4.9.</p>
-<p>I've received emails about the app from a couple of people I've never met before — one user in Australia, and another in Finland! Nice to know that my software can be used around the globe.</p>
-<p>Brett Terpstra was nice enough to mention my app in one of his <a href="https://brettterpstra.com/2019/11/27/web-excursions-for-november-27-2019/">recent blog posts</a>, calling it &quot;intriguing.&quot;</p>
-<p>But there's still more to do, and continuing work on Notenik keeps me busy doing something I enjoy.</p>
-<p>If you have a Mac, and haven't yet checked it out, then I encourage you to give it a whirl!</p>
+<p>I&apos;ve been releasing new and improved versions of Notenik fairly regularly over the last couple of months, and it&apos;s now up to 2.2.0 in the Mac App Store, with 2.3.0 on the way. </p>
+<p>As I write this, my little app now has 7 ratings in the store, and an average rating of 4.9. </p>
+<p>I&apos;ve received emails about the app from a couple of people I&apos;ve never met before — one user in Australia, and another in Finland! Nice to know that my software can be used around the globe.  <br />
+</p>
+<p>Brett Terpstra was nice enough to mention my app in one of his <a href="https://brettterpstra.com/2019/11/27/web-excursions-for-november-27-2019/">recent blog posts</a>, calling it &quot;intriguing.&quot; </p>
+<p>But there&apos;s still more to do, and continuing work on Notenik keeps me busy doing something I enjoy. </p>
+<p>If you have a Mac, and haven&apos;t yet checked it out, then I encourage you to give it a whirl! </p>
 
 ]]>
 </content>
@@ -73,13 +212,13 @@
 <uri>https://hbowie.net/</uri>
 </author>
 <summary>
-<p>A few refinements and improvements.</p>
+<p>A few refinements and improvements. </p>
 
 </summary>
 <content type="html">
 <![CDATA[
 <img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>See <a href="https://notenik.net/swift.html#version-history">Notenik.net</a> for details.</p>
+<p>See <a href="https://notenik.net/swift.html#version-history">Notenik.net</a> for details. </p>
 
 ]]>
 </content>
@@ -101,169 +240,7 @@
 <content type="html">
 <![CDATA[
 <img src="https://practopian.org/images/supreme-court-pillars.jpg" alt="" />
-<p>Published on The Practical Utopian, and on Medium, and emailed to subscribers in The Practopian Perspective Issue 40.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Blogging the 500 Greatest Albums of All-Time</title>
-<link rel="alternate" type="text/html" href="https://rs500.blog/index.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/10/22/blogging-the-500-greatest-albums-of-all-time.html"/>
-<id>https://hbowie.net/2019/10/22/blogging-the-500-greatest-albums-of-all-time.html</id>
-<published>2019-10-22T09:00:00Z</published>
-<updated>2019-10-22T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>A couple of friends/relatives of mine are taking a trip through Rolling Stone's list of the top 500 albums of all time, and commenting on each as we work our way up the list, starting with #500. We represent three different generations of listeners, and each brings his own unique perspective to this fascinating musical journey. See how far we've gotten and follow along. You might even discover some new old music worth a listen or two!</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://rs500.blog/images/intro.jpg" alt="" />
-<p>A couple of friends/relatives of mine are taking a trip through Rolling Stone's list of the top 500 albums of all time, and commenting on each as we work our way up the list, starting with #500. We represent three different generations of listeners, and each brings his own unique perspective to this fascinating musical journey. See how far we've gotten and follow along. You might even discover some new old music worth a listen or two!</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 1.6.0 Released</title>
-<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/10/15/notenik-1.6.0-released.html"/>
-<id>https://hbowie.net/2019/10/15/notenik-1.6.0-released.html</id>
-<published>2019-10-15T09:00:00Z</published>
-<updated>2019-10-15T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>A few more additional improvements, especially in the scripting department.</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>Implemented a few additional fixes and minor enhancements. Changed scripted sorting so that fields whose labels begin with &quot;seq&quot; will be treated as sequence fields, meaning that numbers will sort in numeric sequence. Added a basic Textile parser that, while far from complete, is good enough for my needs, since I still use Textile on ReasonToRock.com.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 1.5.0 Released</title>
-<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/09/20/notenik-1.5.0-released.html"/>
-<id>https://hbowie.net/2019/09/20/notenik-1.5.0-released.html</id>
-<published>2019-09-20T09:00:00Z</published>
-<updated>2019-09-20T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Bug fixes and additional functionality.</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>This release includes the following changes:</p>
-<ul>
-<li>
-<p>Enhanced logic for incrementing the Seq field;</p>
-</li>
-<li>
-<p>Added a dash/minus sign as a new variable modifier that can be used after the letter 'o' to trim the opening and closing paragraph tags from the HTML generated from the Markdown source;</p>
-</li>
-<li>
-<p>Added special treatment forr the Artist field, to allow it to be used in place of Author when sorting by Author;</p>
-</li>
-<li>
-<p>Added an option to the Template file to allow a long text field to be specified by placing '&lt;longtext&gt;' as the value for for a field specified in the template file;</p>
-</li>
-<li>
-<p>Additional refinements, including fixing a bug that sometimes ignored some variants of a newline character sequence when loading a Note from disk.</p>
-</li>
-</ul>
-<p>See <a href="https://notenik.net">Notenik.net</a> for the updated User Guide and other documentation.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Practopian Perspective Issue 38 Published</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/perspective/vol-1-issue-38-rejiggering-our-religion.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/09/16/practopian-perspective-issue-38-published.html"/>
-<id>https://hbowie.net/2019/09/16/practopian-perspective-issue-38-published.html</id>
-<published>2019-09-16T09:00:00Z</published>
-<updated>2019-09-16T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/rejiggering-our-religion.jpg" alt="" />
-<p>&quot;Rejiggering Our Religion&quot; published via email in The Practopian Perspective.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 1.4.1 Released</title>
-<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/09/09/notenik-1.4.1-released.html"/>
-<id>https://hbowie.net/2019/09/09/notenik-1.4.1-released.html</id>
-<published>2019-09-09T09:00:00Z</published>
-<updated>2019-09-09T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Added checks before completing a Save As operation.</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>This was a focused maintenance release designed to prevent the user from inadvertently specifying an existing folder as the repository for a new Notenik Collection.</p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 1.4.0 Released</title>
-<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/09/06/notenik-1.4.0-released.html"/>
-<id>https://hbowie.net/2019/09/06/notenik-1.4.0-released.html</id>
-<published>2019-09-06T09:00:00Z</published>
-<updated>2019-09-06T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Added recording of PSTextMerge/TDF Czar scripts!</p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>This release includes the following changes:</p>
-<ul>
-<li>Improved the performance of Notenik when loading a new Collection (especially a large one);</li>
-<li>The Work Type field now provides a drop-down menu from which an appropriate choice can be made;</li>
-<li>A few minor bug fixes and improvements;</li>
-<li>Recording of PSTextMerge/TDF Czar style scripts.</li>
-</ul>
-<p>See the latest version of the User Guide on <a href="https://notenik.net/swift.html">Notenik.net</a>.</p>
+<p>Published on The Practical Utopian, and on Medium, and emailed to subscribers in The Practopian Perspective Issue 40. </p>
 
 ]]>
 </content>

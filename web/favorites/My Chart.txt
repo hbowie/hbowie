@@ -1,6 +1,6 @@
 Title:  My Chart
 
-Tags:   Favorites.Health, Health
+Tags:   Health
 
 Link:   https://mychart.swedish.org/
 
