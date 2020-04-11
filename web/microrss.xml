@@ -5,10 +5,71 @@
 <description>Stuff by Herb Bowie</description>
 <language>en</language>
 <item>
+<link>https://practopian.org/blog/hbowie/core-design-principles-for-teams.html</link>>
+<guid>https://hbowie.net/2020/04/09/core-design-principles-for-teams.html</guid>
+<pubdate>Thu, 09 Apr 2020 09:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>David Sloan Wilson and his pals at Prosocial World have done the heavy lifting for us, providing the eight Core Design Principles to maximize the effectiveness of human groups of all sizes. </p>
+
+</description>
+</item>
+<item>
+<link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
+<guid>https://hbowie.net/2020/04/09/notenik-3.4.0-released.html</guid>
+<pubdate>Thu, 09 Apr 2020 09:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>Fixed a couple more Markdown parser bugs that popped up, added a couple of convenience shortcuts for toggling and incrementing the status field, and added an option to Sort a List by Tags plus Title. </p>
+
+</description>
+</item>
+<item>
+<link>https://practopian.org/appreciation/the-weight.html</link>>
+<guid>https://hbowie.net/2020/04/06/an-appreciation-for-the-weight.html</guid>
+<pubdate>Mon, 06 Apr 2020 09:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>I recently came across the Playing for Change Song Around the World video of Robbie Robertson&apos;s composition &quot;The Weight,&quot; and it made me want to think &#8211; and write! &#8211; more deeply about how this song works, and what it means, and the timeless nature of its appeal. </p>
+
+</description>
+</item>
+<item>
+<link>https://practopian.org/blog/hbowie/patterns-of-human-cooperation.html</link>>
+<guid>https://hbowie.net/2020/04/03/patterns-of-human-cooperation.html</guid>
+<pubdate>Fri, 03 Apr 2020 09:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>As humans our superpower is the ability to work cooperatively with others of our species. We can see all of the following patterns of cooperation at work in our society. </p>
+
+</description>
+</item>
+<item>
+<link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
+<guid>https://hbowie.net/2020/04/02/notenik-3.3.0-released.html</guid>
+<pubdate>Thu, 02 Apr 2020 09:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>Released a new version of Notenik. Fixed a couple of bugs in the new Markdown parser and added logic to automatically add/increment a numeric suffix to a Note&apos;s title rather than rejecting it as a duplicate. </p>
+
+</description>
+</item>
+<item>
+<link>https://practopian.org/blog/hbowie/understanding-human-history.html</link>>
+<guid>https://hbowie.net/2020/03/26/understanding-human-history.html</guid>
+<pubdate>Thu, 26 Mar 2020 09:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>In broad strokes, all of human history can be seen as a progressive spiral made up of four intertwining strands. </p>
+
+</description>
+</item>
+<item>
 <link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
 <guid>https://hbowie.net/2020/03/24/notenik-3.2.0-released.html</guid>
 <pubdate>Tue, 24 Mar 2020 09:00:00 -0700</pubdate>
 <description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>See the <a href="https://notenik.net/blog/recent-updates-to-notenik-march-2020.html">Blog post on Notenik.net</a> for a summary of recent changes to the Mac App. </p>
 
 </description>
@@ -18,6 +79,7 @@
 <guid>https://hbowie.net/2020/02/05/notenik-now-up-to-3.0.0.html</guid>
 <pubdate>Wed, 05 Feb 2020 09:00:00 -0700</pubdate>
 <description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>My little Mac app is now up to version 3.0.0, is up to 10 ratings in the Mac app store, and still has an average rating of 4.9! I&apos;ve received lots of feedback about the app over the last few months, and the latest release is better than ever! </p>
 
 </description>
@@ -27,6 +89,7 @@
 <guid>https://hbowie.net/2020/01/20/rolling-stone-500-blog-makes-it-thru-the-first-80-albums.html</guid>
 <pubdate>Mon, 20 Jan 2020 09:00:00 -0700</pubdate>
 <description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>Brian, Charlie and I have now published our thoughts on the bottom 80 of Rolling Stone&apos;s list of the 500 best albums of all time. Check it out! </p>
 
 </description>
@@ -36,67 +99,8 @@
 <guid>https://hbowie.net/2020/01/15/assessment-of-democratic-presidential-candidates-jan-2020.html</guid>
 <pubdate>Wed, 15 Jan 2020 09:00:00 -0700</pubdate>
 <description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>This is my assessment of the Democratic candidates for the US presidency, following the debates on the evening of 14 Jan 2020. </p>
-
-</description>
-</item>
-<item>
-<link>https://practopian.org/blog/hbowie/dethroning-the-false-god-of-user-experience-design.html</link>>
-<guid>https://hbowie.net/2019/12/27/dethroning-the-false-god-of-user-experience-design.html</guid>
-<pubdate>Fri, 27 Dec 2019 09:00:00 -0700</pubdate>
-<description>
-<p>As users of computers, do we really want our experiences to be so carefully and intentionally and restrictively designed for us? </p>
-
-</description>
-</item>
-<item>
-<link>https://practopian.org/blog/hbowie/my-prayer-for-a-more-integral-new-year.html</link>>
-<guid>https://hbowie.net/2019/12/17/my-prayer-for-a-more-integral-new-year.html</guid>
-<pubdate>Tue, 17 Dec 2019 09:00:00 -0700</pubdate>
-<description>
-<p>I want to take a moment to offer up a prayer – not to God, but to all of us – for a more integral sense of who we are in the new year. </p>
-
-</description>
-</item>
-<item>
-<link>https://rs500.blog</link>>
-<guid>https://hbowie.net/2019/12/16/blogging-further-down-the-list-of-the-rolling-stone-top-500-albums.html</guid>
-<pubdate>Mon, 16 Dec 2019 09:00:00 -0700</pubdate>
-<description>
-<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time. </p>
-
-</description>
-</item>
-<item>
-<link>https://notenik.net</link>>
-<guid>https://hbowie.net/2019/12/09/notenik-forges-ahead.html</guid>
-<pubdate>Mon, 09 Dec 2019 09:00:00 -0700</pubdate>
-<description>
-<p>I&apos;ve been releasing new and improved versions of Notenik fairly regularly over the last couple of months, and it&apos;s now up to 2.2.0 in the Mac App Store, with 2.3.0 on the way. </p>
-<p>As I write this, my little app now has 7 ratings in the store, and an average rating of 4.9. </p>
-<p>I&apos;ve received emails about the app from a couple of people I&apos;ve never met before — one user in Australia, and another in Finland! Nice to know that my software can be used around the globe.  <br />
-</p>
-<p>Brett Terpstra was nice enough to mention my app in one of his <a href="https://brettterpstra.com/2019/11/27/web-excursions-for-november-27-2019/">recent blog posts</a>, calling it &quot;intriguing.&quot; </p>
-<p>But there&apos;s still more to do, and continuing work on Notenik keeps me busy doing something I enjoy. </p>
-<p>If you have a Mac, and haven&apos;t yet checked it out, then I encourage you to give it a whirl! </p>
-
-</description>
-</item>
-<item>
-<link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
-<guid>https://hbowie.net/2019/11/08/notenik-1.8.0-released.html</guid>
-<pubdate>Fri, 08 Nov 2019 09:00:00 -0700</pubdate>
-<description>
-<p>See <a href="https://notenik.net/swift.html#version-history">Notenik.net</a> for details. </p>
-
-</description>
-</item>
-<item>
-<link>https://practopian.org/blog/hbowie/the-personal-vs-the-institutional.html</link>>
-<guid>https://hbowie.net/2019/11/01/the-personal-vs-the-institutional.html</guid>
-<pubdate>Fri, 01 Nov 2019 09:00:00 -0700</pubdate>
-<description>
-<p>Published on The Practical Utopian, and on Medium, and emailed to subscribers in The Practopian Perspective Issue 40. </p>
 
 </description>
 </item>

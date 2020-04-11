@@ -4,12 +4,161 @@
 <subtitle>Stuff by Herb Bowie</subtitle>
 <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
 <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-<updated>2020-03-24</updated>
+<updated>2020-04-09</updated>
 <rights>Copyright © 2020, Herb Bowie</rights>
 <author>
 <name>Herb Bowie</name>
 </author>
 <id>https://hbowie.net/atom.xml</id>
+<entry>
+<title>Core Design Principles for Teams</title>
+<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/core-design-principles-for-teams.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/04/09/core-design-principles-for-teams.html"/>
+<id>https://hbowie.net/2020/04/09/core-design-principles-for-teams.html</id>
+<published>2020-04-09T09:00:00Z</published>
+<updated>2020-04-09T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>David Sloan Wilson and his pals at Prosocial World have done the heavy lifting for us, providing the eight Core Design Principles to maximize the effectiveness of human groups of all sizes. </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://practopian.org/images/team.jpg" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>David Sloan Wilson and his pals at Prosocial World have done the heavy lifting for us, providing the eight Core Design Principles to maximize the effectiveness of human groups of all sizes. </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Notenik 3.4.0 Released</title>
+<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/04/09/notenik-3.4.0-released.html"/>
+<id>https://hbowie.net/2020/04/09/notenik-3.4.0-released.html</id>
+<published>2020-04-09T09:00:00Z</published>
+<updated>2020-04-09T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="http://192.168.1.101/~hbowie/notenik/images/notenik.png" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>Fixed a couple more Markdown parser bugs that popped up, added a couple of convenience shortcuts for toggling and incrementing the status field, and added an option to Sort a List by Tags plus Title. </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>An Appreciation for &quot;The Weight&quot;</title>
+<link rel="alternate" type="text/html" href="https://practopian.org/appreciation/the-weight.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/04/06/an-appreciation-for-the-weight.html"/>
+<id>https://hbowie.net/2020/04/06/an-appreciation-for-the-weight.html</id>
+<published>2020-04-06T09:00:00Z</published>
+<updated>2020-04-06T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>I recently came across the Playing for Change Song Around the World video of Robbie Robertson&apos;s composition &quot;The Weight,&quot; and it made me want to think &#8211; and write! &#8211; more deeply about how this song works, and what it means, and the timeless nature of its appeal. </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://practopian.org/images/next-of-kin-by-elliott-landy.jpg" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>I recently came across the Playing for Change Song Around the World video of Robbie Robertson&apos;s composition &quot;The Weight,&quot; and it made me want to think &#8211; and write! &#8211; more deeply about how this song works, and what it means, and the timeless nature of its appeal. </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Patterns of Human Cooperation</title>
+<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/patterns-of-human-cooperation.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/04/03/patterns-of-human-cooperation.html"/>
+<id>https://hbowie.net/2020/04/03/patterns-of-human-cooperation.html</id>
+<published>2020-04-03T09:00:00Z</published>
+<updated>2020-04-03T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>As humans our superpower is the ability to work cooperatively with others of our species. We can see all of the following patterns of cooperation at work in our society. </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://practopian.org/images/cooperation.jpg" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>As humans our superpower is the ability to work cooperatively with others of our species. We can see all of the following patterns of cooperation at work in our society. </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Notenik 3.3.0 Released</title>
+<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/04/02/notenik-3.3.0-released.html"/>
+<id>https://hbowie.net/2020/04/02/notenik-3.3.0-released.html</id>
+<published>2020-04-02T09:00:00Z</published>
+<updated>2020-04-02T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>Released a new version of Notenik. Fixed a couple of bugs in the new Markdown parser and added logic to automatically add/increment a numeric suffix to a Note&apos;s title rather than rejecting it as a duplicate. </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="http://192.168.1.101/~hbowie/notenik/images/notenik.png" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>Released a new version of Notenik. Fixed a couple of bugs in the new Markdown parser and added logic to automatically add/increment a numeric suffix to a Note&apos;s title rather than rejecting it as a duplicate. </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Understanding Human History</title>
+<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/understanding-human-history.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/03/26/understanding-human-history.html"/>
+<id>https://hbowie.net/2020/03/26/understanding-human-history.html</id>
+<published>2020-03-26T09:00:00Z</published>
+<updated>2020-03-26T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>In broad strokes, all of human history can be seen as a progressive spiral made up of four intertwining strands. </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://practopian.org/images/history.jpg" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>In broad strokes, all of human history can be seen as a progressive spiral made up of four intertwining strands. </p>
+
+]]>
+</content>
+</entry>
 <entry>
 <title>Notenik 3.2.0 Released</title>
 <link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
@@ -22,12 +171,14 @@
 <uri>https://hbowie.net/</uri>
 </author>
 <summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>New Markdown parser added, with built-in wiki-style inter-note linking. </p>
 
 </summary>
 <content type="html">
 <![CDATA[
 <img src="https://notenik.net/images/notenik.png" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>See the <a href="https://notenik.net/blog/recent-updates-to-notenik-march-2020.html">Blog post on Notenik.net</a> for a summary of recent changes to the Mac App. </p>
 
 ]]>
@@ -45,12 +196,14 @@
 <uri>https://hbowie.net/</uri>
 </author>
 <summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>My little Mac app is now up to version 3.0.0, is up to 10 ratings in the Mac app store, and still has an average rating of 4.9! I&apos;ve received lots of feedback about the app over the last few months, and the latest release is better than ever! </p>
 
 </summary>
 <content type="html">
 <![CDATA[
 <img src="https://notenik.net/images/notenik.png" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>My little Mac app is now up to version 3.0.0, is up to 10 ratings in the Mac app store, and still has an average rating of 4.9! I&apos;ve received lots of feedback about the app over the last few months, and the latest release is better than ever! </p>
 
 ]]>
@@ -68,12 +221,14 @@
 <uri>https://hbowie.net/</uri>
 </author>
 <summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>Brian, Charlie and I have now published our thoughts on the bottom 80 of Rolling Stone&apos;s list of the 500 best albums of all time. Check it out! </p>
 
 </summary>
 <content type="html">
 <![CDATA[
 <img src="https://rs500.blog/images/chirping-crickets.jpg" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>Brian, Charlie and I have now published our thoughts on the bottom 80 of Rolling Stone&apos;s list of the 500 best albums of all time. Check it out! </p>
 
 ]]>
@@ -91,156 +246,15 @@
 <uri>https://hbowie.net/</uri>
 </author>
 <summary>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>This is my assessment of the Democratic candidates for the US presidency, following the debates on the evening of 14 Jan 2020. </p>
 
 </summary>
 <content type="html">
 <![CDATA[
 <img src="https://practopian.org/images/white-house.jpg" alt="" />
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>This is my assessment of the Democratic candidates for the US presidency, following the debates on the evening of 14 Jan 2020. </p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Dethroning the False God of User Experience Design</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/dethroning-the-false-god-of-user-experience-design.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/12/27/dethroning-the-false-god-of-user-experience-design.html"/>
-<id>https://hbowie.net/2019/12/27/dethroning-the-false-god-of-user-experience-design.html</id>
-<published>2019-12-27T09:00:00Z</published>
-<updated>2019-12-27T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>As users of computers, do we really want our experiences to be so carefully and intentionally and restrictively designed for us? </p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/working-on-a-metal-lathe.jpg" alt="" />
-<p>As users of computers, do we really want our experiences to be so carefully and intentionally and restrictively designed for us? </p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>My Prayer for a More Integral New Year</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/my-prayer-for-a-more-integral-new-year.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/12/17/my-prayer-for-a-more-integral-new-year.html"/>
-<id>https://hbowie.net/2019/12/17/my-prayer-for-a-more-integral-new-year.html</id>
-<published>2019-12-17T09:00:00Z</published>
-<updated>2019-12-17T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>I want to take a moment to offer up a prayer – not to God, but to all of us – for a more integral sense of who we are in the new year. </p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/integral-globe.jpg" alt="" />
-<p>I want to take a moment to offer up a prayer – not to God, but to all of us – for a more integral sense of who we are in the new year. </p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Blogging Further Down the list of the Rolling Stone Top 500 Albums</title>
-<link rel="alternate" type="text/html" href="https://rs500.blog"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/12/16/blogging-further-down-the-list-of-the-rolling-stone-top-500-albums.html"/>
-<id>https://hbowie.net/2019/12/16/blogging-further-down-the-list-of-the-rolling-stone-top-500-albums.html</id>
-<published>2019-12-16T09:00:00Z</published>
-<updated>2019-12-16T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time. </p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://rs500.blog/images/fly-like-an-eagle.jpg" alt="" />
-<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time. </p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik Forges Ahead</title>
-<link rel="alternate" type="text/html" href="https://notenik.net"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/12/09/notenik-forges-ahead.html"/>
-<id>https://hbowie.net/2019/12/09/notenik-forges-ahead.html</id>
-<published>2019-12-09T09:00:00Z</published>
-<updated>2019-12-09T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Multiple recent releases, a rating of 4.9, users across the globe, and a mention from a Mac blogger. It&apos;s been a good couple of months for my Notenik app! </p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>I&apos;ve been releasing new and improved versions of Notenik fairly regularly over the last couple of months, and it&apos;s now up to 2.2.0 in the Mac App Store, with 2.3.0 on the way. </p>
-<p>As I write this, my little app now has 7 ratings in the store, and an average rating of 4.9. </p>
-<p>I&apos;ve received emails about the app from a couple of people I&apos;ve never met before — one user in Australia, and another in Finland! Nice to know that my software can be used around the globe.  <br />
-</p>
-<p>Brett Terpstra was nice enough to mention my app in one of his <a href="https://brettterpstra.com/2019/11/27/web-excursions-for-november-27-2019/">recent blog posts</a>, calling it &quot;intriguing.&quot; </p>
-<p>But there&apos;s still more to do, and continuing work on Notenik keeps me busy doing something I enjoy. </p>
-<p>If you have a Mac, and haven&apos;t yet checked it out, then I encourage you to give it a whirl! </p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 1.8.0 Released</title>
-<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/11/08/notenik-1.8.0-released.html"/>
-<id>https://hbowie.net/2019/11/08/notenik-1.8.0-released.html</id>
-<published>2019-11-08T09:00:00Z</published>
-<updated>2019-11-08T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>A few refinements and improvements. </p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://hbowie.net/images/notenik.png" alt="" />
-<p>See <a href="https://notenik.net/swift.html#version-history">Notenik.net</a> for details. </p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>The Personal vs. The Institutional</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/the-personal-vs-the-institutional.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2019/11/01/the-personal-vs-the-institutional.html"/>
-<id>https://hbowie.net/2019/11/01/the-personal-vs-the-institutional.html</id>
-<published>2019-11-01T09:00:00Z</published>
-<updated>2019-11-01T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/supreme-court-pillars.jpg" alt="" />
-<p>Published on The Practical Utopian, and on Medium, and emailed to subscribers in The Practopian Perspective Issue 40. </p>
 
 ]]>
 </content>

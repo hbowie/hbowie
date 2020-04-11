@@ -1,0 +1,17 @@
+Title:  Notenik 3.4.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984?mt=12
+
+Image Link: http://192.168.1.101/~hbowie/notenik/images/notenik.png
+
+Status: 9 - Closed
+
+Seq:    134
+
+Date:   09 Apr 2020
+
+Body: 
+
+Fixed a couple more Markdown parser bugs that popped up, added a couple of convenience shortcuts for toggling and incrementing the status field, and added an option to Sort a List by Tags plus Title. 

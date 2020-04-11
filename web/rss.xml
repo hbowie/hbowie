@@ -5,11 +5,77 @@
 <description>Stuff by Herb Bowie</description>
 <language>en</language>
 <item>
+<title>Core Design Principles for Teams</title>
+<link>https://hbowie.net/2020/04/09/core-design-principles-for-teams.html</link>
+<guid>https://hbowie.net/2020/04/09/core-design-principles-for-teams.html</guid>
+<pubdate>Thu, 09 Apr 2020 12:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>David Sloan Wilson and his pals at Prosocial World have done the heavy lifting for us, providing the eight Core Design Principles to maximize the effectiveness of human groups of all sizes. </p>
+
+</description>
+</item>
+<item>
+<title>Notenik 3.4.0 Released</title>
+<link>https://hbowie.net/2020/04/09/notenik-3.4.0-released.html</link>
+<guid>https://hbowie.net/2020/04/09/notenik-3.4.0-released.html</guid>
+<pubdate>Thu, 09 Apr 2020 12:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+
+</description>
+</item>
+<item>
+<title>An Appreciation for &quot;The Weight&quot;</title>
+<link>https://hbowie.net/2020/04/06/an-appreciation-for-the-weight.html</link>
+<guid>https://hbowie.net/2020/04/06/an-appreciation-for-the-weight.html</guid>
+<pubdate>Mon, 06 Apr 2020 12:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>I recently came across the Playing for Change Song Around the World video of Robbie Robertson&apos;s composition &quot;The Weight,&quot; and it made me want to think &#8211; and write! &#8211; more deeply about how this song works, and what it means, and the timeless nature of its appeal. </p>
+
+</description>
+</item>
+<item>
+<title>Patterns of Human Cooperation</title>
+<link>https://hbowie.net/2020/04/03/patterns-of-human-cooperation.html</link>
+<guid>https://hbowie.net/2020/04/03/patterns-of-human-cooperation.html</guid>
+<pubdate>Fri, 03 Apr 2020 12:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>As humans our superpower is the ability to work cooperatively with others of our species. We can see all of the following patterns of cooperation at work in our society. </p>
+
+</description>
+</item>
+<item>
+<title>Notenik 3.3.0 Released</title>
+<link>https://hbowie.net/2020/04/02/notenik-3.3.0-released.html</link>
+<guid>https://hbowie.net/2020/04/02/notenik-3.3.0-released.html</guid>
+<pubdate>Thu, 02 Apr 2020 12:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>Released a new version of Notenik. Fixed a couple of bugs in the new Markdown parser and added logic to automatically add/increment a numeric suffix to a Note&apos;s title rather than rejecting it as a duplicate. </p>
+
+</description>
+</item>
+<item>
+<title>Understanding Human History</title>
+<link>https://hbowie.net/2020/03/26/understanding-human-history.html</link>
+<guid>https://hbowie.net/2020/03/26/understanding-human-history.html</guid>
+<pubdate>Thu, 26 Mar 2020 12:00:00 -0700</pubdate>
+<description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
+<p>In broad strokes, all of human history can be seen as a progressive spiral made up of four intertwining strands. </p>
+
+</description>
+</item>
+<item>
 <title>Notenik 3.2.0 Released</title>
 <link>https://hbowie.net/2020/03/24/notenik-3.2.0-released.html</link>
 <guid>https://hbowie.net/2020/03/24/notenik-3.2.0-released.html</guid>
 <pubdate>Tue, 24 Mar 2020 12:00:00 -0700</pubdate>
 <description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>New Markdown parser added, with built-in wiki-style inter-note linking. </p>
 
 </description>
@@ -20,6 +86,7 @@
 <guid>https://hbowie.net/2020/02/05/notenik-now-up-to-3.0.0.html</guid>
 <pubdate>Wed, 05 Feb 2020 12:00:00 -0700</pubdate>
 <description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>My little Mac app is now up to version 3.0.0, is up to 10 ratings in the Mac app store, and still has an average rating of 4.9! I&apos;ve received lots of feedback about the app over the last few months, and the latest release is better than ever! </p>
 
 </description>
@@ -30,6 +97,7 @@
 <guid>https://hbowie.net/2020/01/20/rolling-stone-500-blog-makes-it-thru-the-first-80-albums.html</guid>
 <pubdate>Mon, 20 Jan 2020 12:00:00 -0700</pubdate>
 <description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>Brian, Charlie and I have now published our thoughts on the bottom 80 of Rolling Stone&apos;s list of the 500 best albums of all time. Check it out! </p>
 
 </description>
@@ -40,66 +108,8 @@
 <guid>https://hbowie.net/2020/01/15/assessment-of-democratic-presidential-candidates-jan-2020.html</guid>
 <pubdate>Wed, 15 Jan 2020 12:00:00 -0700</pubdate>
 <description>
+<!-- Markdown to HTML conversion provided by NotenikMkdown -->
 <p>This is my assessment of the Democratic candidates for the US presidency, following the debates on the evening of 14 Jan 2020. </p>
-
-</description>
-</item>
-<item>
-<title>Dethroning the False God of User Experience Design</title>
-<link>https://hbowie.net/2019/12/27/dethroning-the-false-god-of-user-experience-design.html</link>
-<guid>https://hbowie.net/2019/12/27/dethroning-the-false-god-of-user-experience-design.html</guid>
-<pubdate>Fri, 27 Dec 2019 12:00:00 -0700</pubdate>
-<description>
-<p>As users of computers, do we really want our experiences to be so carefully and intentionally and restrictively designed for us? </p>
-
-</description>
-</item>
-<item>
-<title>My Prayer for a More Integral New Year</title>
-<link>https://hbowie.net/2019/12/17/my-prayer-for-a-more-integral-new-year.html</link>
-<guid>https://hbowie.net/2019/12/17/my-prayer-for-a-more-integral-new-year.html</guid>
-<pubdate>Tue, 17 Dec 2019 12:00:00 -0700</pubdate>
-<description>
-<p>I want to take a moment to offer up a prayer – not to God, but to all of us – for a more integral sense of who we are in the new year. </p>
-
-</description>
-</item>
-<item>
-<title>Blogging Further Down the list of the Rolling Stone Top 500 Albums</title>
-<link>https://hbowie.net/2019/12/16/blogging-further-down-the-list-of-the-rolling-stone-top-500-albums.html</link>
-<guid>https://hbowie.net/2019/12/16/blogging-further-down-the-list-of-the-rolling-stone-top-500-albums.html</guid>
-<pubdate>Mon, 16 Dec 2019 12:00:00 -0700</pubdate>
-<description>
-<p>Some of the albums in the latest batch flew like eagles, while others sank like stones. Check out our latest multi-generational assessments of the top 500 albums of all time. </p>
-
-</description>
-</item>
-<item>
-<title>Notenik Forges Ahead</title>
-<link>https://hbowie.net/2019/12/09/notenik-forges-ahead.html</link>
-<guid>https://hbowie.net/2019/12/09/notenik-forges-ahead.html</guid>
-<pubdate>Mon, 09 Dec 2019 12:00:00 -0700</pubdate>
-<description>
-<p>Multiple recent releases, a rating of 4.9, users across the globe, and a mention from a Mac blogger. It&apos;s been a good couple of months for my Notenik app! </p>
-
-</description>
-</item>
-<item>
-<title>Notenik 1.8.0 Released</title>
-<link>https://hbowie.net/2019/11/08/notenik-1.8.0-released.html</link>
-<guid>https://hbowie.net/2019/11/08/notenik-1.8.0-released.html</guid>
-<pubdate>Fri, 08 Nov 2019 12:00:00 -0700</pubdate>
-<description>
-<p>A few refinements and improvements. </p>
-
-</description>
-</item>
-<item>
-<title>The Personal vs. The Institutional</title>
-<link>https://hbowie.net/2019/11/01/the-personal-vs-the-institutional.html</link>
-<guid>https://hbowie.net/2019/11/01/the-personal-vs-the-institutional.html</guid>
-<pubdate>Fri, 01 Nov 2019 12:00:00 -0700</pubdate>
-<description>
 
 </description>
 </item>

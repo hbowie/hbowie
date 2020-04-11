@@ -1,0 +1,21 @@
+Title:  Notenik 3.3.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984?mt=12
+
+Image Link: http://192.168.1.101/~hbowie/notenik/images/notenik.png
+
+Status: 9 - Closed
+
+Seq:    131
+
+Date:   02 Apr 2020
+
+Teaser: 
+
+Released a new version of Notenik. Fixed a couple of bugs in the new Markdown parser and added logic to automatically add/increment a numeric suffix to a Note's title rather than rejecting it as a duplicate. 
+
+Body: 
+
+Released a new version of Notenik. Fixed a couple of bugs in the new Markdown parser and added logic to automatically add/increment a numeric suffix to a Note's title rather than rejecting it as a duplicate. 
