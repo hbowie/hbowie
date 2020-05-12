@@ -1,6 +1,6 @@
 Title:  TripIt
 
-Tags:   Favorites.Travel, Travel
+Tags:   Travel
 
 Link:   http://www.tripit.com
 

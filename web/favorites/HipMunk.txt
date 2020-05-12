@@ -1,6 +1,6 @@
 Title:  HipMunk
 
-Tags:   Favorites.Travel, Travel.Air
+Tags:   Travel.Air
 
 Link:   http://www.hipmunk.com
 
