@@ -5,6 +5,24 @@
 <description>Stuff by Herb Bowie</description>
 <language>en</language>
 <item>
+<link>https://practopian.org/blog/hbowie/cooperation-competition-and-coercion.html</link>>
+<guid>https://hbowie.net/2020/07/17/cooperation-competition-and-coercion.html</guid>
+<pubdate>Fri, 17 Jul 2020 09:00:00 -0700</pubdate>
+<description>
+<p>When we look at the major societal choices facing us today, the primary question is not whether we want a society that is more cooperative or more competitive, but whether we&apos;re ready for a society that is less coercive. </p>
+
+</description>
+</item>
+<item>
+<link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
+<guid>https://hbowie.net/2020/07/12/notenik-4.2.0-released.html</guid>
+<pubdate>Sun, 12 Jul 2020 09:00:00 -0700</pubdate>
+<description>
+<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
+
+</description>
+</item>
+<item>
 <link>https://rs500.blog</link>>
 <guid>https://hbowie.net/2020/06/20/rs-500-blog-400-375.html</guid>
 <pubdate>Sat, 20 Jun 2020 09:00:00 -0700</pubdate>
@@ -75,24 +93,6 @@
 <pubdate>Wed, 06 May 2020 09:00:00 -0700</pubdate>
 <description>
 <p>Users can now drag and drop a Note from one Collection to another in order to copy it to the second Collection; a Note sharing option to insert Markdown block quotes has been added; improved apostrophe handling when using the Notenik Markdown parser; and a new Bookmarks Board allowing users to select an available Collection to be opened. </p>
-
-</description>
-</item>
-<item>
-<link>https://www.seattleindivisible.com/blog/2020/4/28/seattle-indivisibles-continue-work-to-win-in-2020-despite-pandemic</link>>
-<guid>https://hbowie.net/2020/04/28/virtual-letter-writing-party.html</guid>
-<pubdate>Tue, 28 Apr 2020 09:00:00 -0700</pubdate>
-<description>
-<p>This is why leading progressive organizations are now organizing virtual letter-writing parties, to help us reach out to key voters in important states and encourage them to get out and vote in our critical elections this year. </p>
-
-</description>
-</item>
-<item>
-<link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
-<guid>https://hbowie.net/2020/04/21/notenik-3.5.0-released.html</guid>
-<pubdate>Tue, 21 Apr 2020 09:00:00 -0700</pubdate>
-<description>
-<p>Users can now drag bookmarks from their web browser and drop them into the list view of an open collection in order to add them as a new note. </p>
 
 </description>
 </item>

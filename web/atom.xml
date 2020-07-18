@@ -4,12 +4,58 @@
 <subtitle>Stuff by Herb Bowie</subtitle>
 <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
 <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-<updated>2020-06-20</updated>
+<updated>2020-07-18</updated>
 <rights>Copyright © 2020, Herb Bowie</rights>
 <author>
 <name>Herb Bowie</name>
 </author>
 <id>https://hbowie.net/atom.xml</id>
+<entry>
+<title>Cooperation, Competition and Coercion</title>
+<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/cooperation-competition-and-coercion.html"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/07/17/cooperation-competition-and-coercion.html"/>
+<id>https://hbowie.net/2020/07/17/cooperation-competition-and-coercion.html</id>
+<published>2020-07-17T09:00:00Z</published>
+<updated>2020-07-17T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>When we look at the major societal choices facing us today, the primary question is not whether we want a society that is more cooperative or more competitive, but whether we&apos;re ready for a society that is less coercive. </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://practopian.org/images/coercion.jpg" alt="" />
+<p>When we look at the major societal choices facing us today, the primary question is not whether we want a society that is more cooperative or more competitive, but whether we&apos;re ready for a society that is less coercive. </p>
+
+]]>
+</content>
+</entry>
+<entry>
+<title>Notenik 4.2.0 Released</title>
+<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+<link rel="related" type="text/html" href="https://hbowie.net/2020/07/12/notenik-4.2.0-released.html"/>
+<id>https://hbowie.net/2020/07/12/notenik-4.2.0-released.html</id>
+<published>2020-07-12T09:00:00Z</published>
+<updated>2020-07-12T12:00:00Z</updated>
+<author>
+<name>Herb Bowie</name>
+<uri>https://hbowie.net/</uri>
+</author>
+<summary>
+<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
+
+</summary>
+<content type="html">
+<![CDATA[
+<img src="https://notenik.net/images/notenik.png" alt="" />
+<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
+
+]]>
+</content>
+</entry>
 <entry>
 <title>RS 500 Blog - 400 - 375</title>
 <link rel="alternate" type="text/html" href="https://rs500.blog"/>
@@ -192,52 +238,6 @@
 <![CDATA[
 <img src="https://notenik.net/images/notenik.png" alt="" />
 <p>Users can now drag and drop a Note from one Collection to another in order to copy it to the second Collection; a Note sharing option to insert Markdown block quotes has been added; improved apostrophe handling when using the Notenik Markdown parser; and a new Bookmarks Board allowing users to select an available Collection to be opened. </p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Virtual Letter Writing Party</title>
-<link rel="alternate" type="text/html" href="https://www.seattleindivisible.com/blog/2020/4/28/seattle-indivisibles-continue-work-to-win-in-2020-despite-pandemic"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/04/28/virtual-letter-writing-party.html"/>
-<id>https://hbowie.net/2020/04/28/virtual-letter-writing-party.html</id>
-<published>2020-04-28T09:00:00Z</published>
-<updated>2020-04-28T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>This is why leading progressive organizations are now organizing virtual letter-writing parties, to help us reach out to key voters in important states and encourage them to get out and vote in our critical elections this year. </p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://external-sea1-1.xx.fbcdn.net/safe_image.php?d=AQAM_et_z_E3Bo0u&w=540&h=282&url=https%3A%2F%2Fmobilizeamerica.imgix.net%2Fuploads%2Forganization%2Fsl_events_virtualLetters_mobilize_3x2_2_20200317224237578679.png%3Fw%3D1200%26h%3D600%26fit%3Dfill%26bg%3DFFF&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCu0yjgZQD3LA92" alt="" />
-<p>This is why leading progressive organizations are now organizing virtual letter-writing parties, to help us reach out to key voters in important states and encourage them to get out and vote in our critical elections this year. </p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 3.5.0 Released</title>
-<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/04/21/notenik-3.5.0-released.html"/>
-<id>https://hbowie.net/2020/04/21/notenik-3.5.0-released.html</id>
-<published>2020-04-21T09:00:00Z</published>
-<updated>2020-04-21T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Users can now drag bookmarks from their web browser and drop them into the list view of an open collection in order to add them as a new note. </p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="http://192.168.1.101/~hbowie/notenik/images/notenik.png" alt="" />
-<p>Users can now drag bookmarks from their web browser and drop them into the list view of an open collection in order to add them as a new note. </p>
 
 ]]>
 </content>
