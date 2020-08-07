@@ -1,245 +1,244 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>hbowie.net</title>
-<subtitle>Stuff by Herb Bowie</subtitle>
-<link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
-<link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-<updated>2020-07-18</updated>
-<rights>Copyright © 2020, Herb Bowie</rights>
-<author>
-<name>Herb Bowie</name>
-</author>
-<id>https://hbowie.net/atom.xml</id>
-<entry>
-<title>Cooperation, Competition and Coercion</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/cooperation-competition-and-coercion.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/07/17/cooperation-competition-and-coercion.html"/>
-<id>https://hbowie.net/2020/07/17/cooperation-competition-and-coercion.html</id>
-<published>2020-07-17T09:00:00Z</published>
-<updated>2020-07-17T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>When we look at the major societal choices facing us today, the primary question is not whether we want a society that is more cooperative or more competitive, but whether we&apos;re ready for a society that is less coercive. </p>
+  <title>hbowie.net</title>
+  <subtitle>Stuff by Herb Bowie</subtitle>
+  <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
+  <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
+  <updated>2020-08-07</updated>
+  <rights>Copyright © 2020, Herb Bowie</rights>
+  <author>
+    <name>Herb Bowie</name>
+  </author>
+  <id>https://hbowie.net/atom.xml</id>
+	<entry>
+	  <title>Undoing Trumpism</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/undoing-trumpism.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/08/04/undoing-trumpism.html"/>
+	  <id>https://hbowie.net/2020/08/04/undoing-trumpism.html</id>
+	  <published>2020-08-04T09:00:00Z</published>
+	  <updated>2020-08-04T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Many of the things that our current president came to stand for were around before his candidacy – and, in fact, helped him to get elected – and they won&apos;t simply vanish on their own. If we&apos;re foolish enough to think they will, then we&apos;re engaging in as much magical thinking as The Donald is when he claims that COVID-19 will simply disappear all by itself. </p>
 
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/coercion.jpg" alt="" />
-<p>When we look at the major societal choices facing us today, the primary question is not whether we want a society that is more cooperative or more competitive, but whether we&apos;re ready for a society that is less coercive. </p>
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/coercion.jpg" alt="" />
+	  	<p>Many of the things that our current president came to stand for were around before his candidacy – and, in fact, helped him to get elected – and they won&apos;t simply vanish on their own. If we&apos;re foolish enough to think they will, then we&apos;re engaging in as much magical thinking as The Donald is when he claims that COVID-19 will simply disappear all by itself. </p>
 
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 4.2.0 Released</title>
-<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/07/12/notenik-4.2.0-released.html"/>
-<id>https://hbowie.net/2020/07/12/notenik-4.2.0-released.html</id>
-<published>2020-07-12T09:00:00Z</published>
-<updated>2020-07-12T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 4.3.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/08/03/notenik-4.3.0-released.html"/>
+	  <id>https://hbowie.net/2020/08/03/notenik-4.3.0-released.html</id>
+	  <published>2020-08-03T09:00:00Z</published>
+	  <updated>2020-08-03T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
 
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://notenik.net/images/notenik.png" alt="" />
-<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
 
-]]>
-</content>
-</entry>
-<entry>
-<title>RS 500 Blog - 400 - 375</title>
-<link rel="alternate" type="text/html" href="https://rs500.blog"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/06/20/rs-500-blog-400-375.html"/>
-<id>https://hbowie.net/2020/06/20/rs-500-blog-400-375.html</id>
-<published>2020-06-20T09:00:00Z</published>
-<updated>2020-06-20T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Published the next batch of 25 albums to the RS 500 blog. Some notable albums in the 375 - 400 range, and some interesting comments from Charlie, Brian and myself. As always, three very different perspectives based on ages and interests. </p>
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Cooperation, Competition and Coercion</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/cooperation-competition-and-coercion.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/07/17/cooperation-competition-and-coercion.html"/>
+	  <id>https://hbowie.net/2020/07/17/cooperation-competition-and-coercion.html</id>
+	  <published>2020-07-17T09:00:00Z</published>
+	  <updated>2020-07-17T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>When we look at the major societal choices facing us today, the primary question is not whether we want a society that is more cooperative or more competitive, but whether we&apos;re ready for a society that is less coercive. </p>
 
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://rs500.blog/images/late-for-the-sky.jpg" alt="" />
-<p>Published the next batch of 25 albums to the RS 500 blog. Some notable albums in the 375 - 400 range, and some interesting comments from Charlie, Brian and myself. As always, three very different perspectives based on ages and interests. </p>
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/coercion.jpg" alt="" />
+	  	<p>When we look at the major societal choices facing us today, the primary question is not whether we want a society that is more cooperative or more competitive, but whether we&apos;re ready for a society that is less coercive. </p>
 
-]]>
-</content>
-</entry>
-<entry>
-<title>Can the US Become a Truly Egalitarian Society?</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/06/15/can-the-us-become-a-truly-egalitarian-society.html"/>
-<id>https://hbowie.net/2020/06/15/can-the-us-become-a-truly-egalitarian-society.html</id>
-<published>2020-06-15T09:00:00Z</published>
-<updated>2020-06-15T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>As with many of us, I&apos;ve been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. </p>
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 4.2.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/07/12/notenik-4.2.0-released.html"/>
+	  <id>https://hbowie.net/2020/07/12/notenik-4.2.0-released.html</id>
+	  <published>2020-07-12T09:00:00Z</published>
+	  <updated>2020-07-12T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
 
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/louis-armstrong-stamp.jpg" alt="" />
-<p>As with many of us, I&apos;ve been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. </p>
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
 
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 4.0.0 Released</title>
-<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/06/13/notenik-4.0.0-released.html"/>
-<id>https://hbowie.net/2020/06/13/notenik-4.0.0-released.html</id>
-<published>2020-06-13T09:00:00Z</published>
-<updated>2020-06-13T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>All sorts of improvements since 3.6.0. </p>
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>RS 500 Blog - 400 - 375</title>
+		<link rel="alternate" type="text/html" href="https://rs500.blog"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/06/20/rs-500-blog-400-375.html"/>
+	  <id>https://hbowie.net/2020/06/20/rs-500-blog-400-375.html</id>
+	  <published>2020-06-20T09:00:00Z</published>
+	  <updated>2020-06-20T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Published the next batch of 25 albums to the RS 500 blog. Some notable albums in the 375 - 400 range, and some interesting comments from Charlie, Brian and myself. As always, three very different perspectives based on ages and interests. </p>
 
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://notenik.net/images/notenik.png" alt="" />
-<p>Added a new Counts window to check word count; several minor UI improvements. </p>
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://rs500.blog/images/late-for-the-sky.jpg" alt="" />
+	  	<p>Published the next batch of 25 albums to the RS 500 blog. Some notable albums in the 375 - 400 range, and some interesting comments from Charlie, Brian and myself. As always, three very different perspectives based on ages and interests. </p>
 
-]]>
-</content>
-</entry>
-<entry>
-<title>In-Depth Analysis of Jackson Browne&apos;s Late for the Sky Album</title>
-<link rel="alternate" type="text/html" href="https://www.reasontorock.com/tracks/late_for_the_sky.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/06/11/in-depth-analysis-of-jackson-brownes-late-for-the-sky-album.html"/>
-<id>https://hbowie.net/2020/06/11/in-depth-analysis-of-jackson-brownes-late-for-the-sky-album.html</id>
-<published>2020-06-11T09:00:00Z</published>
-<updated>2020-06-11T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Finally completed an in-depth analysis of Jackson Browne&apos;s album <em>Late for the Sky</em>, a project I had begun years ago. It&apos;s a lot to read, but the album is worth it. </p>
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Can the US Become a Truly Egalitarian Society?</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/06/15/can-the-us-become-a-truly-egalitarian-society.html"/>
+	  <id>https://hbowie.net/2020/06/15/can-the-us-become-a-truly-egalitarian-society.html</id>
+	  <published>2020-06-15T09:00:00Z</published>
+	  <updated>2020-06-15T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>As with many of us, I&apos;ve been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. </p>
 
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://reasontorock.com/images/misc/magritte-seidemann.jpg" alt="" />
-<p>Finally completed an in-depth analysis of Jackson Browne&apos;s album <em>Late for the Sky</em>, a project I had begun years ago. It&apos;s a lot to read, but the album is worth it. </p>
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/louis-armstrong-stamp.jpg" alt="" />
+	  	<p>As with many of us, I&apos;ve been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. </p>
 
-]]>
-</content>
-</entry>
-<entry>
-<title>Democracy</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/basics/democracy.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/06/03/democracy.html"/>
-<id>https://hbowie.net/2020/06/03/democracy.html</id>
-<published>2020-06-03T09:00:00Z</published>
-<updated>2020-06-03T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Wrote up a Practical Utopian &quot;basics&quot; piece on the core value of Democracy, after reading <em>How Democracies Die</em>. </p>
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 4.0.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984?mt=12"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/06/13/notenik-4.0.0-released.html"/>
+	  <id>https://hbowie.net/2020/06/13/notenik-4.0.0-released.html</id>
+	  <published>2020-06-13T09:00:00Z</published>
+	  <updated>2020-06-13T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>All sorts of improvements since 3.6.0. </p>
 
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/lincoln-gettysburg-stamp.jpg" alt="" />
-<p>Wrote up a Practical Utopian &quot;basics&quot; piece on the core value of Democracy, after reading <em>How Democracies Die</em>. </p>
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Added a new Counts window to check word count; several minor UI improvements. </p>
 
-]]>
-</content>
-</entry>
-<entry>
-<title>8 Big Lessons We Can Learn from the Pandemic</title>
-<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/05/10/8-big-lessons-we-can-learn-from-the-pandemic.html"/>
-<id>https://hbowie.net/2020/05/10/8-big-lessons-we-can-learn-from-the-pandemic.html</id>
-<published>2020-05-10T09:00:00Z</published>
-<updated>2020-05-10T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Suffering through a pandemic is a terrible way to have to learn a lesson or two about the nature of humanity. But it&apos;s what we have, so we may as well make use of it. </p>
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>In-Depth Analysis of Jackson Browne&apos;s Late for the Sky Album</title>
+		<link rel="alternate" type="text/html" href="https://www.reasontorock.com/tracks/late_for_the_sky.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/06/11/in-depth-analysis-of-jackson-brownes-late-for-the-sky-album.html"/>
+	  <id>https://hbowie.net/2020/06/11/in-depth-analysis-of-jackson-brownes-late-for-the-sky-album.html</id>
+	  <published>2020-06-11T09:00:00Z</published>
+	  <updated>2020-06-11T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Finally completed an in-depth analysis of Jackson Browne&apos;s album <em>Late for the Sky</em>, a project I had begun years ago. It&apos;s a lot to read, but the album is worth it. </p>
 
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://practopian.org/images/pandemic-lessons.jpg" alt="" />
-<p>Suffering through a pandemic is a terrible way to have to learn a lesson or two about the nature of humanity. But it&apos;s what we have, so we may as well make use of it. </p>
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://reasontorock.com/images/misc/magritte-seidemann.jpg" alt="" />
+	  	<p>Finally completed an in-depth analysis of Jackson Browne&apos;s album <em>Late for the Sky</em>, a project I had begun years ago. It&apos;s a lot to read, but the album is worth it. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Democracy</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/basics/democracy.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/06/03/democracy.html"/>
+	  <id>https://hbowie.net/2020/06/03/democracy.html</id>
+	  <published>2020-06-03T09:00:00Z</published>
+	  <updated>2020-06-03T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Wrote up a Practical Utopian &quot;basics&quot; piece on the core value of Democracy, after reading <em>How Democracies Die</em>. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/lincoln-gettysburg-stamp.jpg" alt="" />
+	  	<p>Wrote up a Practical Utopian &quot;basics&quot; piece on the core value of Democracy, after reading <em>How Democracies Die</em>. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>8 Big Lessons We Can Learn from the Pandemic</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/05/10/8-big-lessons-we-can-learn-from-the-pandemic.html"/>
+	  <id>https://hbowie.net/2020/05/10/8-big-lessons-we-can-learn-from-the-pandemic.html</id>
+	  <published>2020-05-10T09:00:00Z</published>
+	  <updated>2020-05-10T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Suffering through a pandemic is a terrible way to have to learn a lesson or two about the nature of humanity. But it&apos;s what we have, so we may as well make use of it. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/pandemic-lessons.jpg" alt="" />
+	  	<p>Suffering through a pandemic is a terrible way to have to learn a lesson or two about the nature of humanity. But it&apos;s what we have, so we may as well make use of it. </p>
 <p>Also cross-posted on <a href="https://medium.com/@hbowie/8-big-lessons-we-can-learn-from-the-pandemic-dc894372f363">Medium</a>. </p>
 
-]]>
-</content>
-</entry>
-<entry>
-<title>Virtual Textbanking Party</title>
-<link rel="alternate" type="text/html" href="https://www.seattleindivisible.com/blog"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/05/09/virtual-textbanking-party.html"/>
-<id>https://hbowie.net/2020/05/09/virtual-textbanking-party.html</id>
-<published>2020-05-09T09:00:00Z</published>
-<updated>2020-05-09T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>For the progressive movement in 2020, a TextBanking party has nothing to do with your bank balances, and everything to do with who will be running our government for the next four years. </p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://images.squarespace-cdn.com/content/588ffde0ff7c50a0160cf2de/1488511940582-CEVVK4EDDLHN0SRNX7GR/SI_logo_lg.png?content-type=image%2Fpng" alt="" />
-<p>For the progressive movement in 2020, a TextBanking party has nothing to do with your bank balances, and everything to do with who will be running our government for the next four years. </p>
-<p>A blog post for Seattle Indivisible. </p>
-
-]]>
-</content>
-</entry>
-<entry>
-<title>Notenik 3.6.0 Released</title>
-<link rel="alternate" type="text/html" href="https://notenik.net"/>
-<link rel="related" type="text/html" href="https://hbowie.net/2020/05/06/notenik-3.6.0-released.html"/>
-<id>https://hbowie.net/2020/05/06/notenik-3.6.0-released.html</id>
-<published>2020-05-06T09:00:00Z</published>
-<updated>2020-05-06T12:00:00Z</updated>
-<author>
-<name>Herb Bowie</name>
-<uri>https://hbowie.net/</uri>
-</author>
-<summary>
-<p>Users can now drag and drop a Note from one Collection to another in order to copy it to the second Collection; a Note sharing option to insert Markdown block quotes has been added; improved apostrophe handling when using the Notenik Markdown parser; and a new Bookmarks Board allowing users to select an available Collection to be opened. </p>
-
-</summary>
-<content type="html">
-<![CDATA[
-<img src="https://notenik.net/images/notenik.png" alt="" />
-<p>Users can now drag and drop a Note from one Collection to another in order to copy it to the second Collection; a Note sharing option to insert Markdown block quotes has been added; improved apostrophe handling when using the Notenik Markdown parser; and a new Bookmarks Board allowing users to select an available Collection to be opened. </p>
-
-]]>
-</content>
-</entry>
+	  	]]>
+	  </content>
+	</entry>
 </feed>
