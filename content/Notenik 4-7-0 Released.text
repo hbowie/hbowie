@@ -1,0 +1,26 @@
+Title:  Notenik 4.7.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   post
+
+Status: 9 - Closed
+
+Seq:    157
+
+Date:   06 Nov 2020
+
+Teaser: 
+
+All about the latest improvements to Mac note-taking app. 
+
+
+Body: 
+
+* Added support for MultiMarkdown-style citations. 
+* Fixed a bug in inline Footnote generation (added in the previous release)
+* Fixed a crashing bug in the export logic. 

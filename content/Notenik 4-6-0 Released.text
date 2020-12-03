@@ -1,0 +1,33 @@
+Title:  Notenik 4.6.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   post
+
+Status: 9 - Closed
+
+Seq:    156
+
+Date:   03 Aug 2020
+
+Teaser: 
+
+All about the latest improvements to Mac note-taking app. 
+
+
+Body: 
+
+Added Markdown parser support for footnotes, a common extension to the original Markdown spec. 
+
+Also added a Share option that will format a Note as an HTML blockquote. 
+
+Plus there's a new Collection Pref that allows Note Titles to be formatted using level 1 Headings on the Display tab. 
+
+Finally, added a Navigation Board to allow easy navigation to known Collections that can be readily accessed by Notenik without any additional user authorization. 
+
+Oh, and one more thing... wrote a new [Notenik blog post](https://notenik.net/blog/additional-updates-to-notenik-november-4-2020.html) summarizing Notenik improvements made over the last six months. 
+

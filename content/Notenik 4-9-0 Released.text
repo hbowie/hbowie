@@ -1,0 +1,28 @@
+Title:  Notenik 4.9.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   post
+
+Status: 9 - Closed
+
+Seq:    160
+
+Date:   30 Nov 2020
+
+Teaser: 
+
+Improvements in website making, and in iCloud access. 
+
+
+Body: 
+
++ Added a new File command to create a New Collection in iCloud
++ Added a new Transform command to Stash Notes in a subfolder
++ Added a new File command to Move a Collection to a new location
++ Added general support for a Web Collection, which has its Notes stored in a subfolder named notes
++ Added a Transform command to Browse a Web Index

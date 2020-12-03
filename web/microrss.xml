@@ -5,93 +5,114 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2020/11/30/notenik-4.9.0-released.html</guid>
+	  <pubdate>Mon, 30 Nov 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<ul>
+<li>Added a new File command to create a New Collection in iCloud </li>
+<li>Added a new Transform command to Stash Notes in a subfolder </li>
+<li>Added a new File command to Move a Collection to a new location </li>
+<li>Added general support for a Web Collection, which has its Notes stored in a subfolder named notes </li>
+<li>Added a Transform command to Browse a Web Index </li>
+</ul>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/diving-back-into-our-american-muddle.html</link>>
+	  <guid>https://hbowie.net/2020/11/21/diving-back-into-our-american-muddle.html</guid>
+	  <pubdate>Sat, 21 Nov 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>In which I touch upon and connect thoughts from Jodi Doering, Dashiell Hammett and Ted Lasso, among others. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2020/11/13/notenik-4.8.0-released.html</guid>
+	  <pubdate>Fri, 13 Nov 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<ul>
+<li>Added support for a &apos;Launch at Startup&apos; tag that will can be used to launch a bunch of websites when Notenik starts up for the first time in the day. </li>
+<li>When choosing a font to be used for the Display of Notes, the user may now select a checkbox to allow selection from a longer list of all fonts available on the system. </li>
+<li>Added a Command to toggle the display of the list of Notes on the left, should one want to focus more on the display for a single Note. </li>
+<li>Updated the Notenik app icon for consistency with the Big Sur &apos;squircles&apos;. </li>
+<li>Made a couple of other adjustments for better appearance on Big Sur. </li>
+</ul>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2020/11/06/notenik-4.7.0-released.html</guid>
+	  <pubdate>Fri, 06 Nov 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<ul>
+<li>Added support for MultiMarkdown-style citations. </li>
+<li>Fixed a bug in inline Footnote generation (added in the previous release) </li>
+<li>Fixed a crashing bug in the export logic. </li>
+</ul>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2020/08/03/notenik-4.6.0-released.html</guid>
+	  <pubdate>Mon, 03 Aug 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Added Markdown parser support for footnotes, a common extension to the original Markdown spec. </p>
+<p>Also added a Share option that will format a Note as an HTML blockquote. </p>
+<p>Plus there&apos;s a new Collection Pref that allows Note Titles to be formatted using level 1 Headings on the Display tab. </p>
+<p>Finally, added a Navigation Board to allow easy navigation to known Collections that can be readily accessed by Notenik without any additional user authorization. </p>
+<p>Oh, and one more thing&hellip; wrote a new <a href="https://notenik.net/blog/additional-updates-to-notenik-november-4-2020.html">Notenik blog post</a> summarizing Notenik improvements made over the last six months. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org</link>>
+	  <guid>https://hbowie.net/2020/10/28/moved-practopian-website-to-drupal-8.html</guid>
+	  <pubdate>Wed, 28 Oct 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Practopian.org now takes you to a website hosted on Pantheon, built using Drupal 8. Most of the same content is available on the new site, but the whole thing is now built dynamically, rather than using static pages. The menu navigation is improved, and the overall look has changed a bit. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/social-distancing-and-our-essential-nature.html</link>>
+	  <guid>https://hbowie.net/2020/08/04/social-distancing-and-our-essential-nature.html</guid>
+	  <pubdate>Tue, 04 Aug 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Social distancing and wearing of face masks have become the new normal for most of us, thanks to the continued threat of COVID-19. And yet, as ever more people work from home, and more students attempt remote learning, I&apos;m concerned about a growing chorus of folks who are celebrating this enforced distancing as a welcome wave of the future, and suggesting that what started as a temporary fix should be embraced as a permanent fixture of 21st century society. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/reframing-our-debates-about-capitalism.html</link>>
+	  <guid>https://hbowie.net/2020/08/04/reframing-our-debates-about-capitalism.html</guid>
+	  <pubdate>Tue, 04 Aug 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>There is a flaw in the reasoning behind our infernal, never-ending, society-splitting debate concerning socialism vs. capitalism, and I want to point it out. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/the-era-of-environmental-accommodation-is-over.html</link>>
+	  <guid>https://hbowie.net/2020/08/04/the-era-of-environmental-accommodation-is-over.html</guid>
+	  <pubdate>Tue, 04 Aug 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>When historians look at the long span of our human history, they try to make sense of our arc of cultural evolution by breaking it up into phases: the agrarian era, the industrial era, the digital era, and so forth. </p>
+<p>But of course, there are multiple perspectives we can use for this sort of exercise. </p>
+<p>Perhaps the most important perspective to consider is the relationship of our human population to the rest of our world. </p>
+
+	  </description>
+	</item>
+	<item>
 	  <link>https://practopian.org/blog/hbowie/undoing-trumpism.html</link>>
 	  <guid>https://hbowie.net/2020/08/04/undoing-trumpism.html</guid>
 	  <pubdate>Tue, 04 Aug 2020 09:00:00 -0700</pubdate>
 	  <description>
 	  	<p>Many of the things that our current president came to stand for were around before his candidacy – and, in fact, helped him to get elected – and they won&apos;t simply vanish on their own. If we&apos;re foolish enough to think they will, then we&apos;re engaging in as much magical thinking as The Donald is when he claims that COVID-19 will simply disappear all by itself. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
-	  <guid>https://hbowie.net/2020/08/03/notenik-4.3.0-released.html</guid>
-	  <pubdate>Mon, 03 Aug 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/cooperation-competition-and-coercion.html</link>>
-	  <guid>https://hbowie.net/2020/07/17/cooperation-competition-and-coercion.html</guid>
-	  <pubdate>Fri, 17 Jul 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>When we look at the major societal choices facing us today, the primary question is not whether we want a society that is more cooperative or more competitive, but whether we&apos;re ready for a society that is less coercive. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
-	  <guid>https://hbowie.net/2020/07/12/notenik-4.2.0-released.html</guid>
-	  <pubdate>Sun, 12 Jul 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Some bug fixes, and some new functionality. If you have a Mac, then check it out! </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://rs500.blog</link>>
-	  <guid>https://hbowie.net/2020/06/20/rs-500-blog-400-375.html</guid>
-	  <pubdate>Sat, 20 Jun 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Published the next batch of 25 albums to the RS 500 blog. Some notable albums in the 375 - 400 range, and some interesting comments from Charlie, Brian and myself. As always, three very different perspectives based on ages and interests. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html</link>>
-	  <guid>https://hbowie.net/2020/06/15/can-the-us-become-a-truly-egalitarian-society.html</guid>
-	  <pubdate>Mon, 15 Jun 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>As with many of us, I&apos;ve been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984?mt=12</link>>
-	  <guid>https://hbowie.net/2020/06/13/notenik-4.0.0-released.html</guid>
-	  <pubdate>Sat, 13 Jun 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Added a new Counts window to check word count; several minor UI improvements. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://www.reasontorock.com/tracks/late_for_the_sky.html</link>>
-	  <guid>https://hbowie.net/2020/06/11/in-depth-analysis-of-jackson-brownes-late-for-the-sky-album.html</guid>
-	  <pubdate>Thu, 11 Jun 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Finally completed an in-depth analysis of Jackson Browne&apos;s album <em>Late for the Sky</em>, a project I had begun years ago. It&apos;s a lot to read, but the album is worth it. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/basics/democracy.html</link>>
-	  <guid>https://hbowie.net/2020/06/03/democracy.html</guid>
-	  <pubdate>Wed, 03 Jun 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Wrote up a Practical Utopian &quot;basics&quot; piece on the core value of Democracy, after reading <em>How Democracies Die</em>. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html</link>>
-	  <guid>https://hbowie.net/2020/05/10/8-big-lessons-we-can-learn-from-the-pandemic.html</guid>
-	  <pubdate>Sun, 10 May 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Suffering through a pandemic is a terrible way to have to learn a lesson or two about the nature of humanity. But it&apos;s what we have, so we may as well make use of it. </p>
-<p>Also cross-posted on <a href="https://medium.com/@hbowie/8-big-lessons-we-can-learn-from-the-pandemic-dc894372f363">Medium</a>. </p>
 
 	  </description>
 	</item>

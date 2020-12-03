@@ -1,0 +1,28 @@
+Title:  Notenik 4.8.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   post
+
+Status: 9 - Closed
+
+Seq:    158
+
+Date:   13 Nov 2020
+
+Teaser: 
+
+All about the latest improvements to my Mac note-taking app. 
+
+
+Body: 
+
+* Added support for a 'Launch at Startup' tag that will can be used to launch a bunch of websites when Notenik starts up for the first time in the day. 
+* When choosing a font to be used for the Display of Notes, the user may now select a checkbox to allow selection from a longer list of all fonts available on the system. 
+* Added a Command to toggle the display of the list of Notes on the left, should one want to focus more on the display for a single Note. 
+* Updated the Notenik app icon for consistency with the Big Sur 'squircles'.
+* Made a couple of other adjustments for better appearance on Big Sur. 
