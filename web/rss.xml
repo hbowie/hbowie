@@ -5,104 +5,102 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <title>A Resumption of our Humanity</title>
+	  <link>https://hbowie.net/2021/01/21/a-resumption-of-our-humanity.html</link>
+	  <guid>https://hbowie.net/2021/01/21/a-resumption-of-our-humanity.html</guid>
+	  <pubdate>Thu, 21 Jan 2021 12:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Overall, taking the pieces of the inaugural ceremony all together, the entire gestalt for me was a feeling that our feelings and practices of humanity, after being put on hold for four years, could now be resumed. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <title>Notenik 5.4.0 Released</title>
+	  <link>https://hbowie.net/2021/01/19/notenik-5.4.0-released.html</link>
+	  <guid>https://hbowie.net/2021/01/19/notenik-5.4.0-released.html</guid>
+	  <pubdate>Tue, 19 Jan 2021 12:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Support for Code Fencing and Improved Documentation </p>
+
+	  </description>
+	</item>
+	<item>
+	  <title>The Big Truth</title>
+	  <link>https://hbowie.net/2021/01/17/the-big-truth.html</link>
+	  <guid>https://hbowie.net/2021/01/17/the-big-truth.html</guid>
+	  <pubdate>Sun, 17 Jan 2021 12:00:00 -0700</pubdate>
+	  <description>
+	  	<p>And so, I&apos;m starting to wonder, if we want to end The Big Lie, what undisclosed pieces of truth do we need to bring out into the open in order to achieve a more spacious shared understanding of our common reality? In other words, what is The Big Truth that we have yet to acknowledge? </p>
+
+	  </description>
+	</item>
+	<item>
+	  <title>Notenik 5.3.0 Released</title>
+	  <link>https://hbowie.net/2021/01/14/notenik-5.3.0-released.html</link>
+	  <guid>https://hbowie.net/2021/01/14/notenik-5.3.0-released.html</guid>
+	  <pubdate>Thu, 14 Jan 2021 12:00:00 -0700</pubdate>
+	  <description>
+	  	<p>A few nice improvements. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <title>The Clown Coup</title>
+	  <link>https://hbowie.net/2021/01/08/the-clown-coup.html</link>
+	  <guid>https://hbowie.net/2021/01/08/the-clown-coup.html</guid>
+	  <pubdate>Fri, 08 Jan 2021 12:00:00 -0700</pubdate>
+	  <description>
+	  	<p>So much of our public attention is devoted to posturing, puffoonery[1] and empty opinionizing that many of our citizens seem to have lost the ability to distinguish this sort of behavior from actions that have real-world consequences. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <title>Notenik 5.2.0 Released</title>
+	  <link>https://hbowie.net/2021/01/04/notenik-5.2.0-released.html</link>
+	  <guid>https://hbowie.net/2021/01/04/notenik-5.2.0-released.html</guid>
+	  <pubdate>Mon, 04 Jan 2021 12:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Added import from OmniFocus and publish to Medium. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <title>Life is Complicated</title>
+	  <link>https://hbowie.net/2020/12/26/life-is-complicated.html</link>
+	  <guid>https://hbowie.net/2020/12/26/life-is-complicated.html</guid>
+	  <pubdate>Sat, 26 Dec 2020 12:00:00 -0700</pubdate>
+	  <description>
+	  	<p>We all would like a quick fix of simple certainty, and no matter where we turn today, we can find an army of pushers waiting to feed our habit, even giving the stuff away for free, just to keep us hooked. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <title>Notenik 5.1.0 Released</title>
+	  <link>https://hbowie.net/2020/12/26/notenik-5.1.0-released.html</link>
+	  <guid>https://hbowie.net/2020/12/26/notenik-5.1.0-released.html</guid>
+	  <pubdate>Sat, 26 Dec 2020 12:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Various minor improvements. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <title>Notenik Turns the Big Five-O!</title>
+	  <link>https://hbowie.net/2020/12/10/notenik-turns-the-big-five-o.html</link>
+	  <guid>https://hbowie.net/2020/12/10/notenik-turns-the-big-five-o.html</guid>
+	  <pubdate>Thu, 10 Dec 2020 12:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Yes, that&apos;s right – Notenik version 5.0.0 has just been released, in all likelihood closing the books on 2020. So this feels like a good time to take a breather and look back on the path we&apos;ve traveled, along with new routes yet to explore. </p>
+
+	  </description>
+	</item>
+	<item>
 	  <title>Notenik 4.9.0 Released</title>
 	  <link>https://hbowie.net/2020/11/30/notenik-4.9.0-released.html</link>
 	  <guid>https://hbowie.net/2020/11/30/notenik-4.9.0-released.html</guid>
 	  <pubdate>Mon, 30 Nov 2020 12:00:00 -0700</pubdate>
 	  <description>
 	  	<p>Improvements in website making, and in iCloud access. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Diving Back into our American Muddle</title>
-	  <link>https://hbowie.net/2020/11/21/diving-back-into-our-american-muddle.html</link>
-	  <guid>https://hbowie.net/2020/11/21/diving-back-into-our-american-muddle.html</guid>
-	  <pubdate>Sat, 21 Nov 2020 12:00:00 -0700</pubdate>
-	  <description>
-	  	<p>In which I touch upon and connect thoughts from Jodi Doering, Dashiell Hammett and Ted Lasso, among others. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Notenik 4.8.0 Released</title>
-	  <link>https://hbowie.net/2020/11/13/notenik-4.8.0-released.html</link>
-	  <guid>https://hbowie.net/2020/11/13/notenik-4.8.0-released.html</guid>
-	  <pubdate>Fri, 13 Nov 2020 12:00:00 -0700</pubdate>
-	  <description>
-	  	<p>All about the latest improvements to my Mac note-taking app. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Notenik 4.7.0 Released</title>
-	  <link>https://hbowie.net/2020/11/06/notenik-4.7.0-released.html</link>
-	  <guid>https://hbowie.net/2020/11/06/notenik-4.7.0-released.html</guid>
-	  <pubdate>Fri, 06 Nov 2020 12:00:00 -0700</pubdate>
-	  <description>
-	  	<p>All about the latest improvements to Mac note-taking app. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Notenik 4.6.0 Released</title>
-	  <link>https://hbowie.net/2020/08/03/notenik-4.6.0-released.html</link>
-	  <guid>https://hbowie.net/2020/08/03/notenik-4.6.0-released.html</guid>
-	  <pubdate>Mon, 03 Aug 2020 12:00:00 -0700</pubdate>
-	  <description>
-	  	<p>All about the latest improvements to Mac note-taking app. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Moved Practopian website to Drupal 8</title>
-	  <link>https://hbowie.net/2020/10/28/moved-practopian-website-to-drupal-8.html</link>
-	  <guid>https://hbowie.net/2020/10/28/moved-practopian-website-to-drupal-8.html</guid>
-	  <pubdate>Wed, 28 Oct 2020 12:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Practopian.org now takes you to a website hosted on Pantheon, built using Drupal 8. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Social Distancing and our Essential Nature</title>
-	  <link>https://hbowie.net/2020/08/04/social-distancing-and-our-essential-nature.html</link>
-	  <guid>https://hbowie.net/2020/08/04/social-distancing-and-our-essential-nature.html</guid>
-	  <pubdate>Tue, 04 Aug 2020 12:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Social distancing and wearing of face masks have become the new normal for most of us, thanks to the continued threat of COVID-19. And yet, as ever more people work from home, and more students attempt remote learning, I&apos;m concerned about a growing chorus of folks who are celebrating this enforced distancing as a welcome wave of the future, and suggesting that what started as a temporary fix should be embraced as a permanent fixture of 21st century society. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Reframing our Debates about Capitalism</title>
-	  <link>https://hbowie.net/2020/08/04/reframing-our-debates-about-capitalism.html</link>
-	  <guid>https://hbowie.net/2020/08/04/reframing-our-debates-about-capitalism.html</guid>
-	  <pubdate>Tue, 04 Aug 2020 12:00:00 -0700</pubdate>
-	  <description>
-	  	<p>There is a flaw in the reasoning behind our infernal, never-ending, society-splitting debate concerning socialism vs. capitalism, and I want to point it out. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <title>The Era of Environmental Accommodation is Over</title>
-	  <link>https://hbowie.net/2020/08/04/the-era-of-environmental-accommodation-is-over.html</link>
-	  <guid>https://hbowie.net/2020/08/04/the-era-of-environmental-accommodation-is-over.html</guid>
-	  <pubdate>Tue, 04 Aug 2020 12:00:00 -0700</pubdate>
-	  <description>
-	  	<p>When historians look at the long span of our human history, they try to make sense of our arc of cultural evolution by breaking it up into phases: the agrarian era, the industrial era, the digital era, and so forth. </p>
-<p>But of course, there are multiple perspectives we can use for this sort of exercise. </p>
-<p>Perhaps the most important perspective to consider is the relationship of our human population to the rest of our world. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <title>Undoing Trumpism</title>
-	  <link>https://hbowie.net/2020/08/04/undoing-trumpism.html</link>
-	  <guid>https://hbowie.net/2020/08/04/undoing-trumpism.html</guid>
-	  <pubdate>Tue, 04 Aug 2020 12:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Many of the things that our current president came to stand for were around before his candidacy – and, in fact, helped him to get elected – and they won&apos;t simply vanish on their own. If we&apos;re foolish enough to think they will, then we&apos;re engaging in as much magical thinking as The Donald is when he claims that COVID-19 will simply disappear all by itself. </p>
 
 	  </description>
 	</item>

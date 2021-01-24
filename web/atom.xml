@@ -4,12 +4,242 @@
   <subtitle>Stuff by Herb Bowie</subtitle>
   <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
   <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-  <updated>2020-12-03</updated>
-  <rights>Copyright © 2020, Herb Bowie</rights>
+  <updated>2021-01-24</updated>
+  <rights>Copyright © 2021, Herb Bowie</rights>
   <author>
     <name>Herb Bowie</name>
   </author>
   <id>https://hbowie.net/atom.xml</id>
+	<entry>
+	  <title>A Resumption of our Humanity</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/a-resumption-of-our-humanity.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/01/21/a-resumption-of-our-humanity.html"/>
+	  <id>https://hbowie.net/2021/01/21/a-resumption-of-our-humanity.html</id>
+	  <published>2021-01-21T09:00:00Z</published>
+	  <updated>2021-01-21T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Overall, taking the pieces of the inaugural ceremony all together, the entire gestalt for me was a feeling that our feelings and practices of humanity, after being put on hold for four years, could now be resumed. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/sites/default/files/styles/max_1300x1300/public/2021-01/iStock-1189016451.jpg?itok=DBamwqMu" alt="" />
+	  	<p>Overall, taking the pieces of the inaugural ceremony all together, the entire gestalt for me was a feeling that our feelings and practices of humanity, after being put on hold for four years, could now be resumed. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 5.4.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/01/19/notenik-5.4.0-released.html"/>
+	  <id>https://hbowie.net/2021/01/19/notenik-5.4.0-released.html</id>
+	  <published>2021-01-19T09:00:00Z</published>
+	  <updated>2021-01-19T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Support for Code Fencing and Improved Documentation </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<ul>
+<li>Added Notenik Intro for New Users </li>
+<li>Added support for Markdown Code Fencing </li>
+<li>Added Markdown Spec access from Help Menu </li>
+<li>Reworked Display Fonts Prefs updates to make them more intuitive </li>
+<li>Adjusted the font weights in the What&apos;s New Display </li>
+<li>Corrected the sharing of an entire Note in Markdown </li>
+</ul>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>The Big Truth</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/the-big-truth.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/01/17/the-big-truth.html"/>
+	  <id>https://hbowie.net/2021/01/17/the-big-truth.html</id>
+	  <published>2021-01-17T09:00:00Z</published>
+	  <updated>2021-01-17T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>And so, I&apos;m starting to wonder, if we want to end The Big Lie, what undisclosed pieces of truth do we need to bring out into the open in order to achieve a more spacious shared understanding of our common reality? In other words, what is The Big Truth that we have yet to acknowledge? </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/sites/default/files/styles/max_1300x1300/public/2021-01/iStock-505750350.jpg?itok=BA_FA2YX" alt="" />
+	  	<p>And so, I&apos;m starting to wonder, if we want to end The Big Lie, what undisclosed pieces of truth do we need to bring out into the open in order to achieve a more spacious shared understanding of our common reality? In other words, what is The Big Truth that we have yet to acknowledge? </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 5.3.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/01/14/notenik-5.3.0-released.html"/>
+	  <id>https://hbowie.net/2021/01/14/notenik-5.3.0-released.html</id>
+	  <published>2021-01-14T09:00:00Z</published>
+	  <updated>2021-01-14T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>A few nice improvements. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<ul>
+<li>Code Refactoring for Generation of a Unique ID for each Note </li>
+<li>Added a Convenience function to edit a Collection&apos;s template file </li>
+<li>Added a regular refresh to today&apos;s date </li>
+<li>Added a Folder Picker to the Nav Board </li>
+<li>Added a What&apos;s New Display </li>
+</ul>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>The Clown Coup</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/the-clown-coup.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/01/08/the-clown-coup.html"/>
+	  <id>https://hbowie.net/2021/01/08/the-clown-coup.html</id>
+	  <published>2021-01-08T09:00:00Z</published>
+	  <updated>2021-01-08T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>So much of our public attention is devoted to posturing, puffoonery[1] and empty opinionizing that many of our citizens seem to have lost the ability to distinguish this sort of behavior from actions that have real-world consequences. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/sites/default/files/styles/max_1300x1300/public/2021-01/iStock-1201525053-cmprsd.jpg?itok=VEO4Aqrl" alt="" />
+	  	<p>So much of our public attention is devoted to posturing, puffoonery[1] and empty opinionizing that many of our citizens seem to have lost the ability to distinguish this sort of behavior from actions that have real-world consequences. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 5.2.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/01/04/notenik-5.2.0-released.html"/>
+	  <id>https://hbowie.net/2021/01/04/notenik-5.2.0-released.html</id>
+	  <published>2021-01-04T09:00:00Z</published>
+	  <updated>2021-01-04T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Added import from OmniFocus and publish to Medium. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<ul>
+<li>Fixed an Import bug </li>
+<li>Added options to Import data from OmniFocus </li>
+<li>Added ability to Publish to Medium </li>
+</ul>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Life is Complicated</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/life-is-complicated.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/12/26/life-is-complicated.html"/>
+	  <id>https://hbowie.net/2020/12/26/life-is-complicated.html</id>
+	  <published>2020-12-26T09:00:00Z</published>
+	  <updated>2020-12-26T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>We all would like a quick fix of simple certainty, and no matter where we turn today, we can find an army of pushers waiting to feed our habit, even giving the stuff away for free, just to keep us hooked. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/sites/default/files/styles/max_1300x1300/public/2020-12/iStock-1190572650.jpg?itok=h_ek9NPV" alt="" />
+	  	<p>We all would like a quick fix of simple certainty, and no matter where we turn today, we can find an army of pushers waiting to feed our habit, even giving the stuff away for free, just to keep us hooked. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 5.1.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/12/26/notenik-5.1.0-released.html"/>
+	  <id>https://hbowie.net/2020/12/26/notenik-5.1.0-released.html</id>
+	  <published>2020-12-26T09:00:00Z</published>
+	  <updated>2020-12-26T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Various minor improvements. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<ul>
+<li>Added Display Prefs Button to Update CSS </li>
+<li>Added an Optional Date Modified Field </li>
+<li>Changed the Author Sort to sort by first name first </li>
+<li>Sorted out problems with following links, including application URLs </li>
+<li>Added a function to close all completed tasks </li>
+</ul>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik Turns the Big Five-O!</title>
+		<link rel="alternate" type="text/html" href="https://notenik.net/blog.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2020/12/10/notenik-turns-the-big-five-o.html"/>
+	  <id>https://hbowie.net/2020/12/10/notenik-turns-the-big-five-o.html</id>
+	  <published>2020-12-10T09:00:00Z</published>
+	  <updated>2020-12-10T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Yes, that&apos;s right – Notenik version 5.0.0 has just been released, in all likelihood closing the books on 2020. So this feels like a good time to take a breather and look back on the path we&apos;ve traveled, along with new routes yet to explore. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Yes, that&apos;s right – Notenik version 5.0.0 has just been released, in all likelihood closing the books on 2020. So this feels like a good time to take a breather and look back on the path we&apos;ve traveled, along with new routes yet to explore. </p>
+
+	  	]]>
+	  </content>
+	</entry>
 	<entry>
 	  <title>Notenik 4.9.0 Released</title>
 		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
@@ -35,231 +265,6 @@
 <li>Added general support for a Web Collection, which has its Notes stored in a subfolder named notes </li>
 <li>Added a Transform command to Browse a Web Index </li>
 </ul>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Diving Back into our American Muddle</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/diving-back-into-our-american-muddle.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2020/11/21/diving-back-into-our-american-muddle.html"/>
-	  <id>https://hbowie.net/2020/11/21/diving-back-into-our-american-muddle.html</id>
-	  <published>2020-11-21T09:00:00Z</published>
-	  <updated>2020-11-21T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>In which I touch upon and connect thoughts from Jodi Doering, Dashiell Hammett and Ted Lasso, among others. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/sites/default/files/styles/max_1300x1300/public/2020-11/iStock-603195908.jpeg?itok=LIMmyooe" alt="" />
-	  	<p>In which I touch upon and connect thoughts from Jodi Doering, Dashiell Hammett and Ted Lasso, among others. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 4.8.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2020/11/13/notenik-4.8.0-released.html"/>
-	  <id>https://hbowie.net/2020/11/13/notenik-4.8.0-released.html</id>
-	  <published>2020-11-13T09:00:00Z</published>
-	  <updated>2020-11-13T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>All about the latest improvements to my Mac note-taking app. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<ul>
-<li>Added support for a &apos;Launch at Startup&apos; tag that will can be used to launch a bunch of websites when Notenik starts up for the first time in the day. </li>
-<li>When choosing a font to be used for the Display of Notes, the user may now select a checkbox to allow selection from a longer list of all fonts available on the system. </li>
-<li>Added a Command to toggle the display of the list of Notes on the left, should one want to focus more on the display for a single Note. </li>
-<li>Updated the Notenik app icon for consistency with the Big Sur &apos;squircles&apos;. </li>
-<li>Made a couple of other adjustments for better appearance on Big Sur. </li>
-</ul>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 4.7.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2020/11/06/notenik-4.7.0-released.html"/>
-	  <id>https://hbowie.net/2020/11/06/notenik-4.7.0-released.html</id>
-	  <published>2020-11-06T09:00:00Z</published>
-	  <updated>2020-11-06T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>All about the latest improvements to Mac note-taking app. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<ul>
-<li>Added support for MultiMarkdown-style citations. </li>
-<li>Fixed a bug in inline Footnote generation (added in the previous release) </li>
-<li>Fixed a crashing bug in the export logic. </li>
-</ul>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 4.6.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2020/08/03/notenik-4.6.0-released.html"/>
-	  <id>https://hbowie.net/2020/08/03/notenik-4.6.0-released.html</id>
-	  <published>2020-08-03T09:00:00Z</published>
-	  <updated>2020-08-03T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>All about the latest improvements to Mac note-taking app. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<p>Added Markdown parser support for footnotes, a common extension to the original Markdown spec. </p>
-<p>Also added a Share option that will format a Note as an HTML blockquote. </p>
-<p>Plus there&apos;s a new Collection Pref that allows Note Titles to be formatted using level 1 Headings on the Display tab. </p>
-<p>Finally, added a Navigation Board to allow easy navigation to known Collections that can be readily accessed by Notenik without any additional user authorization. </p>
-<p>Oh, and one more thing&hellip; wrote a new <a href="https://notenik.net/blog/additional-updates-to-notenik-november-4-2020.html">Notenik blog post</a> summarizing Notenik improvements made over the last six months. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Moved Practopian website to Drupal 8</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2020/10/28/moved-practopian-website-to-drupal-8.html"/>
-	  <id>https://hbowie.net/2020/10/28/moved-practopian-website-to-drupal-8.html</id>
-	  <published>2020-10-28T09:00:00Z</published>
-	  <updated>2020-10-28T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Practopian.org now takes you to a website hosted on Pantheon, built using Drupal 8. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://labs.tadigital.com/wp-content/uploads/2018/09/d8-logo.jpg" alt="" />
-	  	<p>Practopian.org now takes you to a website hosted on Pantheon, built using Drupal 8. Most of the same content is available on the new site, but the whole thing is now built dynamically, rather than using static pages. The menu navigation is improved, and the overall look has changed a bit. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Social Distancing and our Essential Nature</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/social-distancing-and-our-essential-nature.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2020/08/04/social-distancing-and-our-essential-nature.html"/>
-	  <id>https://hbowie.net/2020/08/04/social-distancing-and-our-essential-nature.html</id>
-	  <published>2020-08-04T09:00:00Z</published>
-	  <updated>2020-08-04T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Social distancing and wearing of face masks have become the new normal for most of us, thanks to the continued threat of COVID-19. And yet, as ever more people work from home, and more students attempt remote learning, I&apos;m concerned about a growing chorus of folks who are celebrating this enforced distancing as a welcome wave of the future, and suggesting that what started as a temporary fix should be embraced as a permanent fixture of 21st century society. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/sites/default/files/styles/max_1300x1300/public/2020-10/iStock-1181270413.jpg?itok=8EfIOAJT" alt="" />
-	  	<p>Social distancing and wearing of face masks have become the new normal for most of us, thanks to the continued threat of COVID-19. And yet, as ever more people work from home, and more students attempt remote learning, I&apos;m concerned about a growing chorus of folks who are celebrating this enforced distancing as a welcome wave of the future, and suggesting that what started as a temporary fix should be embraced as a permanent fixture of 21st century society. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Reframing our Debates about Capitalism</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/reframing-our-debates-about-capitalism.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2020/08/04/reframing-our-debates-about-capitalism.html"/>
-	  <id>https://hbowie.net/2020/08/04/reframing-our-debates-about-capitalism.html</id>
-	  <published>2020-08-04T09:00:00Z</published>
-	  <updated>2020-08-04T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>There is a flaw in the reasoning behind our infernal, never-ending, society-splitting debate concerning socialism vs. capitalism, and I want to point it out. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/sites/default/files/styles/max_1300x1300/public/2020-10/mr%20deeds-1200-1200-675-675-crop-000000_1.jpg?itok=srvQ_6DQ" alt="" />
-	  	<p>There is a flaw in the reasoning behind our infernal, never-ending, society-splitting debate concerning socialism vs. capitalism, and I want to point it out. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>The Era of Environmental Accommodation is Over</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/the-era-of-environmental-accommodation-is-over.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2020/08/04/the-era-of-environmental-accommodation-is-over.html"/>
-	  <id>https://hbowie.net/2020/08/04/the-era-of-environmental-accommodation-is-over.html</id>
-	  <published>2020-08-04T09:00:00Z</published>
-	  <updated>2020-08-04T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>When historians look at the long span of our human history, they try to make sense of our arc of cultural evolution by breaking it up into phases: the agrarian era, the industrial era, the digital era, and so forth. </p>
-<p>But of course, there are multiple perspectives we can use for this sort of exercise. </p>
-<p>Perhaps the most important perspective to consider is the relationship of our human population to the rest of our world. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/sites/default/files/styles/max_1300x1300/public/2020-10/1%2ALuM0O7cswdalbhcq8FwB2w.jpeg?itok=cTrQILDk" alt="" />
-	  	<p>When historians look at the long span of our human history, they try to make sense of our arc of cultural evolution by breaking it up into phases: the agrarian era, the industrial era, the digital era, and so forth. </p>
-<p>But of course, there are multiple perspectives we can use for this sort of exercise. </p>
-<p>Perhaps the most important perspective to consider is the relationship of our human population to the rest of our world. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Undoing Trumpism</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/undoing-trumpism.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2020/08/04/undoing-trumpism.html"/>
-	  <id>https://hbowie.net/2020/08/04/undoing-trumpism.html</id>
-	  <published>2020-08-04T09:00:00Z</published>
-	  <updated>2020-08-04T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Many of the things that our current president came to stand for were around before his candidacy – and, in fact, helped him to get elected – and they won&apos;t simply vanish on their own. If we&apos;re foolish enough to think they will, then we&apos;re engaging in as much magical thinking as The Donald is when he claims that COVID-19 will simply disappear all by itself. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/sites/default/files/styles/max_1300x1300/public/2020-10/iStock-1027415130.jpg?itok=TZ10GdQN" alt="" />
-	  	<p>Many of the things that our current president came to stand for were around before his candidacy – and, in fact, helped him to get elected – and they won&apos;t simply vanish on their own. If we&apos;re foolish enough to think they will, then we&apos;re engaging in as much magical thinking as The Donald is when he claims that COVID-19 will simply disappear all by itself. </p>
 
 	  	]]>
 	  </content>

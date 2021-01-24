@@ -5,6 +5,110 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <link>https://practopian.org/blog/hbowie/a-resumption-of-our-humanity.html</link>>
+	  <guid>https://hbowie.net/2021/01/21/a-resumption-of-our-humanity.html</guid>
+	  <pubdate>Thu, 21 Jan 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Overall, taking the pieces of the inaugural ceremony all together, the entire gestalt for me was a feeling that our feelings and practices of humanity, after being put on hold for four years, could now be resumed. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/01/19/notenik-5.4.0-released.html</guid>
+	  <pubdate>Tue, 19 Jan 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<ul>
+<li>Added Notenik Intro for New Users </li>
+<li>Added support for Markdown Code Fencing </li>
+<li>Added Markdown Spec access from Help Menu </li>
+<li>Reworked Display Fonts Prefs updates to make them more intuitive </li>
+<li>Adjusted the font weights in the What&apos;s New Display </li>
+<li>Corrected the sharing of an entire Note in Markdown </li>
+</ul>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/the-big-truth.html</link>>
+	  <guid>https://hbowie.net/2021/01/17/the-big-truth.html</guid>
+	  <pubdate>Sun, 17 Jan 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>And so, I&apos;m starting to wonder, if we want to end The Big Lie, what undisclosed pieces of truth do we need to bring out into the open in order to achieve a more spacious shared understanding of our common reality? In other words, what is The Big Truth that we have yet to acknowledge? </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/01/14/notenik-5.3.0-released.html</guid>
+	  <pubdate>Thu, 14 Jan 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<ul>
+<li>Code Refactoring for Generation of a Unique ID for each Note </li>
+<li>Added a Convenience function to edit a Collection&apos;s template file </li>
+<li>Added a regular refresh to today&apos;s date </li>
+<li>Added a Folder Picker to the Nav Board </li>
+<li>Added a What&apos;s New Display </li>
+</ul>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/the-clown-coup.html</link>>
+	  <guid>https://hbowie.net/2021/01/08/the-clown-coup.html</guid>
+	  <pubdate>Fri, 08 Jan 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>So much of our public attention is devoted to posturing, puffoonery[1] and empty opinionizing that many of our citizens seem to have lost the ability to distinguish this sort of behavior from actions that have real-world consequences. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/01/04/notenik-5.2.0-released.html</guid>
+	  <pubdate>Mon, 04 Jan 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<ul>
+<li>Fixed an Import bug </li>
+<li>Added options to Import data from OmniFocus </li>
+<li>Added ability to Publish to Medium </li>
+</ul>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/life-is-complicated.html</link>>
+	  <guid>https://hbowie.net/2020/12/26/life-is-complicated.html</guid>
+	  <pubdate>Sat, 26 Dec 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>We all would like a quick fix of simple certainty, and no matter where we turn today, we can find an army of pushers waiting to feed our habit, even giving the stuff away for free, just to keep us hooked. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2020/12/26/notenik-5.1.0-released.html</guid>
+	  <pubdate>Sat, 26 Dec 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<ul>
+<li>Added Display Prefs Button to Update CSS </li>
+<li>Added an Optional Date Modified Field </li>
+<li>Changed the Author Sort to sort by first name first </li>
+<li>Sorted out problems with following links, including application URLs </li>
+<li>Added a function to close all completed tasks </li>
+</ul>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://notenik.net/blog.html</link>>
+	  <guid>https://hbowie.net/2020/12/10/notenik-turns-the-big-five-o.html</guid>
+	  <pubdate>Thu, 10 Dec 2020 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Yes, that&apos;s right – Notenik version 5.0.0 has just been released, in all likelihood closing the books on 2020. So this feels like a good time to take a breather and look back on the path we&apos;ve traveled, along with new routes yet to explore. </p>
+
+	  </description>
+	</item>
+	<item>
 	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
 	  <guid>https://hbowie.net/2020/11/30/notenik-4.9.0-released.html</guid>
 	  <pubdate>Mon, 30 Nov 2020 09:00:00 -0700</pubdate>
@@ -16,103 +120,6 @@
 <li>Added general support for a Web Collection, which has its Notes stored in a subfolder named notes </li>
 <li>Added a Transform command to Browse a Web Index </li>
 </ul>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/diving-back-into-our-american-muddle.html</link>>
-	  <guid>https://hbowie.net/2020/11/21/diving-back-into-our-american-muddle.html</guid>
-	  <pubdate>Sat, 21 Nov 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>In which I touch upon and connect thoughts from Jodi Doering, Dashiell Hammett and Ted Lasso, among others. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2020/11/13/notenik-4.8.0-released.html</guid>
-	  <pubdate>Fri, 13 Nov 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<ul>
-<li>Added support for a &apos;Launch at Startup&apos; tag that will can be used to launch a bunch of websites when Notenik starts up for the first time in the day. </li>
-<li>When choosing a font to be used for the Display of Notes, the user may now select a checkbox to allow selection from a longer list of all fonts available on the system. </li>
-<li>Added a Command to toggle the display of the list of Notes on the left, should one want to focus more on the display for a single Note. </li>
-<li>Updated the Notenik app icon for consistency with the Big Sur &apos;squircles&apos;. </li>
-<li>Made a couple of other adjustments for better appearance on Big Sur. </li>
-</ul>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2020/11/06/notenik-4.7.0-released.html</guid>
-	  <pubdate>Fri, 06 Nov 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<ul>
-<li>Added support for MultiMarkdown-style citations. </li>
-<li>Fixed a bug in inline Footnote generation (added in the previous release) </li>
-<li>Fixed a crashing bug in the export logic. </li>
-</ul>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2020/08/03/notenik-4.6.0-released.html</guid>
-	  <pubdate>Mon, 03 Aug 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Added Markdown parser support for footnotes, a common extension to the original Markdown spec. </p>
-<p>Also added a Share option that will format a Note as an HTML blockquote. </p>
-<p>Plus there&apos;s a new Collection Pref that allows Note Titles to be formatted using level 1 Headings on the Display tab. </p>
-<p>Finally, added a Navigation Board to allow easy navigation to known Collections that can be readily accessed by Notenik without any additional user authorization. </p>
-<p>Oh, and one more thing&hellip; wrote a new <a href="https://notenik.net/blog/additional-updates-to-notenik-november-4-2020.html">Notenik blog post</a> summarizing Notenik improvements made over the last six months. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org</link>>
-	  <guid>https://hbowie.net/2020/10/28/moved-practopian-website-to-drupal-8.html</guid>
-	  <pubdate>Wed, 28 Oct 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Practopian.org now takes you to a website hosted on Pantheon, built using Drupal 8. Most of the same content is available on the new site, but the whole thing is now built dynamically, rather than using static pages. The menu navigation is improved, and the overall look has changed a bit. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/social-distancing-and-our-essential-nature.html</link>>
-	  <guid>https://hbowie.net/2020/08/04/social-distancing-and-our-essential-nature.html</guid>
-	  <pubdate>Tue, 04 Aug 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Social distancing and wearing of face masks have become the new normal for most of us, thanks to the continued threat of COVID-19. And yet, as ever more people work from home, and more students attempt remote learning, I&apos;m concerned about a growing chorus of folks who are celebrating this enforced distancing as a welcome wave of the future, and suggesting that what started as a temporary fix should be embraced as a permanent fixture of 21st century society. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/reframing-our-debates-about-capitalism.html</link>>
-	  <guid>https://hbowie.net/2020/08/04/reframing-our-debates-about-capitalism.html</guid>
-	  <pubdate>Tue, 04 Aug 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>There is a flaw in the reasoning behind our infernal, never-ending, society-splitting debate concerning socialism vs. capitalism, and I want to point it out. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/the-era-of-environmental-accommodation-is-over.html</link>>
-	  <guid>https://hbowie.net/2020/08/04/the-era-of-environmental-accommodation-is-over.html</guid>
-	  <pubdate>Tue, 04 Aug 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>When historians look at the long span of our human history, they try to make sense of our arc of cultural evolution by breaking it up into phases: the agrarian era, the industrial era, the digital era, and so forth. </p>
-<p>But of course, there are multiple perspectives we can use for this sort of exercise. </p>
-<p>Perhaps the most important perspective to consider is the relationship of our human population to the rest of our world. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/undoing-trumpism.html</link>>
-	  <guid>https://hbowie.net/2020/08/04/undoing-trumpism.html</guid>
-	  <pubdate>Tue, 04 Aug 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Many of the things that our current president came to stand for were around before his candidacy – and, in fact, helped him to get elected – and they won&apos;t simply vanish on their own. If we&apos;re foolish enough to think they will, then we&apos;re engaging in as much magical thinking as The Donald is when he claims that COVID-19 will simply disappear all by itself. </p>
 
 	  </description>
 	</item>

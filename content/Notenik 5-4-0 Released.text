@@ -1,0 +1,29 @@
+Title:  Notenik 5.4.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   Post
+
+Status: 9 - Closed
+
+Seq:    168
+
+Date:   19 Jan 2021
+
+Teaser: 
+
+Support for Code Fencing and Improved Documentation
+
+
+Body: 
+
++ Added Notenik Intro for New Users
++ Added support for Markdown Code Fencing
++ Added Markdown Spec access from Help Menu
++ Reworked Display Fonts Prefs updates to make them more intuitive
++ Adjusted the font weights in the What's New Display
++ Corrected the sharing of an entire Note in Markdown
