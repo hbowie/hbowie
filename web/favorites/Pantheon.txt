@@ -1,5 +1,7 @@
 Title:  Pantheon
 
-Tags:   Favorites.Web Publishing
+Tags:   Web Publishing
 
 Link:   https://pantheon.io
+
+Date Added: 2020-10-02 10:49:20 -0700

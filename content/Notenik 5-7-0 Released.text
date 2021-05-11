@@ -1,0 +1,28 @@
+Title:  Notenik 5.7.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   Post
+
+Status: 9 - Closed
+
+Seq:    173
+
+Date:   21 Feb 2021
+
+Teaser: 
+
+Assorted improvements. 
+
+
+Date Added: 2021-01-24 08:47:49 -0800
+
+Body: 
+
++ Fixed a bug that prevented Note duplication
++ Retain last Note Selection between launches
++ Added Drag and Drop for File attachments

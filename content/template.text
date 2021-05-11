@@ -1,22 +1,24 @@
-Title:  
+Title: <title> 
 
-Tags:  
+Tags: <tags> 
 
-Link:  
+Link: <link> 
 
-Image Link:  
+Image Link: <link> 
 
-Type: pick-from: post, static 
+Type: pick-from: Post, email, post, static 
 
-Status: 0 - Idea; 1 - Proposed; 2 - Approved; 3 - Planned; 4 - In Work; 5 - Held; 6 - Completed; 7 - Follow-Up; 8 - Canceled; 9 - Closed;  
+Status: 0 - Idea; 1 - Proposed; 2 - Approved; 3 - Planned; 4 - In Work; 5 - Held; 6 - Completed; 7 - FollowUp; 8 - Canceled; 9 - Closed;  
 
-Seq:  
+Seq: <seq> 
 
-Date:  
+Date: <date> 
 
-Index:  
+Index: <index> 
 
 Teaser: <longtext> 
+
+Date Added: <dateadded> 
 
 Body:  
 

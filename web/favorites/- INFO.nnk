@@ -1,6 +1,6 @@
 Title: Favorites
 
-Link: file:///Users/hbowie/Sites/hbowie/web/favorites/
+Link: /Users/hbowie/Sites/hbowie/web/favorites
 
 Sort Parm: 0
 
@@ -8,5 +8,11 @@ Sort Descending: false
 
 Other Fields Allowed: false
 
+Last Index Selected: 66
+
 Mirror Auto Index: false
+
+Display Body Label: true
+
+Display H1 Titles: false
 

@@ -1,0 +1,28 @@
+Title:  Notenik 5.9.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   Post
+
+Status: 9 - Closed
+
+Seq:    179
+
+Date:   10 May 2021
+
+Teaser: 
+
+Assorted improvements. 
+
+
+Date Added: 2021-01-24 08:47:49 -0800
+
+Body: 
+
++ Merge templates no longer write unmodified files;
++ Added new customization options for the Display tab;
++ Added allfields command to Merge templates.

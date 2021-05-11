@@ -1,0 +1,34 @@
+Title:  Notenik 5.8.0 and 5.8.1 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   Post
+
+Status: 9 - Closed
+
+Seq:    175
+
+Date:   7 Apr 2021
+
+Teaser: 
+
+Assorted improvements. 
+
+
+Date Added: 2021-01-24 08:47:49 -0800
+
+Body: 
+
++ Fixed a crash occurring when using Merge templates;
++ Fixed a bug resulting in a double descending sort;
++ Added page type as an additional column for notenik-index scripting input;
++ Tweaked the Linked Tags Variable Modifier to allow specification of CSS classes;
++ Added an Author Name variable modifier to specify last name only or last name first;
++ Added copyfile template command;
++ Added Image Name field label and type;
++ Added Minutes to Read field label and type;
++ Refactoring of file input/output routines. 

@@ -5,120 +5,117 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
-	  <link>https://practopian.org/blog/hbowie/a-resumption-of-our-humanity.html</link>>
-	  <guid>https://hbowie.net/2021/01/21/a-resumption-of-our-humanity.html</guid>
-	  <pubdate>Thu, 21 Jan 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Overall, taking the pieces of the inaugural ceremony all together, the entire gestalt for me was a feeling that our feelings and practices of humanity, after being put on hold for four years, could now be resumed. </p>
-
-	  </description>
-	</item>
-	<item>
 	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/01/19/notenik-5.4.0-released.html</guid>
-	  <pubdate>Tue, 19 Jan 2021 09:00:00 -0700</pubdate>
+	  <guid>https://hbowie.net/2021/05/10/notenik-5.9.0-released.html</guid>
+	  <pubdate>Mon, 10 May 2021 09:00:00 -0700</pubdate>
 	  <description>
 	  	<ul>
-<li>Added Notenik Intro for New Users </li>
-<li>Added support for Markdown Code Fencing </li>
-<li>Added Markdown Spec access from Help Menu </li>
-<li>Reworked Display Fonts Prefs updates to make them more intuitive </li>
-<li>Adjusted the font weights in the What&apos;s New Display </li>
-<li>Corrected the sharing of an entire Note in Markdown </li>
+<li>Merge templates no longer write unmodified files; </li>
+<li>Added new customization options for the Display tab; </li>
+<li>Added allfields command to Merge templates. </li>
 </ul>
 
 	  </description>
 	</item>
 	<item>
-	  <link>https://practopian.org/blog/hbowie/the-big-truth.html</link>>
-	  <guid>https://hbowie.net/2021/01/17/the-big-truth.html</guid>
-	  <pubdate>Sun, 17 Jan 2021 09:00:00 -0700</pubdate>
+	  <link>https://practopian.org/blog/hbowie/leadership-and-followership-21-key-observations.html</link>>
+	  <guid>https://hbowie.net/2021/05/06/leadership-and-followership-21-key-observations.html</guid>
+	  <pubdate>Thu, 06 May 2021 09:00:00 -0700</pubdate>
 	  <description>
-	  	<p>And so, I&apos;m starting to wonder, if we want to end The Big Lie, what undisclosed pieces of truth do we need to bring out into the open in order to achieve a more spacious shared understanding of our common reality? In other words, what is The Big Truth that we have yet to acknowledge? </p>
+	  	<p>I was reading recently about a couple of different situations involving traits of both leadership and followership. Some reflection on these two situations has compelled me to dispense the following bits of wisdom on the subjects of leading and following. Some of these may seem obvious, and some controversial, but they are all equally true and valuable, based on my own experience doing a fair bit of both in a number of different organizations. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/thinking-differently-about-our-economy.html</link>>
+	  <guid>https://hbowie.net/2021/04/24/thinking-differently-about-our-economy.html</guid>
+	  <pubdate>Sat, 24 Apr 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>We all know that the economy is important. We talk about it every day. But do we ever think about… how we think about it? How we visualize it? How we&apos;ve been conditioned to think about it, perhaps unknowingly? </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/the-importance-of-progressive-activism.html</link>>
+	  <guid>https://hbowie.net/2021/04/19/the-importance-of-progressive-activism.html</guid>
+	  <pubdate>Mon, 19 Apr 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>It was just a little over four years ago that I remember sitting in front of our TV with our neighbors, watching the election returns, preparing to celebrate. </p>
 
 	  </description>
 	</item>
 	<item>
 	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/01/14/notenik-5.3.0-released.html</guid>
-	  <pubdate>Thu, 14 Jan 2021 09:00:00 -0700</pubdate>
+	  <guid>https://hbowie.net/2021/04/07/notenik-5.8.0-and-5.8.1-released.html</guid>
+	  <pubdate>Wed, 07 Apr 2021 09:00:00 -0700</pubdate>
 	  <description>
 	  	<ul>
-<li>Code Refactoring for Generation of a Unique ID for each Note </li>
-<li>Added a Convenience function to edit a Collection&apos;s template file </li>
-<li>Added a regular refresh to today&apos;s date </li>
-<li>Added a Folder Picker to the Nav Board </li>
-<li>Added a What&apos;s New Display </li>
+<li>Fixed a crash occurring when using Merge templates; </li>
+<li>Fixed a bug resulting in a double descending sort; </li>
+<li>Added page type as an additional column for notenik-index scripting input; </li>
+<li>Tweaked the Linked Tags Variable Modifier to allow specification of CSS classes; </li>
+<li>Added an Author Name variable modifier to specify last name only or last name first; </li>
+<li>Added copyfile template command; </li>
+<li>Added Image Name field label and type; </li>
+<li>Added Minutes to Read field label and type; </li>
+<li>Refactoring of file input/output routines. </li>
 </ul>
 
 	  </description>
 	</item>
 	<item>
-	  <link>https://practopian.org/blog/hbowie/the-clown-coup.html</link>>
-	  <guid>https://hbowie.net/2021/01/08/the-clown-coup.html</guid>
-	  <pubdate>Fri, 08 Jan 2021 09:00:00 -0700</pubdate>
+	  <link>https://practopian.org/blog/hbowie/the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html</link>>
+	  <guid>https://hbowie.net/2021/04/07/the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html</guid>
+	  <pubdate>Wed, 07 Apr 2021 09:00:00 -0700</pubdate>
 	  <description>
-	  	<p>So much of our public attention is devoted to posturing, puffoonery[1] and empty opinionizing that many of our citizens seem to have lost the ability to distinguish this sort of behavior from actions that have real-world consequences. </p>
+	  	<p>In line with the famous quote from Ernest Hemingway, the Republican Party seems to see their fortunes on the decline &#8211; gradually for now &#8211; but perhaps suddenly before much longer. </p>
 
 	  </description>
 	</item>
 	<item>
 	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/01/04/notenik-5.2.0-released.html</guid>
-	  <pubdate>Mon, 04 Jan 2021 09:00:00 -0700</pubdate>
+	  <guid>https://hbowie.net/2021/02/21/notenik-5.7.0-released.html</guid>
+	  <pubdate>Sun, 21 Feb 2021 09:00:00 -0700</pubdate>
 	  <description>
 	  	<ul>
-<li>Fixed an Import bug </li>
-<li>Added options to Import data from OmniFocus </li>
-<li>Added ability to Publish to Medium </li>
+<li>Fixed a bug that prevented Note duplication </li>
+<li>Retain last Note Selection between launches </li>
+<li>Added Drag and Drop for File attachments </li>
 </ul>
 
 	  </description>
 	</item>
 	<item>
-	  <link>https://practopian.org/blog/hbowie/life-is-complicated.html</link>>
-	  <guid>https://hbowie.net/2020/12/26/life-is-complicated.html</guid>
-	  <pubdate>Sat, 26 Dec 2020 09:00:00 -0700</pubdate>
+	  <link>https://practopian.org/blog/hbowie/free-speech-at-the-crossroads.html</link>>
+	  <guid>https://hbowie.net/2021/02/17/free-speech-at-the-crossroads.html</guid>
+	  <pubdate>Wed, 17 Feb 2021 09:00:00 -0700</pubdate>
 	  <description>
-	  	<p>We all would like a quick fix of simple certainty, and no matter where we turn today, we can find an army of pushers waiting to feed our habit, even giving the stuff away for free, just to keep us hooked. </p>
+	  	<p>No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who&apos;s responsible for moderation, and what are the rules? And at what point does moderation become censorship? </p>
 
 	  </description>
 	</item>
 	<item>
 	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2020/12/26/notenik-5.1.0-released.html</guid>
-	  <pubdate>Sat, 26 Dec 2020 09:00:00 -0700</pubdate>
+	  <guid>https://hbowie.net/2021/02/11/notenik-5.6.0-released.html</guid>
+	  <pubdate>Thu, 11 Feb 2021 09:00:00 -0700</pubdate>
 	  <description>
 	  	<ul>
-<li>Added Display Prefs Button to Update CSS </li>
-<li>Added an Optional Date Modified Field </li>
-<li>Changed the Author Sort to sort by first name first </li>
-<li>Sorted out problems with following links, including application URLs </li>
-<li>Added a function to close all completed tasks </li>
+<li>Added a Sort Option for Date Added </li>
+<li>Simplified Means of Creating a New Collection </li>
+<li>Changing of File Extensions Enabled </li>
 </ul>
 
 	  </description>
 	</item>
 	<item>
-	  <link>https://notenik.net/blog.html</link>>
-	  <guid>https://hbowie.net/2020/12/10/notenik-turns-the-big-five-o.html</guid>
-	  <pubdate>Thu, 10 Dec 2020 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Yes, that&apos;s right – Notenik version 5.0.0 has just been released, in all likelihood closing the books on 2020. So this feels like a good time to take a breather and look back on the path we&apos;ve traveled, along with new routes yet to explore. </p>
-
-	  </description>
-	</item>
-	<item>
 	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2020/11/30/notenik-4.9.0-released.html</guid>
-	  <pubdate>Mon, 30 Nov 2020 09:00:00 -0700</pubdate>
+	  <guid>https://hbowie.net/2021/02/02/notenik-5.5.0-released.html</guid>
+	  <pubdate>Tue, 02 Feb 2021 09:00:00 -0700</pubdate>
 	  <description>
 	  	<ul>
-<li>Added a new File command to create a New Collection in iCloud </li>
-<li>Added a new Transform command to Stash Notes in a subfolder </li>
-<li>Added a new File command to Move a Collection to a new location </li>
-<li>Added general support for a Web Collection, which has its Notes stored in a subfolder named notes </li>
-<li>Added a Transform command to Browse a Web Index </li>
+<li>Enabled Open Link in New Window for all hyperlinks on the Display Tab </li>
+<li>Added Support for Extensive Field Renaming </li>
+<li>Added Contextual Menu to List View </li>
 </ul>
 
 	  </description>
