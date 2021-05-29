@@ -45,3 +45,7 @@ filter	set		params
 template	webroot	text		#PATH#../web/
 template	open	text		#PATH#../factory/other_template.html
 template	generate
+
+<!-- Now Let's See What We've Got
+
+browse	open	url		http://localhost/~hbowie/hbowie/web/

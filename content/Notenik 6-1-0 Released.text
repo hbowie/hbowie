@@ -1,0 +1,33 @@
+Title:  Notenik 6.1.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   Post
+
+Status: 9 - Closed
+
+Seq:    182
+
+Date:   22 May 2021
+
+Teaser: 
+
+Improvements in Script Execution. 
+
+
+Date Added: 2021-01-24 08:47:49 -0800
+
+Body: 
+
+A few improvements to Script execution:
+
++ Scripts now run asynchronously, so that they won't block the UI -- no more spinning beach balls!
+
++ Added an indeterminate progress bar to the Scripter window to let the user know that the script is running. 
+
++ Added a browse command to the Scripting engine. This can conveniently be placed at the end of a script in order to open a localhost URL displaying the local site just updated via the script. 
+

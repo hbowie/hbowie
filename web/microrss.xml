@@ -5,6 +5,62 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <link>https://practopian.org/blog/hbowie/some-hard-won-wisdom-concerning-cults.html</link>>
+	  <guid>https://hbowie.net/2021/05/27/some-hard-won-wisdom-concerning-cults.html</guid>
+	  <pubdate>Thu, 27 May 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>As someone who once belonged to an organization later determined to be a cult, I can tell you that the warning signs are not always obvious. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/05/27/notenik-6.2.0-released.html</guid>
+	  <pubdate>Thu, 27 May 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Notenik can now be invoked by a URL starting with <code>notenik://&amp;hellip;</code>. Both <code>open</code> and <code>add</code> commands are available. Get the <code>open</code> URL for a particular Note by selecting &apos;Copy Notenik URL&apos; from the contextual menu for a Note&apos;s row on the List tab. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/05/22/notenik-6.1.0-released.html</guid>
+	  <pubdate>Sat, 22 May 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>A few improvements to Script execution: </p>
+<ul>
+<li>
+<p>Scripts now run asynchronously, so that they won&apos;t block the UI &#8211; no more spinning beach balls! </p>
+</li>
+<li>
+<p>Added an indeterminate progress bar to the Scripter window to let the user know that the script is running. </p>
+</li>
+<li>
+<p>Added a browse command to the Scripting engine. This can conveniently be placed at the end of a script in order to open a localhost URL displaying the local site just updated via the script. </p>
+</li>
+</ul>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/where-exactly-are-the-republicans-headed.html</link>>
+	  <guid>https://hbowie.net/2021/05/16/where-exactly-are-the-republicans-headed.html</guid>
+	  <pubdate>Sun, 16 May 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>So now the Republicans seem doomed to act like some strange variety of lemmings, unable to turn back from the cliff after their leader has jumped, but unable to turn away. And so they spend every day of their lives dancing along the edge, trying to convince the rest of us how good life will be at the bottom. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/05/13/notenik-6.0.0-released.html</guid>
+	  <pubdate>Thu, 13 May 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Added Collection Shortcuts and the Quick Action window. </p>
+
+	  </description>
+	</item>
+	<item>
 	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
 	  <guid>https://hbowie.net/2021/05/10/notenik-5.9.0-released.html</guid>
 	  <pubdate>Mon, 10 May 2021 09:00:00 -0700</pubdate>
@@ -59,63 +115,6 @@
 <li>Added Image Name field label and type; </li>
 <li>Added Minutes to Read field label and type; </li>
 <li>Refactoring of file input/output routines. </li>
-</ul>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html</link>>
-	  <guid>https://hbowie.net/2021/04/07/the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html</guid>
-	  <pubdate>Wed, 07 Apr 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>In line with the famous quote from Ernest Hemingway, the Republican Party seems to see their fortunes on the decline &#8211; gradually for now &#8211; but perhaps suddenly before much longer. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/02/21/notenik-5.7.0-released.html</guid>
-	  <pubdate>Sun, 21 Feb 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<ul>
-<li>Fixed a bug that prevented Note duplication </li>
-<li>Retain last Note Selection between launches </li>
-<li>Added Drag and Drop for File attachments </li>
-</ul>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/free-speech-at-the-crossroads.html</link>>
-	  <guid>https://hbowie.net/2021/02/17/free-speech-at-the-crossroads.html</guid>
-	  <pubdate>Wed, 17 Feb 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who&apos;s responsible for moderation, and what are the rules? And at what point does moderation become censorship? </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/02/11/notenik-5.6.0-released.html</guid>
-	  <pubdate>Thu, 11 Feb 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<ul>
-<li>Added a Sort Option for Date Added </li>
-<li>Simplified Means of Creating a New Collection </li>
-<li>Changing of File Extensions Enabled </li>
-</ul>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/02/02/notenik-5.5.0-released.html</guid>
-	  <pubdate>Tue, 02 Feb 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<ul>
-<li>Enabled Open Link in New Window for all hyperlinks on the Display Tab </li>
-<li>Added Support for Extensive Field Renaming </li>
-<li>Added Contextual Menu to List View </li>
 </ul>
 
 	  </description>

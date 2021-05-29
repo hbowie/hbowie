@@ -4,12 +4,138 @@
   <subtitle>Stuff by Herb Bowie</subtitle>
   <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
   <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-  <updated>2021-05-10</updated>
+  <updated>2021-05-29</updated>
   <rights>Copyright © 2021, Herb Bowie</rights>
   <author>
     <name>Herb Bowie</name>
   </author>
   <id>https://hbowie.net/atom.xml</id>
+	<entry>
+	  <title>Some Hard-Won Wisdom Concerning Cults</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/some-hard-won-wisdom-concerning-cults.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/27/some-hard-won-wisdom-concerning-cults.html"/>
+	  <id>https://hbowie.net/2021/05/27/some-hard-won-wisdom-concerning-cults.html</id>
+	  <published>2021-05-27T09:00:00Z</published>
+	  <updated>2021-05-27T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>As someone who once belonged to an organization later determined to be a cult, I can tell you that the warning signs are not always obvious. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/some-hard-won-wisdom-concerning-cults-brainwashing-machine.jpg" alt="" />
+	  	<p>As someone who once belonged to an organization later determined to be a cult, I can tell you that the warning signs are not always obvious. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 6.2.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/27/notenik-6.2.0-released.html"/>
+	  <id>https://hbowie.net/2021/05/27/notenik-6.2.0-released.html</id>
+	  <published>2021-05-27T09:00:00Z</published>
+	  <updated>2021-05-27T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Added a Custom URL Scheme for Notenik. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Notenik can now be invoked by a URL starting with <code>notenik://&amp;hellip;</code>. Both <code>open</code> and <code>add</code> commands are available. Get the <code>open</code> URL for a particular Note by selecting &apos;Copy Notenik URL&apos; from the contextual menu for a Note&apos;s row on the List tab. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 6.1.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/22/notenik-6.1.0-released.html"/>
+	  <id>https://hbowie.net/2021/05/22/notenik-6.1.0-released.html</id>
+	  <published>2021-05-22T09:00:00Z</published>
+	  <updated>2021-05-22T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Improvements in Script Execution. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>A few improvements to Script execution: </p>
+<ul>
+<li>
+<p>Scripts now run asynchronously, so that they won&apos;t block the UI &#8211; no more spinning beach balls! </p>
+</li>
+<li>
+<p>Added an indeterminate progress bar to the Scripter window to let the user know that the script is running. </p>
+</li>
+<li>
+<p>Added a browse command to the Scripting engine. This can conveniently be placed at the end of a script in order to open a localhost URL displaying the local site just updated via the script. </p>
+</li>
+</ul>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Where, Exactly, Are the Republicans Headed?</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/where-exactly-are-the-republicans-headed.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/16/where-exactly-are-the-republicans-headed.html"/>
+	  <id>https://hbowie.net/2021/05/16/where-exactly-are-the-republicans-headed.html</id>
+	  <published>2021-05-16T09:00:00Z</published>
+	  <updated>2021-05-16T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>So now the Republicans seem doomed to act like some strange variety of lemmings, unable to turn back from the cliff after their leader has jumped, but unable to turn away. And so they spend every day of their lives dancing along the edge, trying to convince the rest of us how good life will be at the bottom. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/where-exactly-are-the-republicans-headed-lemmings.jpg" alt="" />
+	  	<p>So now the Republicans seem doomed to act like some strange variety of lemmings, unable to turn back from the cliff after their leader has jumped, but unable to turn away. And so they spend every day of their lives dancing along the edge, trying to convince the rest of us how good life will be at the bottom. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 6.0.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/13/notenik-6.0.0-released.html"/>
+	  <id>https://hbowie.net/2021/05/13/notenik-6.0.0-released.html</id>
+	  <published>2021-05-13T09:00:00Z</published>
+	  <updated>2021-05-13T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Added Collection Shortcuts and the Quick Action window. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Added Collection Shortcuts and the Quick Action window. </p>
+
+	  	]]>
+	  </content>
+	</entry>
 	<entry>
 	  <title>Notenik 5.9.0 Released</title>
 		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
@@ -134,133 +260,6 @@
 <li>Added Image Name field label and type; </li>
 <li>Added Minutes to Read field label and type; </li>
 <li>Refactoring of file input/output routines. </li>
-</ul>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>The Decline of the Republican Party - First Gradually and then Suddenly</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/04/07/the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html"/>
-	  <id>https://hbowie.net/2021/04/07/the-decline-of-the-republican-party-first-gradually-and-then-suddenly.html</id>
-	  <published>2021-04-07T09:00:00Z</published>
-	  <updated>2021-04-07T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>In line with the famous quote from Ernest Hemingway, the Republican Party seems to see their fortunes on the decline &#8211; gradually for now &#8211; but perhaps suddenly before much longer. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/images/the-decline-of-the-republican-party-first-gradually-and-then-suddenly-graph.jpg" alt="" />
-	  	<p>In line with the famous quote from Ernest Hemingway, the Republican Party seems to see their fortunes on the decline &#8211; gradually for now &#8211; but perhaps suddenly before much longer. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 5.7.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/02/21/notenik-5.7.0-released.html"/>
-	  <id>https://hbowie.net/2021/02/21/notenik-5.7.0-released.html</id>
-	  <published>2021-02-21T09:00:00Z</published>
-	  <updated>2021-02-21T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Assorted improvements. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<ul>
-<li>Fixed a bug that prevented Note duplication </li>
-<li>Retain last Note Selection between launches </li>
-<li>Added Drag and Drop for File attachments </li>
-</ul>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Free Speech at the Crossroads</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/free-speech-at-the-crossroads.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/02/17/free-speech-at-the-crossroads.html"/>
-	  <id>https://hbowie.net/2021/02/17/free-speech-at-the-crossroads.html</id>
-	  <published>2021-02-17T09:00:00Z</published>
-	  <updated>2021-02-17T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who&apos;s responsible for moderation, and what are the rules? And at what point does moderation become censorship? </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/images/free-speech-at-the-crossroads-crowd-of-demonstrators.jpg" alt="" />
-	  	<p>No matter where you stand on the political spectrum, questions surrounding free speech are hot-button items these days. Should anyone be free to say anything, about anyone, at any time, and to any audience? If not, who&apos;s responsible for moderation, and what are the rules? And at what point does moderation become censorship? </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 5.6.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/02/11/notenik-5.6.0-released.html"/>
-	  <id>https://hbowie.net/2021/02/11/notenik-5.6.0-released.html</id>
-	  <published>2021-02-11T09:00:00Z</published>
-	  <updated>2021-02-11T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Assorted improvements. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<ul>
-<li>Added a Sort Option for Date Added </li>
-<li>Simplified Means of Creating a New Collection </li>
-<li>Changing of File Extensions Enabled </li>
-</ul>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 5.5.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/02/02/notenik-5.5.0-released.html"/>
-	  <id>https://hbowie.net/2021/02/02/notenik-5.5.0-released.html</id>
-	  <published>2021-02-02T09:00:00Z</published>
-	  <updated>2021-02-02T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Assorted improvements. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<ul>
-<li>Enabled Open Link in New Window for all hyperlinks on the Display Tab </li>
-<li>Added Support for Extensive Field Renaming </li>
-<li>Added Contextual Menu to List View </li>
 </ul>
 
 	  	]]>
