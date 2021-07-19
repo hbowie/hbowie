@@ -5,117 +5,93 @@
     <description>Stuff by Herb Bowie</description>
     <language>en</language>
 	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/07/19/notenik-6.7.0-released.html</guid>
+	  <pubdate>Mon, 19 Jul 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Added support for Mathjax; enhanced Table of Contents generation for a single Note; enhanced Table of Contents generation for an entire Collection. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/07/14/notenik-6.6.0-released.html</guid>
+	  <pubdate>Wed, 14 Jul 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Added a new Markdown extension to generate a Table of Contents for an entire Collection; added another new Markdown extension to generate an Index for an entire Collection; added another new Markdown extensions to generate a Tags Outline; added a new command to Generate a Web Book from a Collection; updated the Notenik Knowledge Base to make use of all of these new features. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/kindness-by-design.html</link>>
+	  <guid>https://hbowie.net/2021/07/14/kindness-by-design.html</guid>
+	  <pubdate>Wed, 14 Jul 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Perhaps we might come around to thinking that economic kindness, instead of being something indulged in capriciously by bleeding-heart liberals who are occasionally feeling generous, should in fact be a regular practice that is designed into our societies.  <br />
+</p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/07/07/notenik-6.5.0-released.html</guid>
+	  <pubdate>Wed, 07 Jul 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Added an option to backup an entire Collection to a compressed Zip file; made improvements to Streamlined Reading, to focus only on Seq, Title and Body fields; expanded the custom URL help command to allow an ID to be included, to point to a specific Note to be initially displayed; added a What&apos;s New command beneath the Help menu to show the user the latest changes to the app. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/07/02/notenik-6.4.0-released.html</guid>
+	  <pubdate>Fri, 02 Jul 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Markdown parser support for definition lists; new Collection pref for Streamlined Reading, increasing focus on Body content on the Display tab; new Display navigation elements added when using Streamlined Reading, especially useful when using Seq and Level fields and sorting by Seq; new Notenik Knowledge Base, available from the Help menu (replacing all prior Help documentation). </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/are-political-parties-doing-us-more-harm-than-good.html</link>>
+	  <guid>https://hbowie.net/2021/06/26/are-political-parties-doing-us-more-harm-than-good.html</guid>
+	  <pubdate>Sat, 26 Jun 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>I&apos;ve been making the case lately that the Republican Party is in decline, and needs to reinvent itself. But perhaps something even more radical is needed. For when we look at the current state of our two-party system in the US, nothing about it makes any sense. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
+	  <guid>https://hbowie.net/2021/06/09/notenik-6.3.0-released.html</guid>
+	  <pubdate>Wed, 09 Jun 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>Updated the Work List field type to allow entries for &apos;Novel&apos; and &apos;Podcast&apos; (and to make it easier to enter using all lowercase letters); added a new field type of Level, to indicate the depth of a Note within the structure of a Collection; added a new command to renumber the Seq field based on sequence and Level; added a new command to generate tags that will mirror the outline structure implied by the combination of Seq and Level fields. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/appreciation/and-when-i-die.html</link>>
+	  <guid>https://hbowie.net/2021/06/03/and-when-i-die-by-laura-nyro.html</guid>
+	  <pubdate>Thu, 03 Jun 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>As children, our thoughts about death are stuff of dreams and fairy tales. As adults we learn to suppress these thoughts because we are busy getting on with things. But as teenagers, in this transition between nursery rhymes and real life, we tend to approach this topic with a frankness and curiosity that can be somewhat startling. Laura Nyro wrote her song &quot;And When I Die&quot; at the age of 17, and her refreshing treatment of the subject shows none of the reverence or piety that we learn to adopt as adults. </p>
+
+	  </description>
+	</item>
+	<item>
+	  <link>https://practopian.org/blog/hbowie/have-our-political-parties-turned-into-cults.html</link>>
+	  <guid>https://hbowie.net/2021/05/31/have-our-political-parties-turned-into-cults.html</guid>
+	  <pubdate>Mon, 31 May 2021 09:00:00 -0700</pubdate>
+	  <description>
+	  	<p>I recently wrote a piece offering &quot;Some Hard-Won Wisdom Concerning Cults.&quot; And I&apos;ve written a couple of pieces recently questioning the direction of the current Republican Party. And so, today, I want to ask the question: should either, or both, of our political parties be considered cults? </p>
+
+	  </description>
+	</item>
+	<item>
 	  <link>https://practopian.org/blog/hbowie/some-hard-won-wisdom-concerning-cults.html</link>>
 	  <guid>https://hbowie.net/2021/05/27/some-hard-won-wisdom-concerning-cults.html</guid>
 	  <pubdate>Thu, 27 May 2021 09:00:00 -0700</pubdate>
 	  <description>
 	  	<p>As someone who once belonged to an organization later determined to be a cult, I can tell you that the warning signs are not always obvious. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/05/27/notenik-6.2.0-released.html</guid>
-	  <pubdate>Thu, 27 May 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Notenik can now be invoked by a URL starting with <code>notenik://&amp;hellip;</code>. Both <code>open</code> and <code>add</code> commands are available. Get the <code>open</code> URL for a particular Note by selecting &apos;Copy Notenik URL&apos; from the contextual menu for a Note&apos;s row on the List tab. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/05/22/notenik-6.1.0-released.html</guid>
-	  <pubdate>Sat, 22 May 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>A few improvements to Script execution: </p>
-<ul>
-<li>
-<p>Scripts now run asynchronously, so that they won&apos;t block the UI &#8211; no more spinning beach balls! </p>
-</li>
-<li>
-<p>Added an indeterminate progress bar to the Scripter window to let the user know that the script is running. </p>
-</li>
-<li>
-<p>Added a browse command to the Scripting engine. This can conveniently be placed at the end of a script in order to open a localhost URL displaying the local site just updated via the script. </p>
-</li>
-</ul>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/where-exactly-are-the-republicans-headed.html</link>>
-	  <guid>https://hbowie.net/2021/05/16/where-exactly-are-the-republicans-headed.html</guid>
-	  <pubdate>Sun, 16 May 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>So now the Republicans seem doomed to act like some strange variety of lemmings, unable to turn back from the cliff after their leader has jumped, but unable to turn away. And so they spend every day of their lives dancing along the edge, trying to convince the rest of us how good life will be at the bottom. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/05/13/notenik-6.0.0-released.html</guid>
-	  <pubdate>Thu, 13 May 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>Added Collection Shortcuts and the Quick Action window. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/05/10/notenik-5.9.0-released.html</guid>
-	  <pubdate>Mon, 10 May 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<ul>
-<li>Merge templates no longer write unmodified files; </li>
-<li>Added new customization options for the Display tab; </li>
-<li>Added allfields command to Merge templates. </li>
-</ul>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/leadership-and-followership-21-key-observations.html</link>>
-	  <guid>https://hbowie.net/2021/05/06/leadership-and-followership-21-key-observations.html</guid>
-	  <pubdate>Thu, 06 May 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>I was reading recently about a couple of different situations involving traits of both leadership and followership. Some reflection on these two situations has compelled me to dispense the following bits of wisdom on the subjects of leading and following. Some of these may seem obvious, and some controversial, but they are all equally true and valuable, based on my own experience doing a fair bit of both in a number of different organizations. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/thinking-differently-about-our-economy.html</link>>
-	  <guid>https://hbowie.net/2021/04/24/thinking-differently-about-our-economy.html</guid>
-	  <pubdate>Sat, 24 Apr 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>We all know that the economy is important. We talk about it every day. But do we ever think about… how we think about it? How we visualize it? How we&apos;ve been conditioned to think about it, perhaps unknowingly? </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://practopian.org/blog/hbowie/the-importance-of-progressive-activism.html</link>>
-	  <guid>https://hbowie.net/2021/04/19/the-importance-of-progressive-activism.html</guid>
-	  <pubdate>Mon, 19 Apr 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<p>It was just a little over four years ago that I remember sitting in front of our TV with our neighbors, watching the election returns, preparing to celebrate. </p>
-
-	  </description>
-	</item>
-	<item>
-	  <link>https://apps.apple.com/us/app/notenik/id1465997984</link>>
-	  <guid>https://hbowie.net/2021/04/07/notenik-5.8.0-and-5.8.1-released.html</guid>
-	  <pubdate>Wed, 07 Apr 2021 09:00:00 -0700</pubdate>
-	  <description>
-	  	<ul>
-<li>Fixed a crash occurring when using Merge templates; </li>
-<li>Fixed a bug resulting in a double descending sort; </li>
-<li>Added page type as an additional column for notenik-index scripting input; </li>
-<li>Tweaked the Linked Tags Variable Modifier to allow specification of CSS classes; </li>
-<li>Added an Author Name variable modifier to specify last name only or last name first; </li>
-<li>Added copyfile template command; </li>
-<li>Added Image Name field label and type; </li>
-<li>Added Minutes to Read field label and type; </li>
-<li>Refactoring of file input/output routines. </li>
-</ul>
 
 	  </description>
 	</item>

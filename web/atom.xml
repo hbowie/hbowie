@@ -4,12 +4,221 @@
   <subtitle>Stuff by Herb Bowie</subtitle>
   <link href="https://hbowie.net/atom.xml" type="application/atom+xml" rel="self" />
   <link href="https://hbowie.net/" type="text/html" rel="alternate"  />
-  <updated>2021-05-29</updated>
+  <updated>2021-07-19</updated>
   <rights>Copyright © 2021, Herb Bowie</rights>
   <author>
     <name>Herb Bowie</name>
   </author>
   <id>https://hbowie.net/atom.xml</id>
+	<entry>
+	  <title>Notenik 6.7.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/07/19/notenik-6.7.0-released.html"/>
+	  <id>https://hbowie.net/2021/07/19/notenik-6.7.0-released.html</id>
+	  <published>2021-07-19T09:00:00Z</published>
+	  <updated>2021-07-19T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Added support for Mathjax; enhanced Table of Contents generation for a single Note; enhanced Table of Contents generation for an entire Collection. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Added support for Mathjax; enhanced Table of Contents generation for a single Note; enhanced Table of Contents generation for an entire Collection. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 6.6.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/07/14/notenik-6.6.0-released.html"/>
+	  <id>https://hbowie.net/2021/07/14/notenik-6.6.0-released.html</id>
+	  <published>2021-07-14T09:00:00Z</published>
+	  <updated>2021-07-14T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Added a new Markdown extension to generate a Table of Contents for an entire Collection; added another new Markdown extension to generate an Index for an entire Collection; added another new Markdown extensions to generate a Tags Outline; added a new command to Generate a Web Book from a Collection; updated the Notenik Knowledge Base to make use of all of these new features. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Added a new Markdown extension to generate a Table of Contents for an entire Collection; added another new Markdown extension to generate an Index for an entire Collection; added another new Markdown extensions to generate a Tags Outline; added a new command to Generate a Web Book from a Collection; updated the Notenik Knowledge Base to make use of all of these new features. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Kindness by Design</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/kindness-by-design.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/07/14/kindness-by-design.html"/>
+	  <id>https://hbowie.net/2021/07/14/kindness-by-design.html</id>
+	  <published>2021-07-14T09:00:00Z</published>
+	  <updated>2021-07-14T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Perhaps we might come around to thinking that economic kindness, instead of being something indulged in capriciously by bleeding-heart liberals who are occasionally feeling generous, should in fact be a regular practice that is designed into our societies.  <br />
+</p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/kindness-by-design-istock-1252584401.jpg" alt="" />
+	  	<p>Perhaps we might come around to thinking that economic kindness, instead of being something indulged in capriciously by bleeding-heart liberals who are occasionally feeling generous, should in fact be a regular practice that is designed into our societies.  <br />
+</p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 6.5.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/07/07/notenik-6.5.0-released.html"/>
+	  <id>https://hbowie.net/2021/07/07/notenik-6.5.0-released.html</id>
+	  <published>2021-07-07T09:00:00Z</published>
+	  <updated>2021-07-07T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Added an option to backup an entire Collection to a compressed Zip file; made improvements to Streamlined Reading, to focus only on Seq, Title and Body fields; expanded the custom URL help command to allow an ID to be included, to point to a specific Note to be initially displayed; added a What&apos;s New command beneath the Help menu to show the user the latest changes to the app. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Added an option to backup an entire Collection to a compressed Zip file; made improvements to Streamlined Reading, to focus only on Seq, Title and Body fields; expanded the custom URL help command to allow an ID to be included, to point to a specific Note to be initially displayed; added a What&apos;s New command beneath the Help menu to show the user the latest changes to the app. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 6.4.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/07/02/notenik-6.4.0-released.html"/>
+	  <id>https://hbowie.net/2021/07/02/notenik-6.4.0-released.html</id>
+	  <published>2021-07-02T09:00:00Z</published>
+	  <updated>2021-07-02T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Markdown parser support for definition lists; new Collection pref for Streamlined Reading, increasing focus on Body content on the Display tab; new Display navigation elements added when using Streamlined Reading, especially useful when using Seq and Level fields and sorting by Seq; new Notenik Knowledge Base, available from the Help menu (replacing all prior Help documentation). </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Markdown parser support for definition lists; new Collection pref for Streamlined Reading, increasing focus on Body content on the Display tab; new Display navigation elements added when using Streamlined Reading, especially useful when using Seq and Level fields and sorting by Seq; new Notenik Knowledge Base, available from the Help menu (replacing all prior Help documentation). </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Are Political Parties Doing Us More Harm Than Good?</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/are-political-parties-doing-us-more-harm-than-good.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/06/26/are-political-parties-doing-us-more-harm-than-good.html"/>
+	  <id>https://hbowie.net/2021/06/26/are-political-parties-doing-us-more-harm-than-good.html</id>
+	  <published>2021-06-26T09:00:00Z</published>
+	  <updated>2021-06-26T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>I&apos;ve been making the case lately that the Republican Party is in decline, and needs to reinvent itself. But perhaps something even more radical is needed. For when we look at the current state of our two-party system in the US, nothing about it makes any sense. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/are-political-parties-doing-us-more-harm-than-good-istock.jpg" alt="" />
+	  	<p>I&apos;ve been making the case lately that the Republican Party is in decline, and needs to reinvent itself. But perhaps something even more radical is needed. For when we look at the current state of our two-party system in the US, nothing about it makes any sense. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Notenik 6.3.0 Released</title>
+		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/06/09/notenik-6.3.0-released.html"/>
+	  <id>https://hbowie.net/2021/06/09/notenik-6.3.0-released.html</id>
+	  <published>2021-06-09T09:00:00Z</published>
+	  <updated>2021-06-09T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>Updated the Work List field type to allow entries for &apos;Novel&apos; and &apos;Podcast&apos; (and to make it easier to enter using all lowercase letters); added a new field type of Level, to indicate the depth of a Note within the structure of a Collection; added a new command to renumber the Seq field based on sequence and Level; added a new command to generate tags that will mirror the outline structure implied by the combination of Seq and Level fields. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://notenik.net/images/notenik.png" alt="" />
+	  	<p>Updated the Work List field type to allow entries for &apos;Novel&apos; and &apos;Podcast&apos; (and to make it easier to enter using all lowercase letters); added a new field type of Level, to indicate the depth of a Note within the structure of a Collection; added a new command to renumber the Seq field based on sequence and Level; added a new command to generate tags that will mirror the outline structure implied by the combination of Seq and Level fields. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>And When I Die by Laura Nyro</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/appreciation/and-when-i-die.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/06/03/and-when-i-die-by-laura-nyro.html"/>
+	  <id>https://hbowie.net/2021/06/03/and-when-i-die-by-laura-nyro.html</id>
+	  <published>2021-06-03T09:00:00Z</published>
+	  <updated>2021-06-03T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>As children, our thoughts about death are stuff of dreams and fairy tales. As adults we learn to suppress these thoughts because we are busy getting on with things. But as teenagers, in this transition between nursery rhymes and real life, we tend to approach this topic with a frankness and curiosity that can be somewhat startling. Laura Nyro wrote her song &quot;And When I Die&quot; at the age of 17, and her refreshing treatment of the subject shows none of the reverence or piety that we learn to adopt as adults. </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/and-when-i-die-more-than-a-new-discovery.jpg" alt="" />
+	  	<p>As children, our thoughts about death are stuff of dreams and fairy tales. As adults we learn to suppress these thoughts because we are busy getting on with things. But as teenagers, in this transition between nursery rhymes and real life, we tend to approach this topic with a frankness and curiosity that can be somewhat startling. Laura Nyro wrote her song &quot;And When I Die&quot; at the age of 17, and her refreshing treatment of the subject shows none of the reverence or piety that we learn to adopt as adults. </p>
+
+	  	]]>
+	  </content>
+	</entry>
+	<entry>
+	  <title>Have Our Political Parties Turned Into Cults?</title>
+		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/have-our-political-parties-turned-into-cults.html"/>
+	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/31/have-our-political-parties-turned-into-cults.html"/>
+	  <id>https://hbowie.net/2021/05/31/have-our-political-parties-turned-into-cults.html</id>
+	  <published>2021-05-31T09:00:00Z</published>
+	  <updated>2021-05-31T12:00:00Z</updated>
+	  <author>
+		<name>Herb Bowie</name>
+		<uri>https://hbowie.net/</uri>
+	  </author>
+	  <summary>
+	  	<p>I recently wrote a piece offering &quot;Some Hard-Won Wisdom Concerning Cults.&quot; And I&apos;ve written a couple of pieces recently questioning the direction of the current Republican Party. And so, today, I want to ask the question: should either, or both, of our political parties be considered cults? </p>
+
+	  </summary>
+	  <content type="html">
+	  	<![CDATA[
+		<img src="https://practopian.org/images/have-our-political-parties-turned-into-cults-democrats-and-republicans-arguing.jpg" alt="" />
+	  	<p>I recently wrote a piece offering &quot;Some Hard-Won Wisdom Concerning Cults.&quot; And I&apos;ve written a couple of pieces recently questioning the direction of the current Republican Party. And so, today, I want to ask the question: should either, or both, of our political parties be considered cults? </p>
+
+	  	]]>
+	  </content>
+	</entry>
 	<entry>
 	  <title>Some Hard-Won Wisdom Concerning Cults</title>
 		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/some-hard-won-wisdom-concerning-cults.html"/>
@@ -29,238 +238,6 @@
 	  	<![CDATA[
 		<img src="https://practopian.org/images/some-hard-won-wisdom-concerning-cults-brainwashing-machine.jpg" alt="" />
 	  	<p>As someone who once belonged to an organization later determined to be a cult, I can tell you that the warning signs are not always obvious. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 6.2.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/27/notenik-6.2.0-released.html"/>
-	  <id>https://hbowie.net/2021/05/27/notenik-6.2.0-released.html</id>
-	  <published>2021-05-27T09:00:00Z</published>
-	  <updated>2021-05-27T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Added a Custom URL Scheme for Notenik. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<p>Notenik can now be invoked by a URL starting with <code>notenik://&amp;hellip;</code>. Both <code>open</code> and <code>add</code> commands are available. Get the <code>open</code> URL for a particular Note by selecting &apos;Copy Notenik URL&apos; from the contextual menu for a Note&apos;s row on the List tab. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 6.1.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/22/notenik-6.1.0-released.html"/>
-	  <id>https://hbowie.net/2021/05/22/notenik-6.1.0-released.html</id>
-	  <published>2021-05-22T09:00:00Z</published>
-	  <updated>2021-05-22T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Improvements in Script Execution. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<p>A few improvements to Script execution: </p>
-<ul>
-<li>
-<p>Scripts now run asynchronously, so that they won&apos;t block the UI &#8211; no more spinning beach balls! </p>
-</li>
-<li>
-<p>Added an indeterminate progress bar to the Scripter window to let the user know that the script is running. </p>
-</li>
-<li>
-<p>Added a browse command to the Scripting engine. This can conveniently be placed at the end of a script in order to open a localhost URL displaying the local site just updated via the script. </p>
-</li>
-</ul>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Where, Exactly, Are the Republicans Headed?</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/where-exactly-are-the-republicans-headed.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/16/where-exactly-are-the-republicans-headed.html"/>
-	  <id>https://hbowie.net/2021/05/16/where-exactly-are-the-republicans-headed.html</id>
-	  <published>2021-05-16T09:00:00Z</published>
-	  <updated>2021-05-16T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>So now the Republicans seem doomed to act like some strange variety of lemmings, unable to turn back from the cliff after their leader has jumped, but unable to turn away. And so they spend every day of their lives dancing along the edge, trying to convince the rest of us how good life will be at the bottom. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/images/where-exactly-are-the-republicans-headed-lemmings.jpg" alt="" />
-	  	<p>So now the Republicans seem doomed to act like some strange variety of lemmings, unable to turn back from the cliff after their leader has jumped, but unable to turn away. And so they spend every day of their lives dancing along the edge, trying to convince the rest of us how good life will be at the bottom. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 6.0.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/13/notenik-6.0.0-released.html"/>
-	  <id>https://hbowie.net/2021/05/13/notenik-6.0.0-released.html</id>
-	  <published>2021-05-13T09:00:00Z</published>
-	  <updated>2021-05-13T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Added Collection Shortcuts and the Quick Action window. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<p>Added Collection Shortcuts and the Quick Action window. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 5.9.0 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/10/notenik-5.9.0-released.html"/>
-	  <id>https://hbowie.net/2021/05/10/notenik-5.9.0-released.html</id>
-	  <published>2021-05-10T09:00:00Z</published>
-	  <updated>2021-05-10T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Assorted improvements. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<ul>
-<li>Merge templates no longer write unmodified files; </li>
-<li>Added new customization options for the Display tab; </li>
-<li>Added allfields command to Merge templates. </li>
-</ul>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Leadership and Followership - 21 Key Observations</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/leadership-and-followership-21-key-observations.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/05/06/leadership-and-followership-21-key-observations.html"/>
-	  <id>https://hbowie.net/2021/05/06/leadership-and-followership-21-key-observations.html</id>
-	  <published>2021-05-06T09:00:00Z</published>
-	  <updated>2021-05-06T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>I was reading recently about a couple of different situations involving traits of both leadership and followership. Some reflection on these two situations has compelled me to dispense the following bits of wisdom on the subjects of leading and following. Some of these may seem obvious, and some controversial, but they are all equally true and valuable, based on my own experience doing a fair bit of both in a number of different organizations. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/images/leadership-and-followership-21-key-observations-red-king.jpg" alt="" />
-	  	<p>I was reading recently about a couple of different situations involving traits of both leadership and followership. Some reflection on these two situations has compelled me to dispense the following bits of wisdom on the subjects of leading and following. Some of these may seem obvious, and some controversial, but they are all equally true and valuable, based on my own experience doing a fair bit of both in a number of different organizations. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Thinking Differently About Our Economy</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/thinking-differently-about-our-economy.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/04/24/thinking-differently-about-our-economy.html"/>
-	  <id>https://hbowie.net/2021/04/24/thinking-differently-about-our-economy.html</id>
-	  <published>2021-04-24T09:00:00Z</published>
-	  <updated>2021-04-24T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>We all know that the economy is important. We talk about it every day. But do we ever think about… how we think about it? How we visualize it? How we&apos;ve been conditioned to think about it, perhaps unknowingly? </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/images/thinking-differently-about-our-economy-diagram.png" alt="" />
-	  	<p>We all know that the economy is important. We talk about it every day. But do we ever think about… how we think about it? How we visualize it? How we&apos;ve been conditioned to think about it, perhaps unknowingly? </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>The Importance of Progressive Activism</title>
-		<link rel="alternate" type="text/html" href="https://practopian.org/blog/hbowie/the-importance-of-progressive-activism.html"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/04/19/the-importance-of-progressive-activism.html"/>
-	  <id>https://hbowie.net/2021/04/19/the-importance-of-progressive-activism.html</id>
-	  <published>2021-04-19T09:00:00Z</published>
-	  <updated>2021-04-19T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>It was just a little over four years ago that I remember sitting in front of our TV with our neighbors, watching the election returns, preparing to celebrate. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://practopian.org/images/the-importance-of-progressive-activism-faces-of-many-colors-all-looking-right.jpg" alt="" />
-	  	<p>It was just a little over four years ago that I remember sitting in front of our TV with our neighbors, watching the election returns, preparing to celebrate. </p>
-
-	  	]]>
-	  </content>
-	</entry>
-	<entry>
-	  <title>Notenik 5.8.0 and 5.8.1 Released</title>
-		<link rel="alternate" type="text/html" href="https://apps.apple.com/us/app/notenik/id1465997984"/>
-	  <link rel="related" type="text/html" href="https://hbowie.net/2021/04/07/notenik-5.8.0-and-5.8.1-released.html"/>
-	  <id>https://hbowie.net/2021/04/07/notenik-5.8.0-and-5.8.1-released.html</id>
-	  <published>2021-04-07T09:00:00Z</published>
-	  <updated>2021-04-07T12:00:00Z</updated>
-	  <author>
-		<name>Herb Bowie</name>
-		<uri>https://hbowie.net/</uri>
-	  </author>
-	  <summary>
-	  	<p>Assorted improvements. </p>
-
-	  </summary>
-	  <content type="html">
-	  	<![CDATA[
-		<img src="https://notenik.net/images/notenik.png" alt="" />
-	  	<ul>
-<li>Fixed a crash occurring when using Merge templates; </li>
-<li>Fixed a bug resulting in a double descending sort; </li>
-<li>Added page type as an additional column for notenik-index scripting input; </li>
-<li>Tweaked the Linked Tags Variable Modifier to allow specification of CSS classes; </li>
-<li>Added an Author Name variable modifier to specify last name only or last name first; </li>
-<li>Added copyfile template command; </li>
-<li>Added Image Name field label and type; </li>
-<li>Added Minutes to Read field label and type; </li>
-<li>Refactoring of file input/output routines. </li>
-</ul>
 
 	  	]]>
 	  </content>

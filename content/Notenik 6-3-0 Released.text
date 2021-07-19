@@ -1,0 +1,28 @@
+Title:  Notenik 6.3.0 Released
+
+Tags:   notenik
+
+Link:   https://apps.apple.com/us/app/notenik/id1465997984
+
+Image Link: https://notenik.net/images/notenik.png
+
+Type:   Post
+
+Status: 9 - Closed
+
+Seq:    187
+
+Date:   09 Jun 2021
+
+Teaser: 
+
+Updated the Work List field type to allow entries for 'Novel' and 'Podcast' (and to make it easier to enter using all lowercase letters); added a new field type of Level, to indicate the depth of a Note within the structure of a Collection; added a new command to renumber the Seq field based on sequence and Level; added a new command to generate tags that will mirror the outline structure implied by the combination of Seq and Level fields.
+
+
+
+Date Added: 2021-01-24 08:47:49 -0800
+
+Body: 
+
+Updated the Work List field type to allow entries for 'Novel' and 'Podcast' (and to make it easier to enter using all lowercase letters); added a new field type of Level, to indicate the depth of a Note within the structure of a Collection; added a new command to renumber the Seq field based on sequence and Level; added a new command to generate tags that will mirror the outline structure implied by the combination of Seq and Level fields.
+
